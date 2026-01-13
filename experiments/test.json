@@ -1,0 +1,21 @@
+{
+  "id": "1768338016973",
+  "title": "test",
+  "slug": "test",
+  "product_area": "test",
+  "test_topic": "test",
+  "hypothesis": "test",
+  "results": "test",
+  "learning": "test",
+  "notes": "test",
+  "status": "draft",
+  "start_date": "2026-01-12",
+  "end_date": "2026-01-13",
+  "control_figma_url": "https://www.figma.com/design/8c6XR6p0Dh3qQkdyiXUlGl/SMS-Set-up--High-intent-Empty-States-?node-id=172-80091&t=7Tta1WhNgVKuuiSu-4",
+  "treatment_figma_url": null,
+  "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/sms_home_page_empty_state_setup_prompt/results",
+  "sheets_url": null,
+  "heap_url": null,
+  "created_at": "2026-01-13T21:00:16.973Z",
+  "updated_at": "2026-01-13T21:00:16.973Z"
+}
