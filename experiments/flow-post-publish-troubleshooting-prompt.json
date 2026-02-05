@@ -13,12 +13,13 @@
   "end_date": "2026-01-05",
   "control_figma_url": null,
   "treatment_figma_url": null,
-  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770332131966-tmd3rn.heic",
-  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770332134667-jjwnz.heic",
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770332310845-2vlca9.jpeg",
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770332315034-qdbd9.jpeg",
   "statsig_url": null,
   "sheets_url": null,
   "heap_url": null,
   "created_by": "sarah.delaney@klaviyo.com",
   "created_at": "2026-02-05T22:57:10.249Z",
-  "updated_at": "2026-02-05T22:57:10.249Z"
+  "updated_at": "2026-02-05T22:58:39.523Z",
+  "winner": null
 }
