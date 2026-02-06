@@ -15,12 +15,12 @@
   "control_figma_url": null,
   "treatment_figma_url": "https://www.figma.com/design/DPbUajVocNwdGPUD8KKxfM/SMS-Landing-page?node-id=820-6011",
   "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770338270889-r9rbql.png",
-  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770338274331-4mjjsa.png",
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770338872820-0hgfv.png",
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/f2p_2b_sms_landing_page/results",
   "sheets_url": null,
   "heap_url": null,
   "created_by": "sarah.delaney@klaviyo.com",
   "created_at": "2026-02-06T00:36:47.892Z",
-  "updated_at": "2026-02-06T00:41:05.660Z",
+  "updated_at": "2026-02-06T00:47:55.512Z",
   "winner": "control"
 }
