@@ -13,13 +13,14 @@
   "start_date": null,
   "end_date": null,
   "control_figma_url": null,
-  "treatment_figma_url": null,
-  "control_image_url": null,
-  "treatment_image_url": null,
-  "statsig_url": null,
+  "treatment_figma_url": "https://www.figma.com/design/DPbUajVocNwdGPUD8KKxfM/SMS-Landing-page?node-id=820-6011",
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770338270889-r9rbql.png",
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770338274331-4mjjsa.png",
+  "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/f2p_2b_sms_landing_page/results",
   "sheets_url": null,
   "heap_url": null,
   "created_by": "sarah.delaney@klaviyo.com",
   "created_at": "2026-02-06T00:36:47.892Z",
-  "updated_at": "2026-02-06T00:36:47.892Z"
+  "updated_at": "2026-02-06T00:38:15.257Z",
+  "winner": null
 }
