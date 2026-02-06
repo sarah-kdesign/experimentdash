@@ -4,7 +4,7 @@
   "slug": "text-messaging-empty-state-setup-prompt-home-page",
   "product_area": "Home page",
   "test_topic": "Text messaging setup",
-  "hypothesis": "We believe that providing  a new contextual CTA on the Home page, situated as part of the performance summary for customers who have not yet set up SMS will drive SMS setups and adoption by positioning SMS as a competitive advantage and direct more users to sign up and try it out. We will measure success using click rate and signup rate from this CTA, and monitor SMS adoption and activity to ensure no negative impact.",
+  "hypothesis": "We believe that providing a new contextual CTA on the Home page, situated as part of the performance summary for customers who have not yet set up SMS will drive SMS setups and adoption by positioning SMS as a competitive advantage and direct more users to sign up and try it out. We will measure success using click rate and signup rate from this CTA, and monitor SMS adoption and activity to ensure no negative impact.",
   "results": "Experiment results showed a small but significant lift in setup rates (+0.17%) over a 28 day period, with most other metrics relatively flat. The prompt was released to GA on 12/8/25.",
   "learning": null,
   "notes": null,
@@ -17,8 +17,9 @@
   "sheets_url": null,
   "heap_url": null,
   "created_at": "2026-01-13T20:56:17.986Z",
-  "updated_at": "2026-02-05T23:03:48.459Z",
+  "updated_at": "2026-02-06T00:29:13.847Z",
   "control_image_url": null,
   "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770213152289-fnojh.png",
-  "winner": "treatment"
+  "winner": "treatment",
+  "summary": "Does providing a contextual CTA on home drive more SMS set-ups? Yes, it does."
 }
