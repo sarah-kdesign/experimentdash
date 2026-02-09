@@ -4,7 +4,7 @@
   "summary": "Does updating the existing outdated SMS settings page increase SMS sign-up? No, it did not. ",
   "slug": "sms-landing-page-in-settings",
   "product_area": "Settings",
-  "test_topic": "SMS adoption",
+  "test_topic": "texting adoption",
   "hypothesis": "This experiment is for the release of an updated pre sign-up SMS settings page which includes a pricing guide, links to academy articles, and case studies for SMS.  We believe that updating the existing outdated page will increase the SMS sign up conversion rate order to ultimately generate more SMS usage and more free to paid conversions for SMS.",
   "results": null,
   "learning": null,
@@ -21,6 +21,6 @@
   "heap_url": null,
   "created_by": "sarah.delaney@klaviyo.com",
   "created_at": "2026-02-06T00:36:47.892Z",
-  "updated_at": "2026-02-06T00:47:55.512Z",
+  "updated_at": "2026-02-09T19:43:09.253Z",
   "winner": "control"
 }
