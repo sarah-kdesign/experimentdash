@@ -7,7 +7,7 @@
   "test_topic": "Texting adoption",
   "hypothesis": "This experiment is for the release of an updated pre sign-up SMS settings page which includes a pricing guide, links to academy articles, and case studies for SMS.  We believe that updating the existing outdated page will increase the SMS sign up conversion rate order to ultimately generate more SMS usage and more free to paid conversions for SMS.",
   "results": null,
-  "learning": null,
+  "learning": "Remember that the number of actions on a page can influence user behavior. Consider restricting possible diverting paths to focus user attention and action. ",
   "notes": null,
   "status": "completed",
   "start_date": "2025-09-05",
@@ -19,8 +19,8 @@
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/f2p_2b_sms_landing_page/results",
   "sheets_url": null,
   "heap_url": null,
-  "created_by": "sarah.delaney@klaviyo.com",
+  "winner": "control",
+  "guidelines": null,
   "created_at": "2026-02-06T00:36:47.892Z",
-  "updated_at": "2026-02-09T19:43:45.556Z",
-  "winner": "control"
+  "updated_at": "2026-02-09T21:30:11.393Z"
 }
