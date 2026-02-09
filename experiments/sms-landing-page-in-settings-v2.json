@@ -15,12 +15,30 @@
   "control_figma_url": null,
   "treatment_figma_url": "https://www.figma.com/design/DPbUajVocNwdGPUD8KKxfM/SMS-Landing-page?node-id=1650-122508",
   "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770338892660-fsyf6.png",
+  "control_description": null,
   "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770338896816-rhpnzs.png",
+  "treatment_description": null,
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/f2p_2b_sms_landing_page_v2/results",
   "sheets_url": null,
   "heap_url": null,
-  "created_by": "sarah.delaney@klaviyo.com",
+  "winner": null,
+  "guidelines": null,
+  "team_members": [
+    {
+      "id": "1770680293646",
+      "name": "Karen Cheng",
+      "role": "Product manager",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770680382990-4sz69.png",
+      "profile_url": "https://klaviyo.enterprise.slack.com/team/U07SATY3DJT"
+    },
+    {
+      "id": "1770680387207",
+      "name": "Amy Chen",
+      "role": "engineer",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770680448815-db5dc.png",
+      "profile_url": "https://klaviyo.enterprise.slack.com/team/U02BFKM7SQ4"
+    }
+  ],
   "created_at": "2026-02-06T00:41:52.412Z",
-  "updated_at": "2026-02-09T19:44:31.143Z",
-  "winner": null
+  "updated_at": "2026-02-09T23:41:10.497Z"
 }
