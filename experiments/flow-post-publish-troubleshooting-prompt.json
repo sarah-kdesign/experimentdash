@@ -1,6 +1,6 @@
 {
   "id": "1770332230249",
-  "title": "Flow post-publish troubleshooting prompt",
+  "title": "Flow post-publish prompt",
   "slug": "flow-post-publish-troubleshooting-prompt",
   "product_area": "Flows",
   "test_topic": "Activation",
@@ -20,7 +20,7 @@
   "heap_url": null,
   "created_by": "sarah.delaney@klaviyo.com",
   "created_at": "2026-02-05T22:57:10.249Z",
-  "updated_at": "2026-02-06T00:30:06.203Z",
+  "updated_at": "2026-02-09T17:51:04.321Z",
   "winner": "treatment",
   "summary": "Does prompting users to take other actions after their flow is live drive stickier live flows? Yes, it did."
 }
