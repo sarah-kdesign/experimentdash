@@ -4,7 +4,7 @@
   "summary": "If we remove a secondary CTA, will we drive more action on the primary CTA?",
   "slug": "sms-landing-page-in-settings-v2",
   "product_area": "Settings",
-  "test_topic": "texting adoption",
+  "test_topic": "Texting adoption",
   "hypothesis": "This experiment is for the release of an updated pre sign-up SMS settings page which includes links to academy articles and case studies for SMS.  We believe that updating the existing outdated page will increase the SMS sign up conversion rate order to ultimately generate more SMS usage and more free to paid conversions for SMS.\n\nThis is the second iteration of this experiment. The link to the pricing guide has been removed in this version. Our hypothesis is that high intent users were getting distracted by the pricing guide, which takes them away from the page and the main action of setting up SMS.",
   "results": null,
   "learning": null,
@@ -21,6 +21,6 @@
   "heap_url": null,
   "created_by": "sarah.delaney@klaviyo.com",
   "created_at": "2026-02-06T00:41:52.412Z",
-  "updated_at": "2026-02-09T19:42:16.415Z",
+  "updated_at": "2026-02-09T19:44:31.143Z",
   "winner": null
 }
