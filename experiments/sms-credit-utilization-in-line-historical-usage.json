@@ -3,7 +3,7 @@
   "title": "SMS credit utilization: In-line usage",
   "slug": "sms-credit-utilization-in-line-historical-usage",
   "product_area": "Flows list view page",
-  "test_topic": "SMS adoption",
+  "test_topic": "Texting adoption",
   "hypothesis": "We believe that including a prompt about text credit underutilization, in close proximity to a flow that a customer could activate to apply their credits, will increase adoption of text messaging - especially amongst those underutilizing their credits.",
   "results": null,
   "learning": null,
@@ -20,7 +20,7 @@
   "heap_url": "https://heapanalytics.com/app/env/91017801/dashboard/Flows-List-Page-Add-SMS-to-Existing-Email-Flow-V2-446159",
   "created_by": "sarah.delaney@klaviyo.com",
   "created_at": "2026-02-06T00:10:11.401Z",
-  "updated_at": "2026-02-09T18:47:41.327Z",
+  "updated_at": "2026-02-09T19:44:44.484Z",
   "winner": null,
   "summary": "Does prompting SMS credit underutilization increase SMS usage?"
 }
