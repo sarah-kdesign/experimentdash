@@ -23,6 +23,41 @@
   "heap_url": null,
   "winner": "control",
   "guidelines": null,
+  "team_members": [
+    {
+      "id": "1770685227308",
+      "name": "Karen Cheng",
+      "role": "Product",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770680382990-4sz69.png",
+      "profile_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1764966446257899?thread_ts=1757095022.650579&cid=C013ZJ231B3"
+    },
+    {
+      "id": "1770685230880",
+      "name": "Amy Chen",
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770684025573-9s67f.png",
+      "profile_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1764966446257899?thread_ts=1757095022.650579&cid=C013ZJ231B3"
+    },
+    {
+      "id": "1770685233792",
+      "name": "Alex Gardiner",
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770684385621-97odp.png"
+    },
+    {
+      "id": "1770685235047",
+      "name": "Nathan Grabowski",
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770684342951-amc8x.png"
+    },
+    {
+      "id": "1770685236149",
+      "name": "Tessa Waters",
+      "role": "Data science",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770684455802-e5pjwd.png"
+    }
+  ],
+  "slack_channel_url": null,
   "created_at": "2026-02-06T00:36:47.892Z",
-  "updated_at": "2026-02-09T21:58:31.913Z"
+  "updated_at": "2026-02-10T01:05:59.298Z"
 }
