@@ -23,8 +23,39 @@
   "heap_url": null,
   "winner": "treatment",
   "guidelines": null,
-  "team_members": null,
+  "team_members": [
+    {
+      "id": "1770687561846",
+      "name": "Zahr Lyttle",
+      "role": "Design",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770687576583-md1j2j.png"
+    },
+    {
+      "id": "1770687552555",
+      "name": "Tom Nolan",
+      "role": "Product",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770687559518-e9jwke.png"
+    },
+    {
+      "id": "1770687522900",
+      "name": "Evan Lamberg",
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770687536844-rw9eb.png"
+    },
+    {
+      "id": "1770687454717",
+      "name": "Philip Yu",
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770687521406-g36pla.png"
+    },
+    {
+      "id": "1770687453297",
+      "name": "Nathan Grabowski",
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770684342951-amc8x.png"
+    }
+  ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1762960512399649",
   "created_at": "2026-02-05T22:57:10.249Z",
-  "updated_at": "2026-02-10T01:36:46.430Z"
+  "updated_at": "2026-02-10T01:39:39.998Z"
 }
