@@ -1,6 +1,7 @@
 {
   "id": "1770336326202",
   "title": "Reduced billing prompt",
+  "summary": "Does reducing actions on home increase adoption of activation behaviors? It did not.",
   "slug": "reduced-billing-prompt",
   "product_area": "Home",
   "test_topic": "Activation",
@@ -14,13 +15,16 @@
   "control_figma_url": null,
   "treatment_figma_url": null,
   "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770336256858-hk8u1.png",
+  "control_description": null,
   "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770336260279-75aehkn.png",
+  "treatment_description": null,
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/activation_reduce_billing_prompt/results",
   "sheets_url": null,
   "heap_url": null,
-  "created_by": "sarah.delaney@klaviyo.com",
-  "created_at": "2026-02-06T00:05:26.202Z",
-  "updated_at": "2026-02-06T00:29:43.352Z",
   "winner": "control",
-  "summary": "Does reducing actions on home increase adoption of activation behaviors? It did not."
+  "guidelines": null,
+  "team_members": null,
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1765223628984869",
+  "created_at": "2026-02-06T00:05:26.202Z",
+  "updated_at": "2026-02-10T01:34:51.131Z"
 }
