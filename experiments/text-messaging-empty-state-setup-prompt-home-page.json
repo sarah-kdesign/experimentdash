@@ -1,6 +1,7 @@
 {
   "id": "1768337777986",
   "title": "Texting setup prompt, home",
+  "summary": "Does providing a contextual CTA on home drive more SMS set-ups? Yes, it did.",
   "slug": "text-messaging-empty-state-setup-prompt-home-page",
   "product_area": "Home page",
   "test_topic": "Texting setup",
@@ -13,13 +14,17 @@
   "end_date": "2025-12-08",
   "control_figma_url": null,
   "treatment_figma_url": "https://www.figma.com/design/8c6XR6p0Dh3qQkdyiXUlGl/SMS-Set-up--High-intent-Empty-States-?node-id=172-80091&t=7Tta1WhNgVKuuiSu-4",
+  "control_image_url": null,
+  "control_description": null,
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770213152289-fnojh.png",
+  "treatment_description": null,
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/sms_home_page_empty_state_setup_prompt/results",
   "sheets_url": null,
   "heap_url": null,
-  "created_at": "2026-01-13T20:56:17.986Z",
-  "updated_at": "2026-02-09T19:45:03.529Z",
-  "control_image_url": null,
-  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770213152289-fnojh.png",
   "winner": "treatment",
-  "summary": "Does providing a contextual CTA on home drive more SMS set-ups? Yes, it did."
+  "guidelines": null,
+  "team_members": null,
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1761337320478499",
+  "created_at": "2026-01-13T20:56:17.986Z",
+  "updated_at": "2026-02-10T01:31:00.046Z"
 }
