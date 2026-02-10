@@ -1,6 +1,7 @@
 {
   "id": "1770332230249",
   "title": "Flow post-publish prompt",
+  "summary": "Does prompting users to take other actions after their flow is live drive stickier live flows? Yes, it did.",
   "slug": "flow-post-publish-troubleshooting-prompt",
   "product_area": "Flows",
   "test_topic": "Activation",
@@ -14,13 +15,16 @@
   "control_figma_url": null,
   "treatment_figma_url": null,
   "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770332310845-2vlca9.jpeg",
+  "control_description": null,
   "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770332315034-qdbd9.jpeg",
+  "treatment_description": null,
   "statsig_url": null,
   "sheets_url": null,
   "heap_url": null,
-  "created_by": "sarah.delaney@klaviyo.com",
-  "created_at": "2026-02-05T22:57:10.249Z",
-  "updated_at": "2026-02-09T17:51:04.321Z",
   "winner": "treatment",
-  "summary": "Does prompting users to take other actions after their flow is live drive stickier live flows? Yes, it did."
+  "guidelines": null,
+  "team_members": null,
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1762960512399649",
+  "created_at": "2026-02-05T22:57:10.249Z",
+  "updated_at": "2026-02-10T01:36:46.430Z"
 }
