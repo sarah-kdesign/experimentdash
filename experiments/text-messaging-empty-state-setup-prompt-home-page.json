@@ -23,8 +23,28 @@
   "heap_url": null,
   "winner": "treatment",
   "guidelines": null,
-  "team_members": null,
+  "team_members": [
+    {
+      "id": "1770687073838",
+      "name": "Karen Cheng",
+      "role": "Product",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770680382990-4sz69.png",
+      "profile_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1764966446257899?thread_ts=1757095022.650579&cid=C013ZJ231B3"
+    },
+    {
+      "id": "1770687075827",
+      "name": "Kritika Uprety",
+      "role": "Design",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770684108187-rvl0wd.png"
+    },
+    {
+      "id": "1770687095213",
+      "name": "Robin Bele",
+      "role": "Engineering",
+      "avatar_url": null
+    }
+  ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1761337320478499",
   "created_at": "2026-01-13T20:56:17.986Z",
-  "updated_at": "2026-02-10T01:31:00.046Z"
+  "updated_at": "2026-02-10T01:31:43.892Z"
 }
