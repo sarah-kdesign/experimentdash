@@ -1,11 +1,11 @@
 {
   "id": "1770850322508",
   "title": "Text setup guide in nav",
-  "summary": null,
+  "summary": "Does add a setup guide nav item, for those eligible, increase engagement? Yes, it does.",
   "slug": "text-setup-guide-in-nav",
   "product_area": "Navigation",
   "test_topic": "Text adoption",
-  "hypothesis": null,
+  "hypothesis": "<p>We believe that adding a navigation item dedicated to the SMS Setup Guide for all companies that are eligible for the SMS Guide will result in a lift in nav-based setup engagement, and increase SMS verification and consent task completion because of the improved visibility and access to the setup guide. We will measure success using New SMS Sends, and monitor New SMS Consents, New SMS Flows, and New SMS Campaigns to ensure no negative impact.</p>",
   "results": null,
   "learning": null,
   "notes": null,
@@ -40,5 +40,5 @@
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1770401015073529?thread_ts=1765982650.913619&cid=C013ZJ231B3",
   "created_at": "2026-02-11T22:52:02.508Z",
-  "updated_at": "2026-02-11T23:17:16.442Z"
+  "updated_at": "2026-02-11T23:18:22.544Z"
 }
