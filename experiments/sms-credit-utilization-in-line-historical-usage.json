@@ -1,6 +1,7 @@
 {
   "id": "1770336611401",
   "title": "SMS credit utilization: In-line usage",
+  "summary": "Does prompting SMS credit underutilization increase SMS usage?",
   "slug": "sms-credit-utilization-in-line-historical-usage",
   "product_area": "Flows list view page",
   "test_topic": "Texting adoption",
@@ -14,13 +15,37 @@
   "control_figma_url": null,
   "treatment_figma_url": "https://www.figma.com/design/yh7mwJMbhDWrESUwLPfEk9/Text-Credit-Utilization-Concepts?node-id=8459-69070&t=ZLalPkAMCqmlyJsr-4",
   "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770336924910-ipzktw.png",
+  "control_description": null,
   "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770336932748-qhkemj.png",
+  "treatment_description": null,
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/adoption_in_line_historical_usage/results",
   "sheets_url": null,
   "heap_url": "https://heapanalytics.com/app/env/91017801/dashboard/Flows-List-Page-Add-SMS-to-Existing-Email-Flow-V2-446159",
-  "created_by": "sarah.delaney@klaviyo.com",
-  "created_at": "2026-02-06T00:10:11.401Z",
-  "updated_at": "2026-02-09T19:44:47.913Z",
   "winner": null,
-  "summary": "Does prompting SMS credit underutilization increase SMS usage?"
+  "guidelines": null,
+  "team_members": [
+    {
+      "id": "1770845491101",
+      "name": "Amy Chen",
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770684025573-9s67f.png",
+      "profile_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1764966446257899?thread_ts=1757095022.650579&cid=C013ZJ231B3"
+    },
+    {
+      "id": "1770845355103",
+      "name": "Calvin Stewart",
+      "role": "Design",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770845397789-ci8e7c.png"
+    },
+    {
+      "id": "1770845352629",
+      "name": "Karen Cheng",
+      "role": "Product",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770680382990-4sz69.png",
+      "profile_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1764966446257899?thread_ts=1757095022.650579&cid=C013ZJ231B3"
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1749822449682769",
+  "created_at": "2026-02-06T00:10:11.401Z",
+  "updated_at": "2026-02-11T21:31:50.364Z"
 }
