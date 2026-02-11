@@ -14,17 +14,31 @@
   "end_date": "2026-02-03",
   "control_figma_url": null,
   "treatment_figma_url": null,
-  "control_image_url": null,
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770851064589-np0num.png",
   "control_description": null,
-  "treatment_image_url": null,
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770851059229-29ulsk.png",
   "treatment_description": null,
-  "statsig_url": null,
+  "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/adoption_sms_guide_nav_item/results",
   "sheets_url": null,
   "heap_url": null,
-  "winner": null,
+  "winner": "treatment",
   "guidelines": null,
-  "team_members": null,
-  "slack_channel_url": null,
+  "team_members": [
+    {
+      "id": "1770851133719",
+      "name": "Irene Hnatiw",
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770851190212-tbu2ie.png"
+    },
+    {
+      "id": "1770851132520",
+      "name": "Karen Cheng",
+      "role": "Product",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770680382990-4sz69.png",
+      "profile_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1764966446257899?thread_ts=1757095022.650579&cid=C013ZJ231B3"
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1770401015073529?thread_ts=1765982650.913619&cid=C013ZJ231B3",
   "created_at": "2026-02-11T22:52:02.508Z",
-  "updated_at": "2026-02-11T22:55:39.239Z"
+  "updated_at": "2026-02-11T23:09:09.772Z"
 }
