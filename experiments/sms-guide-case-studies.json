@@ -5,10 +5,10 @@
   "slug": "sms-guide-case-studies",
   "product_area": "SMS setup guide",
   "test_topic": "Texting adoption",
-  "hypothesis": "We believe that adding customer case studies next to SMS tasks will increase adoption of those tasks. ",
+  "hypothesis": "<p>We believe that adding customer case studies next to SMS tasks will increase adoption of those tasks.</p>",
   "results": null,
   "learning": null,
-  "notes": "The top finding from product research, (2025 Q3) SMS Credit Underutilization (Phase 2), was  \" To teach them strategy: Highlight SMS strategies from other brands\".  This finding deeply informed our initial hypothesis.",
+  "notes": "<p>The top finding from product research, <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary underline underline-offset-2 cursor-pointer\" href=\"https://docs.google.com/document/d/1ZeRDkrq4o7_19HL31JZG88atizqGKeqU1bqFOFj0B-Y/edit?usp=sharing\">(2025 Q3) SMS Credit Underutilization (Phase 2)</a>, was \" To teach them strategy: Highlight SMS strategies from other brands\". This finding deeply informed our initial hypothesis.</p>",
   "status": "running",
   "start_date": "2025-12-10",
   "end_date": null,
@@ -64,5 +64,5 @@
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1765383960797009",
   "created_at": "2026-02-11T21:42:00.483Z",
-  "updated_at": "2026-02-11T21:47:35.164Z"
+  "updated_at": "2026-02-11T22:13:22.127Z"
 }
