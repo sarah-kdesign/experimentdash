@@ -23,9 +23,46 @@
   "heap_url": null,
   "winner": null,
   "guidelines": null,
-  "team_members": null,
-  "slack_channel_url": null,
-  "created_by": "sarah.delaney@klaviyo.com",
+  "team_members": [
+    {
+      "id": "1770846343436",
+      "name": "Robin Bele",
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770846370422-wccqkk.png"
+    },
+    {
+      "id": "1770846197886",
+      "name": "Pallas Catenella West",
+      "role": "Research",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770846259443-6zk9y7.png"
+    },
+    {
+      "id": "1770846191345",
+      "name": "Sarah Delaney",
+      "role": "Design",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770846264681-rogolk.png"
+    },
+    {
+      "id": "1770846147948",
+      "name": "Valerie Mensah-King",
+      "role": "Research",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770846268057-wjzbql.png"
+    },
+    {
+      "id": "1770846145255",
+      "name": "Karen Cheng",
+      "role": "Product",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770680382990-4sz69.png",
+      "profile_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1764966446257899?thread_ts=1757095022.650579&cid=C013ZJ231B3"
+    },
+    {
+      "id": "1770846142167",
+      "name": "Kritika Uprety",
+      "role": "Design",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770684108187-rvl0wd.png"
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1765383960797009",
   "created_at": "2026-02-11T21:42:00.483Z",
-  "updated_at": "2026-02-11T21:42:00.483Z"
+  "updated_at": "2026-02-11T21:46:16.755Z"
 }
