@@ -15,9 +15,9 @@
   "control_figma_url": null,
   "treatment_figma_url": null,
   "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770851064589-np0num.png",
-  "control_description": null,
+  "control_description": "Tested across 289,764 accounts, with 145,366 accounts exposed to the control condition.",
   "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770851059229-29ulsk.png",
-  "treatment_description": null,
+  "treatment_description": "Tested across 289,764 accounts, with 144,398 accounts exposed to the control condition.",
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/adoption_sms_guide_nav_item/results",
   "sheets_url": null,
   "heap_url": null,
@@ -39,6 +39,7 @@
     }
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1770401015073529?thread_ts=1765982650.913619&cid=C013ZJ231B3",
+  "created_by": null,
   "created_at": "2026-02-11T22:52:02.508Z",
-  "updated_at": "2026-02-11T23:18:22.544Z"
+  "updated_at": "2026-02-11T23:21:44.354Z"
 }
