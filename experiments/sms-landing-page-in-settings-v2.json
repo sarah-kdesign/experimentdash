@@ -1,11 +1,11 @@
 {
   "id": "1770338512412",
-  "title": "SMS landing page in settings (v2)",
+  "title": "Texting landing page in settings (v2)",
   "summary": "If we remove a secondary CTA, will we drive more action on the primary CTA?",
   "slug": "sms-landing-page-in-settings-v2",
   "product_area": "Settings",
   "test_topic": "Texting adoption",
-  "hypothesis": "This experiment is for the release of an updated pre sign-up SMS settings page which includes links to academy articles and case studies for SMS.  We believe that updating the existing outdated page will increase the SMS sign up conversion rate order to ultimately generate more SMS usage and more free to paid conversions for SMS.\n\nThis is the second iteration of this experiment. The link to the pricing guide has been removed in this version. Our hypothesis is that high intent users were getting distracted by the pricing guide, which takes them away from the page and the main action of setting up SMS.",
+  "hypothesis": "<p>This experiment is for the release of an updated pre sign-up SMS settings page which includes links to academy articles and case studies for SMS. We believe that updating the existing outdated page will increase the SMS sign up conversion rate order to ultimately generate more SMS usage and more free to paid conversions for SMS. This is the second iteration of this experiment. The link to the pricing guide has been removed in this version. Our hypothesis is that high intent users were getting distracted by the pricing guide, which takes them away from the page and the main action of setting up SMS.</p>",
   "results": null,
   "learning": null,
   "notes": null,
@@ -65,5 +65,5 @@
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1764966446257899?thread_ts=1757095022.650579&cid=C013ZJ231B3",
   "created_at": "2026-02-06T00:41:52.412Z",
-  "updated_at": "2026-02-10T00:47:46.350Z"
+  "updated_at": "2026-02-11T22:54:01.896Z"
 }
