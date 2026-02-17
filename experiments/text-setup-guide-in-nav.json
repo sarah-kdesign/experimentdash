@@ -6,7 +6,7 @@
   "product_area": "Navigation",
   "test_topic": "Text adoption",
   "hypothesis": "<p>We believe that adding a navigation item dedicated to the SMS Setup Guide for all companies that are eligible for the SMS Guide will result in a lift in nav-based setup engagement, and increase SMS verification and consent task completion because of the improved visibility and access to the setup guide. We will measure success using New SMS Sends, and monitor New SMS Consents, New SMS Flows, and New SMS Campaigns to ensure no negative impact.</p>",
-  "results": "<ul><li><p>+1.6% lift in the Text Setup Guide total click rate</p></li><li><p>7D SMS Sends are positive (stat sig)</p></li><li><p>28D SMS Sends trending positive with a +0.43% lift (not stat sig)</p></li></ul><p></p>",
+  "results": "<ul class=\"list-disc pl-4\"><li><p>+1.6% lift in the Text Setup Guide total click rate</p></li><li><p>7D SMS Sends are positive (stat sig)</p></li><li><p>28D SMS Sends trending positive with a +0.43% lift (not stat sig)</p></li></ul><p></p>",
   "learning": null,
   "notes": null,
   "status": "completed",
@@ -39,7 +39,8 @@
     }
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1770401015073529?thread_ts=1765982650.913619&cid=C013ZJ231B3",
+  "source_id": "SMS Set Up Guide in Nav",
   "created_by": null,
   "created_at": "2026-02-11T22:52:02.508Z",
-  "updated_at": "2026-02-11T23:26:46.798Z"
+  "updated_at": "2026-02-17T19:40:24.029Z"
 }
