@@ -9,16 +9,16 @@
   "results": null,
   "learning": null,
   "notes": null,
-  "status": "completed",
-  "start_date": "2025-12-04",
-  "end_date": "2026-02-12",
+  "status": "GA",
+  "start_date": "12/4/2025",
+  "end_date": "2/13/26",
   "control_figma_url": null,
   "treatment_figma_url": "https://www.figma.com/design/DPbUajVocNwdGPUD8KKxfM/SMS-Landing-page?node-id=1650-122508",
   "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770338892660-fsyf6.png",
   "control_description": null,
   "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770338896816-rhpnzs.png",
   "treatment_description": null,
-  "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/f2p_2b_sms_landing_page_v2/summary",
+  "statsig_url": "Stat Sig Dashboard",
   "sheets_url": null,
   "heap_url": null,
   "winner": "treatment",
@@ -67,5 +67,5 @@
   "source_id": "SMS Landing Page V2 (Without Pricing Button)",
   "created_by": null,
   "created_at": "2026-02-06T00:41:52.412Z",
-  "updated_at": "2026-02-17T19:39:54.865Z"
+  "updated_at": "2026-02-17T20:13:59.240Z"
 }
