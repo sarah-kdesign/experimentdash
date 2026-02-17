@@ -9,16 +9,16 @@
   "results": null,
   "learning": null,
   "notes": null,
-  "status": "running",
-  "start_date": "2025-11-05",
-  "end_date": null,
+  "status": "Not GAed",
+  "start_date": "11/05/2025",
+  "end_date": "2/12/26",
   "control_figma_url": null,
   "treatment_figma_url": "https://www.figma.com/design/yh7mwJMbhDWrESUwLPfEk9/Text-Credit-Utilization-Concepts?node-id=8459-69070&t=ZLalPkAMCqmlyJsr-4",
   "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770336924910-ipzktw.png",
   "control_description": null,
   "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770336932748-qhkemj.png",
   "treatment_description": null,
-  "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/adoption_in_line_historical_usage/results",
+  "statsig_url": "Stat Sig Dashboard",
   "sheets_url": null,
   "heap_url": "https://heapanalytics.com/app/env/91017801/dashboard/Flows-List-Page-Add-SMS-to-Existing-Email-Flow-V2-446159",
   "winner": null,
@@ -49,5 +49,5 @@
   "source_id": "SMS Credit Utilization : In-line Historical Usage",
   "created_by": null,
   "created_at": "2026-02-06T00:10:11.401Z",
-  "updated_at": "2026-02-17T19:37:29.912Z"
+  "updated_at": "2026-02-17T20:14:00.141Z"
 }
