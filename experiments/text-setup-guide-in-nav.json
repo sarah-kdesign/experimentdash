@@ -9,16 +9,16 @@
   "results": "<ul class=\"list-disc pl-4\"><li><p>+1.6% lift in the Text Setup Guide total click rate</p></li><li><p>7D SMS Sends are positive (stat sig)</p></li><li><p>28D SMS Sends trending positive with a +0.43% lift (not stat sig)</p></li></ul><p></p>",
   "learning": null,
   "notes": null,
-  "status": "completed",
-  "start_date": "2025-12-12",
-  "end_date": "2026-02-03",
+  "status": "GA",
+  "start_date": "12/12/2025",
+  "end_date": "02/03/2026",
   "control_figma_url": null,
   "treatment_figma_url": null,
   "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770852400726-z6evvn.png",
   "control_description": "Tested across 289,764 accounts, with 145,366 accounts exposed to the control condition.",
   "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770852391013-g9gu8s.png",
   "treatment_description": "Tested across 289,764 accounts, with 144,398 accounts exposed to the control condition.",
-  "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/adoption_sms_guide_nav_item/results",
+  "statsig_url": "Stat Sig Dashboard",
   "sheets_url": null,
   "heap_url": null,
   "winner": "treatment",
@@ -42,5 +42,5 @@
   "source_id": "SMS Set Up Guide in Nav",
   "created_by": null,
   "created_at": "2026-02-11T22:52:02.508Z",
-  "updated_at": "2026-02-17T19:40:24.029Z"
+  "updated_at": "2026-02-17T20:13:58.819Z"
 }
