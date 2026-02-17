@@ -5,8 +5,8 @@
   "slug": "text-messaging-empty-state-setup-prompt-home-page",
   "product_area": "Home page",
   "test_topic": "Texting setup",
-  "hypothesis": "We believe that providing a new contextual CTA on the Home page, situated as part of the performance summary for customers who have not yet set up SMS will drive SMS setups and adoption by positioning SMS as a competitive advantage and direct more users to sign up and try it out. We will measure success using click rate and signup rate from this CTA, and monitor SMS adoption and activity to ensure no negative impact.",
-  "results": "Experiment results showed a small but significant lift in setup rates (+0.17%) over a 28 day period, with most other metrics relatively flat. The prompt was released to GA on 12/8/25.",
+  "hypothesis": "<p>We believe that providing a new contextual CTA on the Home page, situated as part of the performance summary for customers who have not yet set up SMS will drive SMS setups and adoption by positioning SMS as a competitive advantage and direct more users to sign up and try it out. We will measure success using click rate and signup rate from this CTA, and monitor SMS adoption and activity to ensure no negative impact.</p>",
+  "results": "<p>Experiment results showed a small but significant lift in setup rates (+0.17%) over a 28 day period, with most other metrics relatively flat. The prompt was released to GA on 12/8/25.</p>",
   "learning": null,
   "notes": null,
   "status": "completed",
@@ -45,6 +45,8 @@
     }
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1761337320478499",
+  "source_id": "SMS Set Up Empty States : Home",
+  "created_by": null,
   "created_at": "2026-01-13T20:56:17.986Z",
-  "updated_at": "2026-02-10T01:31:43.892Z"
+  "updated_at": "2026-02-17T19:36:28.051Z"
 }
