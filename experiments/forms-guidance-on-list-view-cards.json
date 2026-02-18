@@ -1,14 +1,14 @@
 {
   "id": "1771451447448",
   "title": "Forms guidance on list view cards",
-  "summary": "Does adding recommendation cards below forms list view increase adoption of forms healthy usage actions? It did not. ",
+  "summary": "Do rec cards on forms list view increase adoption of recs? It did not. ",
   "slug": "forms-guidance-on-list-view-cards",
   "product_area": "Forms",
   "test_topic": "Recommendation adoption",
   "hypothesis": null,
   "results": "<p>Overall, there was no detectable difference in form creation and publish rates between treatment and control.</p>",
-  "learning": "<p>Although flows list view cards are a consistently effective intervention, a similar design was not effective for forms list view. </p>",
-  "notes": "<p>Accounts that would benefit most from forms list view recommendations were relatively unlikely to visit the forms list view page. For future designs, dig into accounts with the most headroom and ensure that those target accounts visit the area of intervention relatively frequently. </p>",
+  "learning": "<p>Although flows list view cards are a consistently effective intervention, a similar design was not effective for forms list view.</p>",
+  "notes": "<p>Accounts that would benefit most from forms list view recommendations were relatively unlikely to visit the forms list view page. For future designs, dig into accounts with the most headroom and ensure that those target accounts visit the area of intervention relatively frequently.</p>",
   "status": "completed",
   "start_date": "2024-12-19",
   "end_date": "2025-01-20",
@@ -29,5 +29,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-02-18T21:50:47.448Z",
-  "updated_at": "2026-02-18T22:15:55.117Z"
+  "updated_at": "2026-02-18T22:17:00.822Z"
 }
