@@ -1,7 +1,7 @@
 {
   "id": "1770338207892",
   "title": "Texting landing page in settings (v1)",
-  "summary": "Does updating the existing outdated texting settings page increase texting sign-up? No, it did not. ",
+  "summary": "Does updating the texting settings page increase texting sign-up? No, it did not. ",
   "slug": "sms-landing-page-in-settings",
   "product_area": "Settings",
   "test_topic": "Texting adoption",
@@ -21,6 +21,7 @@
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/f2p_2b_sms_landing_page/results",
   "sheets_url": null,
   "heap_url": null,
+  "outcome": "ga",
   "winner": "control",
   "guidelines": null,
   "team_members": [
@@ -61,5 +62,5 @@
   "source_id": "SMS Landing Page V1 (With Pricing Button)",
   "created_by": null,
   "created_at": "2026-02-06T00:36:47.892Z",
-  "updated_at": "2026-02-17T19:38:36.819Z"
+  "updated_at": "2026-02-18T22:18:37.432Z"
 }
