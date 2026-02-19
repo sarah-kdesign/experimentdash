@@ -1,12 +1,12 @@
 {
   "id": "1770332230249",
   "title": "Flow post-publish prompt",
-  "summary": "Does prompting users to take other actions after their flow is live drive stickier live flows? Yes, it did.",
+  "summary": "Does prompting action after a flow is live drive stickier live flows? Yes, it did.",
   "slug": "flow-post-publish-troubleshooting-prompt",
   "product_area": "Flows",
   "test_topic": "Activation",
-  "hypothesis": "We believe many users are un-publishing or misconfiguring their flow because they are not confident it is configured correctly.\n\nWe predict that if we give users other actions to take after their flow is live, they will be more likely to leave published and get value from their flow.",
-  "results": "We observed that non-time bound flow sends for accounts that have published a flow had a lift of 2% (statistically significant).",
+  "hypothesis": "<p>We believe many users are un-publishing or misconfiguring their flow because they are not confident it is configured correctly. We predict that if we give users other actions to take after their flow is live, they will be more likely to leave published and get value from their flow.</p>",
+  "results": "<p>We observed that non-time bound flow sends for accounts that have published a flow had a lift of 2% (statistically significant).</p>",
   "learning": null,
   "notes": null,
   "status": "completed",
@@ -21,6 +21,7 @@
   "statsig_url": null,
   "sheets_url": null,
   "heap_url": null,
+  "outcome": "ga",
   "winner": "treatment",
   "guidelines": null,
   "team_members": [
@@ -56,6 +57,8 @@
     }
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1762960512399649",
+  "source_id": null,
+  "created_by": null,
   "created_at": "2026-02-05T22:57:10.249Z",
-  "updated_at": "2026-02-10T01:39:39.998Z"
+  "updated_at": "2026-02-19T23:16:44.157Z"
 }
