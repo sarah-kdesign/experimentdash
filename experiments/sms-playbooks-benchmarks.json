@@ -1,5 +1,5 @@
 {
-  "id": "1771365725605",
+  "id": "1771511232092",
   "title": "SMS Playbooks : Benchmarks",
   "summary": null,
   "slug": "sms-playbooks-benchmarks",
@@ -10,7 +10,7 @@
   "learning": null,
   "notes": null,
   "status": "draft",
-  "start_date": "2/17/25",
+  "start_date": "2/17/26",
   "end_date": null,
   "control_figma_url": null,
   "treatment_figma_url": null,
@@ -26,7 +26,8 @@
   "team_members": null,
   "slack_channel_url": null,
   "source_id": "SMS Playbooks : Benchmarks",
+  "outcome": null,
   "created_by": "zapier",
-  "created_at": "2026-02-17T22:02:05.606Z",
-  "updated_at": "2026-02-17T22:02:05.616Z"
+  "created_at": "2026-02-19T14:27:12.094Z",
+  "updated_at": "2026-02-19T14:27:12.096Z"
 }
