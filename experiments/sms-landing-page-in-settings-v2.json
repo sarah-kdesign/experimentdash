@@ -9,7 +9,7 @@
   "results": null,
   "learning": null,
   "notes": null,
-  "status": "draft",
+  "status": "completed",
   "start_date": null,
   "end_date": null,
   "control_figma_url": null,
@@ -18,10 +18,19 @@
   "control_description": null,
   "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770338896816-rhpnzs.png",
   "treatment_description": null,
+  "treatments": [
+    {
+      "id": "treatment",
+      "label": "Treatment",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770338896816-rhpnzs.png",
+      "description": null,
+      "figma_url": "https://www.figma.com/design/DPbUajVocNwdGPUD8KKxfM/SMS-Landing-page?node-id=1650-122508"
+    }
+  ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/f2p_2b_sms_landing_page_v2/summary",
   "sheets_url": null,
   "heap_url": null,
-  "outcome": null,
+  "outcome": "ga",
   "winner": "treatment",
   "guidelines": null,
   "team_members": [
@@ -68,5 +77,5 @@
   "source_id": "SMS Landing Page V2 (Without Pricing Button)",
   "created_by": null,
   "created_at": "2026-02-06T00:41:52.412Z",
-  "updated_at": "2026-02-20T13:53:11.362Z"
+  "updated_at": "2026-02-20T18:00:06.493Z"
 }
