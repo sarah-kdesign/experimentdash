@@ -9,8 +9,8 @@
   "results": null,
   "learning": null,
   "notes": "Experiment will run for 30 days. Inspired by previous flows post-publish experiment success. PRD: https://docs.google.com/document/d/12V8mMPBOQAnN6C8bGza-T-MEjZRSX-RO72MzpAZ2-fY/edit?tab=t.7w4c7zqzj7v9#heading=h.p1agqd7gfjzp",
-  "status": "pending_review",
-  "start_date": null,
+  "status": "GA",
+  "start_date": "1/28/2026",
   "end_date": null,
   "control_figma_url": "https://www.figma.com/design/iX8HRFZz91e5hYaraIQuN7/Form-Post-Publish?node-id=6295-22667&m=dev",
   "treatment_figma_url": null,
@@ -19,7 +19,7 @@
   "treatment_image_url": null,
   "treatment_description": "Full-page modal presenting critical next steps (embed div copy for embedded forms, onsite tracking enablement) prominently after first form publish",
   "treatments": null,
-  "statsig_url": null,
+  "statsig_url": "Stat Sig Dashboard \n\nHeap",
   "sheets_url": null,
   "heap_url": null,
   "winner": null,
@@ -45,9 +45,9 @@
     }
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1771969789484479",
-  "source_id": null,
+  "source_id": "Update TFN Registration Form to Include Buisness EIN",
   "outcome": null,
   "created_by": "Patrick Walsh",
   "created_at": "2026-02-24T21:50:03.593Z",
-  "updated_at": "2026-02-24T21:50:03.593Z"
+  "updated_at": "2026-02-25T18:41:44.608Z"
 }
