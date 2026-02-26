@@ -1,16 +1,16 @@
 {
   "id": "1771511232092",
-  "title": "SMS Playbooks : Benchmarks",
-  "summary": null,
+  "title": "Text guide: Benchmarks",
+  "summary": "Does chunking and providing benchmarks increase action?",
   "slug": "sms-playbooks-benchmarks",
-  "product_area": "Uncategorized",
-  "test_topic": "General",
-  "hypothesis": null,
+  "product_area": "Text",
+  "test_topic": "Adoption",
+  "hypothesis": "<p>We believe that <strong>restructuring the existing Text Setup Guide playbook tasks into more playbooks and organizing and displaying the playbooks into 'Start your sms journey' and 'Advance your sms strategy' panels, paired with displaying concrete benchmark metrics related to SMS account health for SMS-enabled customers </strong>will <strong>create a more guided, less overwhelming experience</strong> because <strong>user research indicates that users need fewer decisions, clearer ordering, and more confidence-building cues</strong>. We will measure success using <strong>New 7 day and 28 day SMS Sends</strong>, and monitor <strong>both 7 day and 28 day SMS Flow and SMS campaign sends </strong>to ensure no negative impact.</p>",
   "results": null,
   "learning": null,
   "notes": null,
-  "status": "draft",
-  "start_date": "2/17/26",
+  "status": "running",
+  "start_date": null,
   "end_date": null,
   "control_figma_url": null,
   "treatment_figma_url": null,
@@ -18,16 +18,52 @@
   "control_description": null,
   "treatment_image_url": null,
   "treatment_description": null,
-  "statsig_url": "Stat Sig",
+  "treatments": [
+    {
+      "id": "t-1772080721282",
+      "label": "Treatment A",
+      "image_url": null,
+      "description": null,
+      "figma_url": null
+    }
+  ],
+  "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/text_guide_benchmarks/results",
   "sheets_url": null,
   "heap_url": null,
+  "outcome": null,
   "winner": null,
   "guidelines": null,
-  "team_members": null,
-  "slack_channel_url": null,
+  "team_members": [
+    {
+      "id": "1772080960277",
+      "name": "Kritika Uprety",
+      "role": "Design",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770684108187-rvl0wd.png"
+    },
+    {
+      "id": "1772080958167",
+      "name": "Irene Hnatiw",
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770851190212-tbu2ie.png"
+    },
+    {
+      "id": "1772080956636",
+      "name": "Amy Chen",
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770684025573-9s67f.png",
+      "profile_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1764966446257899?thread_ts=1757095022.650579&cid=C013ZJ231B3"
+    },
+    {
+      "id": "1772080954605",
+      "name": "Karen Cheng",
+      "role": "Product",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770680382990-4sz69.png",
+      "profile_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1764966446257899?thread_ts=1757095022.650579&cid=C013ZJ231B3"
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.enterprise.slack.com/archives/C0A1YPP4XND",
   "source_id": "SMS Playbooks : Benchmarks",
-  "outcome": null,
-  "created_by": "zapier",
+  "created_by": null,
   "created_at": "2026-02-19T14:27:12.094Z",
-  "updated_at": "2026-02-19T14:27:12.096Z"
+  "updated_at": "2026-02-26T04:43:33.668Z"
 }
