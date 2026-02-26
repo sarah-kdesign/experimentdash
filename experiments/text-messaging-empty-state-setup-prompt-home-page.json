@@ -1,10 +1,10 @@
 {
   "id": "1768337777986",
-  "title": "Texting setup prompt, home",
+  "title": "Text setup prompt, home",
   "summary": "Does providing a contextual CTA on home drive more SMS set-ups? Yes, it did.",
   "slug": "text-messaging-empty-state-setup-prompt-home-page",
   "product_area": "Home page",
-  "test_topic": "Texting setup",
+  "test_topic": "Text setup",
   "hypothesis": "<p>We believe that providing a new contextual CTA on the Home page, situated as part of the performance summary for customers who have not yet set up SMS will drive SMS setups and adoption by positioning SMS as a competitive advantage and direct more users to sign up and try it out. We will measure success using click rate and signup rate from this CTA, and monitor SMS adoption and activity to ensure no negative impact.</p>",
   "results": "<p>Experiment results showed a small but significant lift in setup rates (+0.17%) over a 28 day period, with most other metrics relatively flat. The prompt was released to GA on 12/8/25.</p>",
   "learning": null,
@@ -18,9 +18,19 @@
   "control_description": null,
   "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770213152289-fnojh.png",
   "treatment_description": null,
+  "treatments": [
+    {
+      "id": "treatment",
+      "label": "Treatment",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770213152289-fnojh.png",
+      "description": null,
+      "figma_url": "https://www.figma.com/design/8c6XR6p0Dh3qQkdyiXUlGl/SMS-Set-up--High-intent-Empty-States-?node-id=172-80091&t=7Tta1WhNgVKuuiSu-4"
+    }
+  ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/sms_home_page_empty_state_setup_prompt/results",
   "sheets_url": null,
   "heap_url": null,
+  "outcome": "ga",
   "winner": "treatment",
   "guidelines": null,
   "team_members": [
@@ -48,5 +58,5 @@
   "source_id": "SMS Set Up Empty States : Home",
   "created_by": null,
   "created_at": "2026-01-13T20:56:17.986Z",
-  "updated_at": "2026-02-17T19:36:28.051Z"
+  "updated_at": "2026-02-26T05:25:47.693Z"
 }
