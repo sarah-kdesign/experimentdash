@@ -9,22 +9,22 @@
   "results": null,
   "learning": null,
   "notes": "<p>Experiment will run for 30 days. Inspired by previous flows post-publish experiment success. PRD: https://docs.google.com/document/d/12V8mMPBOQAnN6C8bGza-T-MEjZRSX-RO72MzpAZ2-fY/edit?tab=t.7w4c7zqzj7v9#heading=h.p1agqd7gfjzp</p>",
-  "status": "draft",
+  "status": "running",
   "start_date": null,
   "end_date": null,
-  "control_figma_url": "https://www.figma.com/design/iX8HRFZz91e5hYaraIQuN7/Form-Post-Publish?node-id=6295-22667&m=dev",
-  "treatment_figma_url": null,
-  "control_image_url": null,
+  "control_figma_url": "https://www.figma.com/design/iX8HRFZz91e5hYaraIQuN7/Form-Post-Publish?node-id=6382-24145&m=dev",
+  "treatment_figma_url": "https://www.figma.com/design/iX8HRFZz91e5hYaraIQuN7/Form-Post-Publish?node-id=6295-22237&m=dev",
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772080626721-7kke8l.png",
   "control_description": "Current UI with critical post-publish actions in small popups and hidden sidebar alerts",
-  "treatment_image_url": null,
-  "treatment_description": "Full-page modal presenting critical next steps (embed div copy for embedded forms, onsite tracking enablement) prominently after first form publish",
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772080629367-6ny5vo.png",
+  "treatment_description": "Full-page modal presenting critical next steps (embed div copy for embedded forms, onsite tracking enablement) prominently after first form publish. 1 of 2 variations see Figma for full details.",
   "treatments": [
     {
       "id": "treatment",
       "label": "Treatment",
-      "image_url": null,
-      "description": "Full-page modal presenting critical next steps (embed div copy for embedded forms, onsite tracking enablement) prominently after first form publish",
-      "figma_url": null
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772080629367-6ny5vo.png",
+      "description": "Full-page modal presenting critical next steps (embed div copy for embedded forms, onsite tracking enablement) prominently after first form publish. 1 of 2 variations see Figma for full details.",
+      "figma_url": "https://www.figma.com/design/iX8HRFZz91e5hYaraIQuN7/Form-Post-Publish?node-id=6295-22237&m=dev"
     }
   ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/forms_post_publish_critical_actions/results",
@@ -57,5 +57,5 @@
   "source_id": "Update TFN Registration Form to Include Buisness EIN",
   "created_by": null,
   "created_at": "2026-02-24T21:50:03.593Z",
-  "updated_at": "2026-02-26T04:36:41.565Z"
+  "updated_at": "2026-02-26T04:38:02.987Z"
 }
