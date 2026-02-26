@@ -1,7 +1,7 @@
 {
   "id": "1772089090169",
   "title": "Marketing agent vs. prior empty state",
-  "summary": "Which treatment increases activation, marketing agent or original?",
+  "summary": "Which treatment increases activation, marketing agent or guided original?",
   "slug": "marketing-agent-vs-prior-empty-state",
   "product_area": "Empty states",
   "test_topic": "Adoption",
@@ -43,7 +43,7 @@
   ],
   "slack_channel_url": null,
   "source_id": null,
-  "created_by": "sarah.delaney@klaviyo.com",
+  "created_by": null,
   "created_at": "2026-02-26T06:58:10.169Z",
-  "updated_at": "2026-02-26T06:58:10.169Z"
+  "updated_at": "2026-02-26T07:03:38.754Z"
 }
