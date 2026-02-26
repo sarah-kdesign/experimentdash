@@ -13,18 +13,18 @@
   "start_date": null,
   "end_date": null,
   "control_figma_url": null,
-  "treatment_figma_url": null,
+  "treatment_figma_url": "https://www.figma.com/design/v7gHC2YBFycUyZvAvf9ABC/Text-Account-Audit?node-id=2-8",
   "control_image_url": null,
   "control_description": null,
-  "treatment_image_url": null,
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772086309001-vghzkk.png",
   "treatment_description": null,
   "treatments": [
     {
       "id": "t-1772081816199",
       "label": "Treatment A",
-      "image_url": null,
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772086309001-vghzkk.png",
       "description": null,
-      "figma_url": null
+      "figma_url": "https://www.figma.com/design/v7gHC2YBFycUyZvAvf9ABC/Text-Account-Audit?node-id=2-8"
     }
   ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/adoption_text_performance_audit/results",
@@ -65,5 +65,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-02-17T19:38:54.303Z",
-  "updated_at": "2026-02-26T06:10:03.576Z"
+  "updated_at": "2026-02-26T06:12:00.384Z"
 }
