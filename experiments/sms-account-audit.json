@@ -5,7 +5,7 @@
   "slug": "sms-account-audit",
   "product_area": "Text setup",
   "test_topic": "Adoption",
-  "hypothesis": "<p>Growth Product Analytics Weekly</p>",
+  "hypothesis": "<p>A numerical score provides clearer guidance on what constitutes good performance so that customers understand where they stand. That, combined with recommending personalized next steps based on account gaps, will drive higher completion of SMS best practices compared to generic checklists.</p>",
   "results": null,
   "learning": null,
   "notes": null,
@@ -65,5 +65,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-02-17T19:38:54.303Z",
-  "updated_at": "2026-02-26T05:47:33.605Z"
+  "updated_at": "2026-02-26T05:54:46.170Z"
 }
