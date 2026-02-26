@@ -1,7 +1,7 @@
 {
   "id": "1771511232092",
   "title": "Text guide: Benchmarks",
-  "summary": "Does chunking and providing benchmarks increase action?",
+  "summary": "Does chunking and providing benchmarks increase text action?",
   "slug": "sms-playbooks-benchmarks",
   "product_area": "Text",
   "test_topic": "Adoption",
@@ -13,18 +13,18 @@
   "start_date": null,
   "end_date": null,
   "control_figma_url": null,
-  "treatment_figma_url": null,
-  "control_image_url": null,
-  "control_description": null,
-  "treatment_image_url": null,
-  "treatment_description": null,
+  "treatment_figma_url": "https://www.figma.com/design/087Q1Ywh9zoDLtQgoZ5XGK/SMS-playbooks---%22crawl%22?node-id=422-66160",
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772081766365-yv543.png",
+  "control_description": "1 playbook, no performance feedback",
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772081255192-avg9ew.png",
+  "treatment_description": "2 playbooks: Text message basics and Advanced text message strategy\n4 \"benchmark\" cards at the top of each book to provide positive performance feedback",
   "treatments": [
     {
       "id": "t-1772080721282",
       "label": "Treatment A",
-      "image_url": null,
-      "description": null,
-      "figma_url": null
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772081255192-avg9ew.png",
+      "description": "2 playbooks: Text message basics and Advanced text message strategy\n4 \"benchmark\" cards at the top of each book to provide positive performance feedback",
+      "figma_url": "https://www.figma.com/design/087Q1Ywh9zoDLtQgoZ5XGK/SMS-playbooks---%22crawl%22?node-id=422-66160"
     }
   ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/text_guide_benchmarks/results",
@@ -65,5 +65,5 @@
   "source_id": "SMS Playbooks : Benchmarks",
   "created_by": null,
   "created_at": "2026-02-19T14:27:12.094Z",
-  "updated_at": "2026-02-26T04:43:33.668Z"
+  "updated_at": "2026-02-26T04:56:40.134Z"
 }
