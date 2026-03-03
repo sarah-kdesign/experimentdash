@@ -3,7 +3,7 @@
   "title": "Text guide: Benchmarks",
   "summary": "Does chunking and providing benchmarks increase text action?",
   "slug": "sms-playbooks-benchmarks",
-  "product_area": "Text",
+  "product_area": "Text setup guide",
   "test_topic": "Adoption",
   "hypothesis": "<p>We believe that <strong>restructuring the existing Text Setup Guide playbook tasks into more playbooks and organizing and displaying the playbooks into 'Start your sms journey' and 'Advance your sms strategy' panels, paired with displaying concrete benchmark metrics related to SMS account health for SMS-enabled customers </strong>will <strong>create a more guided, less overwhelming experience</strong> because <strong>user research indicates that users need fewer decisions, clearer ordering, and more confidence-building cues</strong>. We will measure success using <strong>New 7 day and 28 day SMS Sends</strong>, and monitor <strong>both 7 day and 28 day SMS Flow and SMS campaign sends </strong>to ensure no negative impact.</p>",
   "results": null,
@@ -65,5 +65,5 @@
   "source_id": "SMS Playbooks : Benchmarks",
   "created_by": null,
   "created_at": "2026-02-19T14:27:12.094Z",
-  "updated_at": "2026-02-26T06:39:54.403Z"
+  "updated_at": "2026-03-03T00:15:51.353Z"
 }
