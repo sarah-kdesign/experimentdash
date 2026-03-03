@@ -1,0 +1,41 @@
+{
+  "id": "pending-1772576034314",
+  "title": "New Experiment",
+  "summary": null,
+  "slug": "pending-new-experiment-034314",
+  "product_area": "Unknown",
+  "test_topic": "General",
+  "hypothesis": null,
+  "results": null,
+  "learning": null,
+  "notes": "Message contains only a thank you with no experiment details.",
+  "status": "pending_review",
+  "start_date": null,
+  "end_date": null,
+  "control_figma_url": null,
+  "treatment_figma_url": null,
+  "control_image_url": null,
+  "control_description": null,
+  "treatment_image_url": null,
+  "treatment_description": null,
+  "treatments": null,
+  "statsig_url": null,
+  "sheets_url": null,
+  "heap_url": null,
+  "winner": null,
+  "guidelines": null,
+  "team_members": [
+    {
+      "id": "1772576034314",
+      "name": "Emily Pillay",
+      "role": "Growth",
+      "avatar_url": "https://avatars.slack-edge.com/2023-06-05/5399339773744_440b341044bcb17f7a89_1024.jpg"
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1772576022280929?thread_ts=1772575727.174759&cid=C013ZJ231B3",
+  "source_id": null,
+  "outcome": null,
+  "created_by": "Emily Pillay",
+  "created_at": "2026-03-03T22:13:54.314Z",
+  "updated_at": "2026-03-03T22:13:54.314Z"
+}
