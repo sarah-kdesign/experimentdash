@@ -14,15 +14,15 @@
   "end_date": null,
   "control_figma_url": null,
   "treatment_figma_url": null,
-  "control_image_url": null,
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772496589624-lxpki.png",
   "control_description": null,
-  "treatment_image_url": null,
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772496595923-6je81.png",
   "treatment_description": null,
   "treatments": [
     {
       "id": "t-1772088949759",
       "label": "Treatment A",
-      "image_url": null,
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772496595923-6je81.png",
       "description": null,
       "figma_url": null
     }
@@ -45,5 +45,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-02-26T06:58:10.169Z",
-  "updated_at": "2026-02-26T07:03:38.754Z"
+  "updated_at": "2026-03-03T00:09:59.177Z"
 }
