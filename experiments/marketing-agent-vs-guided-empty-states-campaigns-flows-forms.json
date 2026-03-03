@@ -1,6 +1,6 @@
 {
   "id": "1772496537936",
-  "title": "Marketing agent vs. guided empty states (campaigns, flows, forms)",
+  "title": "Guided vs. marketing agent empty states (campaigns, flows, forms)",
   "summary": "Which is associated with increased activation?",
   "slug": "marketing-agent-vs-guided-empty-states-campaigns-flows-forms",
   "product_area": "Empty states",
@@ -14,16 +14,16 @@
   "end_date": null,
   "control_figma_url": null,
   "treatment_figma_url": null,
-  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772496452080-u8k1b.png",
-  "control_description": "Sign-up forms, guided empty state; in the guided state condition, this design treatment was also applied to campaigns and flows empty states",
-  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772496364893-87ewyf.png",
-  "treatment_description": "Sign-up forms, marketing agent empty state; in the marketing agent condition, this design treatment was also applied to campaigns and flows empty states ",
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772497116845-ej2rb.png",
+  "control_description": "Sign-up forms, marketing agent empty state; in the marketing agent condition, this design treatment was also applied to campaigns and flows empty states ",
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772497123338-47nqkg.png",
+  "treatment_description": "Sign-up forms, guided empty state; in the guided state condition, this design treatment was also applied to campaigns and flows empty states",
   "treatments": [
     {
       "id": "t-1772496001877",
       "label": "Treatment A",
-      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772496364893-87ewyf.png",
-      "description": "Sign-up forms, marketing agent empty state; in the marketing agent condition, this design treatment was also applied to campaigns and flows empty states ",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772497123338-47nqkg.png",
+      "description": "Sign-up forms, guided empty state; in the guided state condition, this design treatment was also applied to campaigns and flows empty states",
       "figma_url": null
     }
   ],
@@ -51,5 +51,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-03-03T00:08:57.936Z",
-  "updated_at": "2026-03-03T00:13:58.179Z"
+  "updated_at": "2026-03-03T00:19:00.647Z"
 }
