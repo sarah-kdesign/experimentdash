@@ -1,0 +1,41 @@
+{
+  "id": "pending-1774637194366",
+  "title": "Feature Demo",
+  "summary": "Loom video demonstration of a new feature.",
+  "slug": "pending-feature-demo-194366",
+  "product_area": "Unknown",
+  "test_topic": "Feature Demo",
+  "hypothesis": "By implementing this feature, we expect to improve user experience because it addresses a specific user need.",
+  "results": null,
+  "learning": null,
+  "notes": "Loom demo available at https://www.loom.com/share/727c68ae0ab7498ea1079c893cb8d9b2",
+  "status": "pending_review",
+  "start_date": null,
+  "end_date": null,
+  "control_figma_url": null,
+  "treatment_figma_url": null,
+  "control_image_url": null,
+  "control_description": null,
+  "treatment_image_url": null,
+  "treatment_description": null,
+  "treatments": null,
+  "statsig_url": null,
+  "sheets_url": null,
+  "heap_url": null,
+  "winner": null,
+  "guidelines": null,
+  "team_members": [
+    {
+      "id": "1774637194366",
+      "name": "Amy Chen",
+      "role": "Growth",
+      "avatar_url": "https://avatars.slack-edge.com/2021-08-17/2389599016035_9e6d8877578fe4484f27_1024.jpg"
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1774637184635279?thread_ts=1774637136.699429&cid=C013ZJ231B3",
+  "source_id": null,
+  "outcome": null,
+  "created_by": "Amy Chen",
+  "created_at": "2026-03-27T18:46:34.367Z",
+  "updated_at": "2026-03-27T18:46:34.367Z"
+}
