@@ -1,0 +1,41 @@
+{
+  "id": "pending-1776170942053",
+  "title": "Button Visibility Experiment",
+  "summary": "Testing the impact of hiding a specific button on user behavior and engagement metrics.",
+  "slug": "pending-button-visibility-experiment-942053",
+  "product_area": "Platform",
+  "test_topic": "UI Element Visibility",
+  "hypothesis": "By hiding the button, we expect to see changes in user interaction patterns and potentially improve the overall user experience by reducing clutter or confusion.",
+  "results": null,
+  "learning": null,
+  "notes": "Related PR: https://github.com/klaviyo/fender/pull/53280. Consider reaching out to #C01U0TXAR0B channel for more context.",
+  "status": "pending_review",
+  "start_date": null,
+  "end_date": null,
+  "control_figma_url": null,
+  "treatment_figma_url": null,
+  "control_image_url": null,
+  "control_description": "Current experience with the button visible",
+  "treatment_image_url": null,
+  "treatment_description": "Experience with the button hidden",
+  "treatments": null,
+  "statsig_url": null,
+  "sheets_url": null,
+  "heap_url": null,
+  "winner": null,
+  "guidelines": null,
+  "team_members": [
+    {
+      "id": "1776170942053",
+      "name": "Jimmy Ye",
+      "role": "Growth",
+      "avatar_url": "https://avatars.slack-edge.com/2021-08-18/2419169481360_2efc0f00cafe091063a9_1024.jpg"
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1776170902041009?thread_ts=1776168989.315539&cid=C013ZJ231B3",
+  "source_id": null,
+  "outcome": null,
+  "created_by": "Jimmy Ye",
+  "created_at": "2026-04-14T12:49:02.053Z",
+  "updated_at": "2026-04-14T12:49:02.053Z"
+}
