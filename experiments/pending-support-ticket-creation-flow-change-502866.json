@@ -1,0 +1,41 @@
+{
+  "id": "pending-1776170502866",
+  "title": "Support Ticket Creation Flow Change",
+  "summary": "Investigating whether there has been a change to the customer support ticket submission process.",
+  "slug": "pending-support-ticket-creation-flow-change-502866",
+  "product_area": "Support",
+  "test_topic": "User Flow",
+  "hypothesis": "By analyzing the support ticket creation flow, we expect to identify any recent changes that may be affecting customer behavior or ticket submission rates.",
+  "results": null,
+  "learning": null,
+  "notes": "This appears to be an inquiry about changes rather than a new experiment proposal. May need clarification on whether this is investigating a recent change or proposing a new test.",
+  "status": "pending_review",
+  "start_date": null,
+  "end_date": null,
+  "control_figma_url": null,
+  "treatment_figma_url": null,
+  "control_image_url": null,
+  "control_description": null,
+  "treatment_image_url": null,
+  "treatment_description": null,
+  "treatments": null,
+  "statsig_url": null,
+  "sheets_url": null,
+  "heap_url": null,
+  "winner": null,
+  "guidelines": null,
+  "team_members": [
+    {
+      "id": "1776170502866",
+      "name": "Matilde Trindade",
+      "role": "Growth",
+      "avatar_url": "https://avatars.slack-edge.com/2026-02-11/10481102280067_938482a9dfc2bded39a6_1024.jpg"
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1776170493621059?thread_ts=1776168989.315539&cid=C013ZJ231B3",
+  "source_id": null,
+  "outcome": null,
+  "created_by": "Matilde Trindade",
+  "created_at": "2026-04-14T12:41:42.866Z",
+  "updated_at": "2026-04-14T12:41:42.866Z"
+}
