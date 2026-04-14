@@ -1,0 +1,41 @@
+{
+  "id": "pending-1776169979475",
+  "title": "Screenshot Request",
+  "summary": "Team member requesting visual reference or screenshot for context.",
+  "slug": "pending-screenshot-request-979475",
+  "product_area": "General",
+  "test_topic": "Information Request",
+  "hypothesis": "By requesting a screenshot, we expect to gain visual context that will enable better understanding of the proposed change or current state.",
+  "results": null,
+  "learning": null,
+  "notes": "This appears to be a follow-up question requesting visual documentation rather than a complete experiment proposal. Additional context needed to create full experiment brief.",
+  "status": "pending_review",
+  "start_date": null,
+  "end_date": null,
+  "control_figma_url": null,
+  "treatment_figma_url": null,
+  "control_image_url": null,
+  "control_description": null,
+  "treatment_image_url": null,
+  "treatment_description": null,
+  "treatments": null,
+  "statsig_url": null,
+  "sheets_url": null,
+  "heap_url": null,
+  "winner": null,
+  "guidelines": null,
+  "team_members": [
+    {
+      "id": "1776169979471",
+      "name": "Drew Condon",
+      "role": "Growth",
+      "avatar_url": "https://avatars.slack-edge.com/2025-12-02/10035916998114_35a71669c5083ae4a02a_1024.jpg"
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1776169967138479?thread_ts=1776168989.315539&cid=C013ZJ231B3",
+  "source_id": null,
+  "outcome": null,
+  "created_by": "Drew Condon",
+  "created_at": "2026-04-14T12:32:59.476Z",
+  "updated_at": "2026-04-14T12:32:59.476Z"
+}
