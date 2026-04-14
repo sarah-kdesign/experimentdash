@@ -1,0 +1,41 @@
+{
+  "id": "pending-1776169010062",
+  "title": "Account Support Button Visibility Test",
+  "summary": "Testing placement and styling of support button to improve discoverability and ticket submission rates.",
+  "slug": "pending-account-support-button-visibility-test-010062",
+  "product_area": "Account",
+  "test_topic": "Navigation",
+  "hypothesis": "By changing the support button placement from top navigation to a bottom-right purple widget, we expect to increase support ticket submission visibility and engagement, though user feedback suggests the current treatment may be reducing discoverability.",
+  "results": null,
+  "learning": null,
+  "notes": "Customer reported difficulty finding support button with new placement. This appears to be a currently running experiment that may need review based on user feedback.",
+  "status": "pending_review",
+  "start_date": null,
+  "end_date": null,
+  "control_figma_url": null,
+  "treatment_figma_url": null,
+  "control_image_url": null,
+  "control_description": "Support button visible in top navigation of account page",
+  "treatment_image_url": null,
+  "treatment_description": "Purple widget/box positioned in bottom right corner of account page",
+  "treatments": null,
+  "statsig_url": null,
+  "sheets_url": null,
+  "heap_url": null,
+  "winner": null,
+  "guidelines": null,
+  "team_members": [
+    {
+      "id": "1776169010061",
+      "name": "Matilde Trindade",
+      "role": "Growth",
+      "avatar_url": "https://avatars.slack-edge.com/2026-02-11/10481102280067_938482a9dfc2bded39a6_1024.jpg"
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1776168989315539",
+  "source_id": null,
+  "outcome": null,
+  "created_by": "Matilde Trindade",
+  "created_at": "2026-04-14T12:16:50.062Z",
+  "updated_at": "2026-04-14T12:16:50.062Z"
+}
