@@ -1,0 +1,41 @@
+{
+  "id": "pending-1776170480302",
+  "title": "Klaviyo Flag Button Clarification",
+  "summary": "Clarification that the Klaviyo flag floating button is not a growth experiment.",
+  "slug": "pending-klaviyo-flag-button-clarification-480302",
+  "product_area": "Platform",
+  "test_topic": "Feature Classification",
+  "hypothesis": "This is not an experiment - clarifying that the Klaviyo flag floating button should not be tracked as a growth experiment.",
+  "results": null,
+  "learning": null,
+  "notes": "This message is a clarification that the Klaviyo flag floating button is not a growth experiment and should not be logged in the experiments dashboard.",
+  "status": "pending_review",
+  "start_date": null,
+  "end_date": null,
+  "control_figma_url": null,
+  "treatment_figma_url": null,
+  "control_image_url": null,
+  "control_description": null,
+  "treatment_image_url": null,
+  "treatment_description": null,
+  "treatments": null,
+  "statsig_url": null,
+  "sheets_url": null,
+  "heap_url": null,
+  "winner": null,
+  "guidelines": null,
+  "team_members": [
+    {
+      "id": "1776170480302",
+      "name": "Drew Condon",
+      "role": "Growth",
+      "avatar_url": "https://avatars.slack-edge.com/2025-12-02/10035916998114_35a71669c5083ae4a02a_1024.jpg"
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1776170471666999?thread_ts=1776168989.315539&cid=C013ZJ231B3",
+  "source_id": null,
+  "outcome": null,
+  "created_by": "Drew Condon",
+  "created_at": "2026-04-14T12:41:20.303Z",
+  "updated_at": "2026-04-14T12:41:20.303Z"
+}
