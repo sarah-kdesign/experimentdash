@@ -1,0 +1,41 @@
+{
+  "id": "pending-1776170561850",
+  "title": "Follow-Up with Amplify Teams",
+  "summary": "Coordination needed with Amplify teams regarding an unspecified initiative or experiment.",
+  "slug": "pending-follow-up-with-amplify-teams-561850",
+  "product_area": "Cross-Functional",
+  "test_topic": "Team Coordination",
+  "hypothesis": "By following up with Amplify teams, we expect to clarify next steps and align on project scope because cross-team coordination is needed to proceed.",
+  "results": null,
+  "learning": null,
+  "notes": "Context is unclear from message - requires follow-up with Amplify teams to determine specifics of initiative.",
+  "status": "pending_review",
+  "start_date": null,
+  "end_date": null,
+  "control_figma_url": null,
+  "treatment_figma_url": null,
+  "control_image_url": null,
+  "control_description": null,
+  "treatment_image_url": null,
+  "treatment_description": null,
+  "treatments": null,
+  "statsig_url": null,
+  "sheets_url": null,
+  "heap_url": null,
+  "winner": null,
+  "guidelines": null,
+  "team_members": [
+    {
+      "id": "1776170561850",
+      "name": "Drew Condon",
+      "role": "Growth",
+      "avatar_url": "https://avatars.slack-edge.com/2025-12-02/10035916998114_35a71669c5083ae4a02a_1024.jpg"
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1776170551608259?thread_ts=1776168989.315539&cid=C013ZJ231B3",
+  "source_id": null,
+  "outcome": null,
+  "created_by": "Drew Condon",
+  "created_at": "2026-04-14T12:42:41.850Z",
+  "updated_at": "2026-04-14T12:42:41.850Z"
+}
