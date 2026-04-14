@@ -1,0 +1,47 @@
+{
+  "id": "pending-1776173086256",
+  "title": "SMS Setup Alphanumeric Country Registration",
+  "summary": "Testing selective sender ID registration for user-selected countries only versus auto-registering all available alphanumeric countries to improve UX and reduce confusion.",
+  "slug": "pending-sms-setup-alphanumeric-country-registration-086256",
+  "product_area": "SMS Setup",
+  "test_topic": "User Experience",
+  "hypothesis": "By registering sender IDs only for user-selected alphanumeric countries (instead of all available countries by default), we expect to improve the user experience and reduce confusion without negatively impacting activation metrics.",
+  "results": null,
+  "learning": null,
+  "notes": "Follow-on experiment to Independent Alphanumerics Sender IDs rollout. 50/50 split for companies requesting at least one alphanumeric country. PRD: https://docs.google.com/document/d/1Q2sgs5fv8m0Uaf09-Y74u0uaKo0ilhmrmtW8VEg0Zv0/edit?tab=t.0PRD",
+  "status": "pending_review",
+  "start_date": null,
+  "end_date": null,
+  "control_figma_url": null,
+  "treatment_figma_url": null,
+  "control_image_url": null,
+  "control_description": "Current behavior where sender IDs are registered for all available alphanumeric countries automatically",
+  "treatment_image_url": null,
+  "treatment_description": "Sender IDs registered only for the alphanumeric countries that were user-selected in the SMS Setup Workflow",
+  "treatments": null,
+  "statsig_url": null,
+  "sheets_url": null,
+  "heap_url": null,
+  "winner": null,
+  "guidelines": null,
+  "team_members": [
+    {
+      "id": "1776173086256",
+      "name": "Irene Hnatiw",
+      "role": "Growth",
+      "avatar_url": "https://avatars.slack-edge.com/2023-03-29/5032369263058_099a419fdcd361387025_1024.png"
+    },
+    {
+      "id": "1776173086257",
+      "name": "Karen Cheng",
+      "role": "Growth",
+      "avatar_url": null
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1776173071841599",
+  "source_id": null,
+  "outcome": null,
+  "created_by": "Irene Hnatiw",
+  "created_at": "2026-04-14T13:24:46.256Z",
+  "updated_at": "2026-04-14T13:24:46.256Z"
+}
