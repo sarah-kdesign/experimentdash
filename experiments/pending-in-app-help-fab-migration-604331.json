@@ -1,0 +1,41 @@
+{
+  "id": "pending-1776170604331",
+  "title": "In-App Help FAB Migration",
+  "summary": "Documenting the transition of in-app help to a floating action button design pattern.",
+  "slug": "pending-in-app-help-fab-migration-604331",
+  "product_area": "Mobile App",
+  "test_topic": "Navigation",
+  "hypothesis": "By moving in-app help to a floating action button, we expect to increase help feature discoverability and usage because the FAB pattern is more visible and accessible throughout the user journey.",
+  "results": null,
+  "learning": null,
+  "notes": "Uncertainty about current implementation status - needs verification of what's currently live in production.",
+  "status": "pending_review",
+  "start_date": null,
+  "end_date": null,
+  "control_figma_url": null,
+  "treatment_figma_url": null,
+  "control_image_url": null,
+  "control_description": "Current in-app help interface (specific design unclear)",
+  "treatment_image_url": null,
+  "treatment_description": "Floating action button (FAB) pattern for in-app help access",
+  "treatments": null,
+  "statsig_url": null,
+  "sheets_url": null,
+  "heap_url": null,
+  "winner": null,
+  "guidelines": null,
+  "team_members": [
+    {
+      "id": "1776170604331",
+      "name": "Drew Condon",
+      "role": "Growth",
+      "avatar_url": "https://avatars.slack-edge.com/2025-12-02/10035916998114_35a71669c5083ae4a02a_1024.jpg"
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1776170594182719?thread_ts=1776168989.315539&cid=C013ZJ231B3",
+  "source_id": null,
+  "outcome": null,
+  "created_by": "Drew Condon",
+  "created_at": "2026-04-14T12:43:24.331Z",
+  "updated_at": "2026-04-14T12:43:24.331Z"
+}
