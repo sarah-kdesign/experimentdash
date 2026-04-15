@@ -1,0 +1,47 @@
+{
+  "id": "pending-1776287795743",
+  "title": "Support Experience Test",
+  "summary": "Investigating whether a specific customer is included in the new support experience test group.",
+  "slug": "pending-support-experience-test-795743",
+  "product_area": "Support",
+  "test_topic": "Customer Experience",
+  "hypothesis": "By implementing a new support experience, we expect to improve customer satisfaction and support efficiency because enhanced support flows reduce friction and resolution time.",
+  "results": null,
+  "learning": null,
+  "notes": "Message is asking whether a specific customer is part of the test group, suggesting the experiment is already running.",
+  "status": "pending_review",
+  "start_date": null,
+  "end_date": null,
+  "control_figma_url": null,
+  "treatment_figma_url": null,
+  "control_image_url": null,
+  "control_description": "Current support experience",
+  "treatment_image_url": null,
+  "treatment_description": "New support experience",
+  "treatments": null,
+  "statsig_url": null,
+  "sheets_url": null,
+  "heap_url": null,
+  "winner": null,
+  "guidelines": null,
+  "team_members": [
+    {
+      "id": "1776287795742",
+      "name": "Liying Wang",
+      "role": "Growth",
+      "avatar_url": "https://avatars.slack-edge.com/2023-11-27/6257911270724_e87e758ed9ca10c92384_1024.jpg"
+    },
+    {
+      "id": "1776287795743",
+      "name": "Jeremy Blanchard",
+      "role": "Growth",
+      "avatar_url": null
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1776287777711749?thread_ts=1776168989.315539&cid=C013ZJ231B3",
+  "source_id": null,
+  "outcome": null,
+  "created_by": "Liying Wang",
+  "created_at": "2026-04-15T21:16:35.743Z",
+  "updated_at": "2026-04-15T21:16:35.743Z"
+}
