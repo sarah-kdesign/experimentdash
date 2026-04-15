@@ -29,7 +29,7 @@
   ],
   "statsig_url": null,
   "sheets_url": null,
-  "heap_url": "https://heapanalytics.com/app/env/91017801/graph/chart/Flow-post-publish-11-12-17938728",
+  "heap_url": "https://heapanalytics.com/app/env/91017801/dashboard/SD-flow-post-publish-557338",
   "outcome": "ga",
   "winner": "treatment",
   "guidelines": null,
@@ -69,5 +69,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-02-05T22:57:10.249Z",
-  "updated_at": "2026-04-15T00:11:38.570Z"
+  "updated_at": "2026-04-15T00:18:11.050Z"
 }
