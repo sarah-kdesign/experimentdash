@@ -7,7 +7,7 @@
   "test_topic": "Setup",
   "hypothesis": "<p>We believe that <strong>changing the WhatsApp landing page to only have one button for a free trial</strong> will <strong>increase set ups for WhatsApp</strong> because <strong>the CTA's have been simplified</strong>. We will measure success using <strong>WhatsApp Set Up Starts </strong>and monitor <strong>WhatsApp Sends</strong>, and <strong>WhatsApp Set Up Complete</strong> to ensure no negative impact.</p>",
   "results": "<p>statsig positive result for set up started</p>",
-  "learning": null,
+  "learning": "<p>Decrease the number of buttons or CTAs can increase follow-through related to the primary action</p>",
   "notes": null,
   "status": "completed",
   "start_date": "2026-03-24",
@@ -30,8 +30,8 @@
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/whatsapp_landing_page_experiment/results?tab=key_metrics&testGroup=7m3uclLZsnhNBjh75p42e6&controlGroup=7m3uck6X058jhTJbuh8oV4&rangeType=total&confidence=0.9&cuped=true&sequential=true&filterHighlightedGroups=false",
   "sheets_url": null,
   "heap_url": null,
-  "outcome": null,
-  "winner": null,
+  "outcome": "ga",
+  "winner": "t-1776371630206",
   "guidelines": null,
   "team_members": [
     {
@@ -49,7 +49,7 @@
   ],
   "slack_channel_url": "https://klaviyo.enterprise.slack.com/archives/C0AKVJCGQBB",
   "source_id": null,
-  "created_by": "sarah.delaney@klaviyo.com",
+  "created_by": null,
   "created_at": "2026-04-16T20:38:53.663Z",
-  "updated_at": "2026-04-16T20:38:53.663Z"
+  "updated_at": "2026-04-16T20:41:29.603Z"
 }
