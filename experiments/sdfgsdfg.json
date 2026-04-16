@@ -1,0 +1,55 @@
+{
+  "id": "1776371987290",
+  "title": "sdfgsdfg",
+  "summary": null,
+  "slug": "sdfgsdfg",
+  "product_area": "sdfgsdfg",
+  "test_topic": "sdfgsdfg",
+  "hypothesis": "<p>We believe that <strong>changing the WhatsApp landing page to only have one button for a free trial</strong> will <strong>increase set ups for WhatsApp</strong> because <strong>the CTA's have been simplified</strong>. We will measure success using <strong>WhatsApp Set Up Starts </strong>and monitor <strong>WhatsApp Sends</strong>, and <strong>WhatsApp Set Up Complete</strong> to ensure no negative impact.</p>",
+  "results": "<p>statsig positive result for set up started</p>",
+  "learning": null,
+  "notes": null,
+  "status": "draft",
+  "start_date": "2026-03-24",
+  "end_date": "2026-04-16",
+  "control_figma_url": null,
+  "treatment_figma_url": null,
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1776371664555-ofirt.png",
+  "control_description": null,
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1776371673037-0w47ef.png",
+  "treatment_description": null,
+  "treatments": [
+    {
+      "id": "t-1776371630206",
+      "label": "Treatment",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1776371673037-0w47ef.png",
+      "description": null,
+      "figma_url": null
+    }
+  ],
+  "statsig_url": null,
+  "sheets_url": null,
+  "heap_url": null,
+  "outcome": null,
+  "winner": null,
+  "guidelines": null,
+  "team_members": [
+    {
+      "id": "1776371852036",
+      "name": "Justina",
+      "role": "Product",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1776371899698-5ua2x.png"
+    },
+    {
+      "id": "1776371807091",
+      "name": "Surabhi Kulkarni",
+      "role": "Data science",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1776371904847-e5oiee.png"
+    }
+  ],
+  "slack_channel_url": null,
+  "source_id": null,
+  "created_by": "sarah.delaney@klaviyo.com",
+  "created_at": "2026-04-16T20:39:47.290Z",
+  "updated_at": "2026-04-16T20:39:47.290Z"
+}
