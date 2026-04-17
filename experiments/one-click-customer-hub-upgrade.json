@@ -12,19 +12,19 @@
   "status": "completed",
   "start_date": "2025-12-11",
   "end_date": "2026-02-04",
-  "control_figma_url": null,
-  "treatment_figma_url": null,
-  "control_image_url": null,
+  "control_figma_url": "https://www.figma.com/design/6XepmsJwSAAcVijIcynhhu/Price-Is-Right?node-id=13332-36751&t=2gTLq1y4hUMNR7rP-4",
+  "treatment_figma_url": "https://www.figma.com/design/6XepmsJwSAAcVijIcynhhu/Price-Is-Right?node-id=13332-36602&t=2gTLq1y4hUMNR7rP-4",
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1776454676679-ts19v7.png",
   "control_description": null,
-  "treatment_image_url": null,
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1776454672491-ef4ycp.png",
   "treatment_description": null,
   "treatments": [
     {
       "id": "t-1776454376246",
       "label": "Treatment",
-      "image_url": null,
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1776454672491-ef4ycp.png",
       "description": null,
-      "figma_url": null
+      "figma_url": "https://www.figma.com/design/6XepmsJwSAAcVijIcynhhu/Price-Is-Right?node-id=13332-36602&t=2gTLq1y4hUMNR7rP-4"
     }
   ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/one_click_customer_hub_upgrade/results",
@@ -53,9 +53,9 @@
       "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770684342951-amc8x.png"
     }
   ],
-  "slack_channel_url": null,
+  "slack_channel_url": "https://klaviyo.enterprise.slack.com/archives/C09SFK07D53",
   "source_id": null,
   "created_by": null,
   "created_at": "2026-04-17T19:34:36.550Z",
-  "updated_at": "2026-04-17T19:37:00.803Z"
+  "updated_at": "2026-04-17T19:38:58.999Z"
 }
