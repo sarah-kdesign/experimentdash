@@ -1,12 +1,12 @@
 {
   "id": "1776454476549",
   "title": "One click customer hub upgrade",
-  "summary": "Does reducing clicks increase upgrades?",
+  "summary": "Does reducing clicks increase upgrades? Inconclusive.",
   "slug": "one-click-customer-hub-upgrade",
   "product_area": "Customer hub",
   "test_topic": "Upgrade",
   "hypothesis": "<p>We believe that introducing a one-click upgrade experience in customer hub for paid accounts will streamline the upgrade experience and increase upgrade conversion within customer hub because there is some friction in the existing checkout modal experience. We will measure success using new customer hub logos, and we'll monitor churn and ending MRR to ensure no negative impact.</p>",
-  "results": "<p>Results indicate slight improvement (39% vs. 33%) but well within expected statistical variation.</p>",
+  "results": "<p>Results indicate slight improvement (39% vs. 33%) but well within expected statistical variation. The sample size was particularly small (127 exposures). </p>",
   "learning": null,
   "notes": null,
   "status": "completed",
@@ -57,5 +57,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-04-17T19:34:36.550Z",
-  "updated_at": "2026-04-17T19:43:19.761Z"
+  "updated_at": "2026-04-17T19:44:32.487Z"
 }
