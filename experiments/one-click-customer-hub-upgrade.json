@@ -6,7 +6,7 @@
   "product_area": "Customer hub",
   "test_topic": "Upgrade",
   "hypothesis": "<p>We believe that introducing a one-click upgrade experience in customer hub for paid accounts will streamline the upgrade experience and increase upgrade conversion within customer hub because there is some friction in the existing checkout modal experience. We will measure success using new customer hub logos, and we'll monitor churn and ending MRR to ensure no negative impact.</p>",
-  "results": null,
+  "results": "<p>Results indicate slight improvement (39% vs. 33%) but well within expected statistical variation.</p>",
   "learning": null,
   "notes": null,
   "status": "completed",
@@ -29,7 +29,7 @@
   ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/one_click_customer_hub_upgrade/results",
   "sheets_url": null,
-  "heap_url": null,
+  "heap_url": "https://heapanalytics.com/app/env/91017801/graph/chart/Customer-Hub-Trial-Standard-Checkout-Results-18326335",
   "outcome": "ga",
   "winner": null,
   "guidelines": null,
@@ -57,5 +57,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-04-17T19:34:36.550Z",
-  "updated_at": "2026-04-17T19:38:58.999Z"
+  "updated_at": "2026-04-17T19:43:19.761Z"
 }
