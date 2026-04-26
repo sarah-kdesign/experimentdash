@@ -16,13 +16,13 @@
   "treatment_figma_url": "https://www.figma.com/design/MZCUMh8g8MALE5hD89PqDn/Add-SMS-to-flow?node-id=607-23539&t=SNlbmPMwzSJChtkz-0",
   "control_image_url": null,
   "control_description": "Text Message Welcome Series workflow with static default copy",
-  "treatment_image_url": null,
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1777243745915-zotn6.png",
   "treatment_description": "Text Message Welcome Series workflow with AI-generated customized and purpose-built message content",
   "treatments": [
     {
       "id": "t-1777243623241",
       "label": "Treatment",
-      "image_url": null,
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1777243745915-zotn6.png",
       "description": "Text Message Welcome Series workflow with AI-generated customized and purpose-built message content",
       "figma_url": "https://www.figma.com/design/MZCUMh8g8MALE5hD89PqDn/Add-SMS-to-flow?node-id=607-23539&t=SNlbmPMwzSJChtkz-0"
     }
@@ -44,18 +44,18 @@
       "id": "1774637159870",
       "name": "Karen Cheng",
       "role": "Growth",
-      "avatar_url": null
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1777243827180-khnmt.png"
     },
     {
       "id": "1774637159871",
       "name": "Ali Zouharis",
       "role": "Growth",
-      "avatar_url": null
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1777243831752-8qd7fd.png"
     }
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1774637136699429",
   "source_id": null,
-  "created_by": "sarah.delaney@klaviyo.com",
+  "created_by": null,
   "created_at": "2026-04-26T22:48:03.997Z",
-  "updated_at": "2026-04-26T22:48:03.997Z"
+  "updated_at": "2026-04-26T22:50:34.134Z"
 }
