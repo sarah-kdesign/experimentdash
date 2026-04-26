@@ -1,7 +1,7 @@
 {
   "id": "pending-1774637159869",
   "title": "Text message welcome series & AI content generation",
-  "summary": "Does pre-populated content increase rate at which accounts set welcome series flow live?",
+  "summary": "Does pre-populated content increase rate at which customers set welcome series flow live?",
   "slug": "text-message-welcome-series-ai-content-generation",
   "product_area": "Flows",
   "test_topic": "Text adoption",
@@ -57,5 +57,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-04-26T23:19:05.173Z",
-  "updated_at": "2026-04-26T23:30:34.957Z"
+  "updated_at": "2026-04-26T23:30:53.913Z"
 }
