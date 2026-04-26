@@ -1,33 +1,33 @@
 {
   "id": "pending-1774637159869",
-  "title": "Text message welcome series & AI content generation",
-  "summary": "Will smart default content increase rate at which customers set welcome series flows live?",
+  "title": "Text Message Welcome Series AI Content Generation",
+  "summary": "Testing AI-generated copy vs. static default text in the SMS welcome flow workflow to reduce setup friction and increase flow activation rate.",
   "slug": "text-message-welcome-series-ai-content-generation",
-  "product_area": "Flows",
-  "test_topic": "Text adoption",
-  "hypothesis": "<p>We believe that using AI-generated copy for the text messages within the Text Message (SMS) Welcome Series Flow Workflow will increase the rate at which accounts set the flow live (and, therefore, increase the share of accounts sending SMS on a monthly basis) because users will have greater confidence in the messages. We will measure success using new SMS sends and new SMS flow sends.</p>",
+  "product_area": "Text Message Welcome Series",
+  "test_topic": "AI Content Generation",
+  "hypothesis": "<p>We believe that automating the addition and configuration of the text message action in an account's existing abandoned checkout email flow for companies that have at least 1 existing abandoned checkout email that has recovered at least $1500 in revenue over the last quarter will lead to increased SMS sending because of the reduced friction from automatically selecting and placing the text message action in a best practice position. </p><p>We will measure success using New 7D and New 28D SMS Sends, and monitor New 7D and 28D SMS Flows to ensure no negative impact.</p>",
   "results": null,
   "learning": null,
   "notes": "Released today to 50% of eligible accounts. PRD: https://docs.google.com/document/d/1HGjObboTIYqgD78JZ34IWIV4ySsQlon5XLxNsOuOnBA/edit?tab=t.0#heading=h.pw5n5ufxkivs",
-  "status": "running",
+  "status": "draft",
   "start_date": "2026-03-27",
   "end_date": null,
-  "control_figma_url": null,
-  "treatment_figma_url": "https://www.figma.com/design/MZCUMh8g8MALE5hD89PqDn/Add-SMS-to-flow?node-id=607-23539&t=SNlbmPMwzSJChtkz-0",
+  "control_figma_url": "https://www.figma.com/design/kLifGdW2LmYaGBsovqxZTA/AI-Generated-SMS?node-id=85-98121&amp;p=f&amp;m=dev",
+  "treatment_figma_url": null,
   "control_image_url": null,
   "control_description": "Text Message Welcome Series workflow with static default copy",
-  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1777244468722-qbvgep.png",
-  "treatment_description": "Text message welcome series workflow with AI-generated customized and purpose-built message content",
+  "treatment_image_url": null,
+  "treatment_description": "Text Message Welcome Series workflow with AI-generated customized and purpose-built message content",
   "treatments": [
     {
-      "id": "t-1777243623241",
+      "id": "t-1777244605821",
       "label": "Treatment",
-      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1777244468722-qbvgep.png",
-      "description": "Text message welcome series workflow with AI-generated customized and purpose-built message content",
-      "figma_url": "https://www.figma.com/design/MZCUMh8g8MALE5hD89PqDn/Add-SMS-to-flow?node-id=607-23539&t=SNlbmPMwzSJChtkz-0"
+      "image_url": null,
+      "description": "Text Message Welcome Series workflow with AI-generated customized and purpose-built message content",
+      "figma_url": null
     }
   ],
-  "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/adoption_welcome_series_content_generation/results",
+  "statsig_url": null,
   "sheets_url": null,
   "heap_url": null,
   "outcome": null,
@@ -35,28 +35,27 @@
   "guidelines": null,
   "team_members": [
     {
-      "id": "1777244338707",
+      "id": "1774637159869",
       "name": "Amy Chen",
-      "role": "Engineering",
-      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770684025573-9s67f.png",
-      "profile_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1764966446257899?thread_ts=1757095022.650579&cid=C013ZJ231B3"
+      "role": "Growth",
+      "avatar_url": "https://avatars.slack-edge.com/2021-08-17/2389599016035_9e6d8877578fe4484f27_1024.jpg"
     },
     {
       "id": "1774637159870",
       "name": "Karen Cheng",
-      "role": "Product",
-      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1777243827180-khnmt.png"
+      "role": "Growth",
+      "avatar_url": null
     },
     {
       "id": "1774637159871",
       "name": "Ali Zouharis",
-      "role": "Design",
-      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1777243831752-8qd7fd.png"
+      "role": "Growth",
+      "avatar_url": null
     }
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1774637136699429",
   "source_id": null,
-  "created_by": null,
-  "created_at": "2026-04-26T22:48:03.997Z",
-  "updated_at": "2026-04-26T23:02:33.530Z"
+  "created_by": "sarah.delaney@klaviyo.com",
+  "created_at": "2026-04-26T23:04:04.927Z",
+  "updated_at": "2026-04-26T23:04:04.927Z"
 }
