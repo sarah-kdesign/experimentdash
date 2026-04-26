@@ -10,7 +10,7 @@
   "learning": null,
   "notes": null,
   "status": "draft",
-  "start_date": "3/27/26",
+  "start_date": null,
   "end_date": null,
   "control_figma_url": null,
   "treatment_figma_url": null,
@@ -18,17 +18,25 @@
   "control_description": null,
   "treatment_image_url": null,
   "treatment_description": null,
-  "treatments": null,
-  "statsig_url": "Stat Sig Dashboard",
+  "treatments": [
+    {
+      "id": "t-1777244873822",
+      "label": "Treatment",
+      "image_url": null,
+      "description": null,
+      "figma_url": null
+    }
+  ],
+  "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/adoption_welcome_series_content_generation/summary",
   "sheets_url": null,
   "heap_url": null,
+  "outcome": null,
   "winner": null,
   "guidelines": null,
   "team_members": null,
   "slack_channel_url": null,
   "source_id": "SMS Flow Content Generation for SMS Welcome Series",
-  "outcome": null,
-  "created_by": "zapier",
+  "created_by": null,
   "created_at": "2026-03-31T13:38:26.184Z",
-  "updated_at": "2026-03-31T13:38:26.205Z"
+  "updated_at": "2026-04-26T23:07:59.860Z"
 }
