@@ -9,7 +9,7 @@
   "results": null,
   "learning": null,
   "notes": "Released today to 50% of eligible accounts. PRD: https://docs.google.com/document/d/1HGjObboTIYqgD78JZ34IWIV4ySsQlon5XLxNsOuOnBA/edit?tab=t.0#heading=h.pw5n5ufxkivs",
-  "status": "running",
+  "status": "draft",
   "start_date": "2026-03-27",
   "end_date": null,
   "control_figma_url": "https://www.figma.com/design/kLifGdW2LmYaGBsovqxZTA/AI-Generated-SMS?node-id=85-98121&amp;p=f&amp;m=dev",
@@ -20,7 +20,7 @@
   "treatment_description": "Text Message Welcome Series workflow with AI-generated customized and purpose-built message content",
   "treatments": [
     {
-      "id": "t-1777244783621",
+      "id": "t-1777245350161",
       "label": "Treatment",
       "image_url": null,
       "description": "Text Message Welcome Series workflow with AI-generated customized and purpose-built message content",
@@ -56,6 +56,6 @@
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1774637136699429",
   "source_id": null,
   "created_by": "sarah.delaney@klaviyo.com",
-  "created_at": "2026-04-26T23:06:17.760Z",
-  "updated_at": "2026-04-26T23:06:17.760Z"
+  "created_at": "2026-04-26T23:18:20.863Z",
+  "updated_at": "2026-04-26T23:18:20.863Z"
 }
