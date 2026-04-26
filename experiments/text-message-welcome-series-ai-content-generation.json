@@ -35,21 +35,27 @@
   "guidelines": null,
   "team_members": [
     {
-      "id": "1774637159869",
-      "name": "Amy Chen",
-      "role": "Growth",
-      "avatar_url": "https://avatars.slack-edge.com/2021-08-17/2389599016035_9e6d8877578fe4484f27_1024.jpg"
+      "id": "1777243912731",
+      "name": "Irene Hnatiw",
+      "role": "Engineering",
+      "avatar_url": "https://avatars.slack-edge.com/2023-03-29/5032369263058_099a419fdcd361387025_1024.png"
+    },
+    {
+      "id": "1777243905246",
+      "name": "Robin Bele",
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770846370422-wccqkk.png"
     },
     {
       "id": "1774637159870",
       "name": "Karen Cheng",
-      "role": "Growth",
+      "role": "Product",
       "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1777243827180-khnmt.png"
     },
     {
       "id": "1774637159871",
       "name": "Ali Zouharis",
-      "role": "Growth",
+      "role": "Design",
       "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1777243831752-8qd7fd.png"
     }
   ],
@@ -57,5 +63,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-04-26T22:48:03.997Z",
-  "updated_at": "2026-04-26T22:50:34.134Z"
+  "updated_at": "2026-04-26T22:52:02.088Z"
 }
