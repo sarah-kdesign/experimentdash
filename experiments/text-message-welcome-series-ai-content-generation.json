@@ -3,9 +3,9 @@
   "title": "Text message welcome series & AI content generation",
   "summary": "Testing AI-generated copy vs. static default text in the SMS welcome flow workflow to reduce setup friction and increase flow activation rate.",
   "slug": "text-message-welcome-series-ai-content-generation",
-  "product_area": "Text Message Welcome Series",
-  "test_topic": "AI Content Generation",
-  "hypothesis": "By incorporating AI-generated copy into the Text Message Welcome Series workflow, we expect to increase the conversion rate of accounts that set a text welcome series flow live and ultimately increase the share of accounts sending text messages regularly, as AI helps users overcome the barrier of crafting the 'right' message.",
+  "product_area": "Flows",
+  "test_topic": "Text adoption",
+  "hypothesis": "<p>We believe that using AI-generated copy for the text messages within the text message (SMS) welcome series flow workflow will increase the rate at which accounts set the flow live (and, therefore, increase the share of accounts sending SMS on a monthly basis) because users will have greater confidence in the messages. </p><p>We will measure success using new SMS sends and new SMS flow sends.</p>",
   "results": null,
   "learning": null,
   "notes": "Released today to 50% of eligible accounts. PRD: https://docs.google.com/document/d/1HGjObboTIYqgD78JZ34IWIV4ySsQlon5XLxNsOuOnBA/edit?tab=t.0#heading=h.pw5n5ufxkivs",
@@ -15,19 +15,19 @@
   "control_figma_url": "https://www.figma.com/design/kLifGdW2LmYaGBsovqxZTA/AI-Generated-SMS?node-id=85-98121&amp;p=f&amp;m=dev",
   "treatment_figma_url": null,
   "control_image_url": null,
-  "control_description": "Text Message Welcome Series workflow with static default copy",
-  "treatment_image_url": null,
+  "control_description": "The control treatment includes default static copy",
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1777246146996-6hu1c.png",
   "treatment_description": "Text Message Welcome Series workflow with AI-generated customized and purpose-built message content",
   "treatments": [
     {
       "id": "t-1777245534722",
       "label": "Treatment",
-      "image_url": null,
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1777246146996-6hu1c.png",
       "description": "Text Message Welcome Series workflow with AI-generated customized and purpose-built message content",
       "figma_url": null
     }
   ],
-  "statsig_url": null,
+  "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/adoption_welcome_series_content_generation/summary",
   "sheets_url": null,
   "heap_url": null,
   "outcome": null,
@@ -57,5 +57,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-04-26T23:19:05.173Z",
-  "updated_at": "2026-04-26T23:27:44.338Z"
+  "updated_at": "2026-04-26T23:29:42.120Z"
 }
