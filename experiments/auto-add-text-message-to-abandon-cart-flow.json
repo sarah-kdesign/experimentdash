@@ -1,7 +1,7 @@
 {
   "id": "1777246654140",
   "title": "Auto-add text message to abandon cart flow",
-  "summary": null,
+  "summary": "Does auto-adding a text to an abandoned cart flow increase text setup and sends?",
   "slug": "auto-add-text-message-to-abandon-cart-flow",
   "product_area": "Flows",
   "test_topic": "Text adoption",
@@ -9,7 +9,7 @@
   "results": null,
   "learning": null,
   "notes": null,
-  "status": "draft",
+  "status": "running",
   "start_date": "2026-04-23",
   "end_date": null,
   "control_figma_url": null,
@@ -27,7 +27,7 @@
       "figma_url": null
     }
   ],
-  "statsig_url": null,
+  "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/adoption_add_sms_to_flows_v2/results",
   "sheets_url": null,
   "heap_url": null,
   "outcome": null,
@@ -55,7 +55,7 @@
   ],
   "slack_channel_url": null,
   "source_id": null,
-  "created_by": "sarah.delaney@klaviyo.com",
+  "created_by": null,
   "created_at": "2026-04-26T23:37:34.140Z",
-  "updated_at": "2026-04-26T23:37:34.140Z"
+  "updated_at": "2026-04-26T23:40:05.826Z"
 }
