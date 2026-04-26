@@ -1,0 +1,49 @@
+{
+  "id": "1777247559177",
+  "title": "Clearer button content in flow modal",
+  "summary": "Does \"Send yourself a preview\", instead of \"Test your flow\" increase click rates? ",
+  "slug": "clearer-button-content-in-flow-modal",
+  "product_area": "Free to paid",
+  "test_topic": "Conversion",
+  "hypothesis": "<p>If we clarify button language then we will increase click rates.</p>",
+  "results": null,
+  "learning": null,
+  "notes": null,
+  "status": "running",
+  "start_date": "2026-04-23",
+  "end_date": null,
+  "control_figma_url": null,
+  "treatment_figma_url": null,
+  "control_image_url": null,
+  "control_description": null,
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1777247401187-wnkrn6.png",
+  "treatment_description": null,
+  "treatments": [
+    {
+      "id": "t-1777247388816",
+      "label": "Treatment",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1777247401187-wnkrn6.png",
+      "description": null,
+      "figma_url": null
+    }
+  ],
+  "statsig_url": null,
+  "sheets_url": null,
+  "heap_url": "https://heapanalytics.com/app/env/91017801/graph/chart/preview/19437777",
+  "outcome": null,
+  "winner": null,
+  "guidelines": null,
+  "team_members": [
+    {
+      "id": "1777247420272",
+      "name": "Evan Lamberg",
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770687536844-rw9eb.png"
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1776948811916229",
+  "source_id": null,
+  "created_by": "sarah.delaney@klaviyo.com",
+  "created_at": "2026-04-26T23:52:39.177Z",
+  "updated_at": "2026-04-26T23:52:39.177Z"
+}
