@@ -1,11 +1,11 @@
 {
   "id": "1777247366036",
   "title": "Concrete button content in free to paid upgrade modal",
-  "summary": "Will \"Update to send\", instead of \"Update now\" increase clicks? ",
+  "summary": "Does \"Update to send\", instead of \"Update now\" increase click rates? ",
   "slug": "concrete-button-content-in-free-to-paid-upgrade-modal",
   "product_area": "Free to paid",
   "test_topic": "Conversion",
-  "hypothesis": "<p>If we focus button language on the benefit - sends, then we will increase click rates.</p>",
+  "hypothesis": "<p>If we focus button language on the benefit - sends - then we will increase click rates.</p>",
   "results": null,
   "learning": null,
   "notes": null,
@@ -43,7 +43,7 @@
   ],
   "slack_channel_url": null,
   "source_id": null,
-  "created_by": "sarah.delaney@klaviyo.com",
+  "created_by": null,
   "created_at": "2026-04-26T23:49:26.036Z",
-  "updated_at": "2026-04-26T23:49:26.036Z"
+  "updated_at": "2026-04-26T23:51:19.145Z"
 }
