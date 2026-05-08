@@ -1,0 +1,50 @@
+{
+  "id": "1778260318466",
+  "title": "PESTO campaign scheduling UI: banner toggle vs. dropdown",
+  "summary": "Does a scheduling dropdown instead of a banner toggle increase PESTO adoption? Yes, it did.",
+  "slug": "pesto-campaign-scheduling-ui-banner-toggle-vs-dropdown",
+  "product_area": "Campaigns",
+  "hypothesis": "If we move PESTO into the scheduling flow as a dropdown option rather than a persistent banner toggle, users will discover and enable it more intentionally, leading to increased adoption and campaign scheduling rates.",
+  "results": "The dropdown treatment increased PESTO adoption by 19% (p < 0.01). Campaign scheduling rates also improved. The experiment was called at 93% power after approximately 3 weeks.",
+  "learning": "Placing PESTO as a contextual option within the scheduling flow drives more intentional discovery and adoption compared to a persistent banner toggle.",
+  "notes": "Design screenshots in Slack thread. Control: pink PESTO banner toggle. Treatment: scheduling dropdown with PESTO option.",
+  "status": "completed",
+  "start_date": "2025-01-21",
+  "end_date": "2025-02-10",
+  "control_figma_url": null,
+  "treatment_figma_url": "https://www.figma.com/design/TrgrACBBUFmjXK86wxliKN/",
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778263402438-i5yvxf.jpg",
+  "control_description": "Banner toggle",
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778263403194-7k17tj.jpg",
+  "treatment_description": "Dropdown option",
+  "treatments": null,
+  "statsig_url": "https://console.statsig.com/5GfRiMhmZ1NwKbhxcsq7WC/experiments/pesto_schedule_ui_as_dropdown/results",
+  "sheets_url": null,
+  "heap_url": null,
+  "outcome": "treatment",
+  "winner": "treatment",
+  "guidelines": null,
+  "team_members": [
+    {
+      "name": "Ian Delbridge",
+      "role": "Engineering"
+    },
+    {
+      "name": "Nila Gao",
+      "role": "Product Design"
+    },
+    {
+      "name": "Mollie Bodensteiner",
+      "role": "Product"
+    },
+    {
+      "name": "Dany Ben-David",
+      "role": "Data Science"
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C07JWPXS69E/p1739212508982909",
+  "source_id": null,
+  "created_by": "Ian Delbridge",
+  "created_at": "2026-05-08T18:04:55.405Z",
+  "updated_at": "2026-05-08T18:04:55.405Z"
+}
