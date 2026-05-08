@@ -1,0 +1,60 @@
+{
+  "id": "1778260318466",
+  "title": "PESTO campaign scheduling UI: banner toggle vs. dropdown",
+  "summary": "Does a scheduling dropdown instead of a banner toggle increase PESTO adoption? Yes, it did.",
+  "slug": "pesto-campaign-scheduling-ui-banner-toggle-vs-dropdown",
+  "product_area": "Campaigns",
+  "test_topic": "PESTO adoption",
+  "hypothesis": "If we move PESTO into the scheduling flow as a dropdown option rather than a persistent banner toggle, users will discover and enable it more intentionally, leading to increased adoption and campaign scheduling rates.",
+  "results": "The dropdown treatment increased PESTO adoption by 19% (p < 0.01). Campaign scheduling rates also improved. The experiment was called at 93% power after approximately 3 weeks.",
+  "learning": "Placing PESTO as a contextual option within the scheduling flow drives more intentional discovery and adoption compared to a persistent banner toggle.",
+  "notes": "Design screenshots in Slack thread. Control: pink PESTO banner toggle. Treatment: scheduling dropdown with PESTO option.",
+  "status": "completed",
+  "start_date": "2026-04-06",
+  "end_date": "2026-05-07",
+  "control_figma_url": null,
+  "treatment_figma_url": "https://www.figma.com/design/TrgrACBBUFmjXK86wxliKN/PESTO-Campaign-Scheduling-UI-Experiment?node-id=786-41390",
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778276621755-l7xrom.png",
+  "control_description": "Banner toggle",
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778276625729-vn6qbi.png",
+  "treatment_description": "Dropdown option, within existing workflow",
+  "treatments": [
+    {
+      "id": "treatment",
+      "label": "Treatment",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778276625729-vn6qbi.png",
+      "description": "Dropdown option, within existing workflow",
+      "figma_url": "https://www.figma.com/design/TrgrACBBUFmjXK86wxliKN/PESTO-Campaign-Scheduling-UI-Experiment?node-id=786-41390"
+    }
+  ],
+  "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/pesto_schedule_ui_as_dropdown/results",
+  "sheets_url": null,
+  "heap_url": null,
+  "outcome": "ga",
+  "winner": "treatment",
+  "guidelines": null,
+  "team_members": [
+    {
+      "name": "Ian Delbridge",
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778276642208-wo60tf.png"
+    },
+    {
+      "name": "Nila Gao",
+      "role": "Product Design"
+    },
+    {
+      "name": "Mollie Bodensteiner",
+      "role": "Product"
+    },
+    {
+      "name": "Dany Ben-David",
+      "role": "Data Science"
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C07JWPXS69E/p1739212508982909",
+  "source_id": null,
+  "created_by": null,
+  "created_at": "2026-05-08T17:11:58.466Z",
+  "updated_at": "2026-05-08T21:44:05.921Z"
+}
