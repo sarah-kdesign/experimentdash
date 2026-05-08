@@ -1,13 +1,13 @@
 {
-  "id": "1778279258704",
+  "id": "1778279269345",
   "title": "PESTO scheduling UI: banner toggle vs. dropdown",
   "summary": "Does a scheduling dropdown instead of a banner toggle increase PESTO adoption? Yes, it did.",
   "product_area": "Campaigns",
   "test_topic": "PESTO adoption",
   "hypothesis": "We believe that moving the schedule UI for PESTO campaigns to be via the schedule method dropdown list for new and existing PESTO users will keep engagement the same because it will be less visible. We will measure success using # of PESTO users, and monitor # of PESTO campaigns scheduled to ensure no negative impact.",
-  "results": "The dropdown drove statistically significant lift across all three primary metrics: companies using PESTO, PESTO campaigns scheduled, and PESTO campaigns scheduled per company — decisively refuting the hypothesis that the dropdown would worsen usage.",
-  "learning": "Embedding a feature naturally into the customer's existing workflow can drive stronger adoption than highlighting it loudly with a banner. The dropdown meaningfully improved PESTO usage over the banner toggle.",
-  "notes": "Design screenshots attached in the Slack thread (can be uploaded manually via admin panel). Partners in the campaigns team: Gil Hsu and Mahima Rao.",
+  "results": "The dropdown drove statistically significant lift across all three primary metrics: companies using PESTO, PESTO campaigns scheduled, and PESTO campaigns scheduled per company.",
+  "learning": "Embedding a feature naturally into the customer workflow drives stronger adoption than highlighting it loudly with a banner. The dropdown meaningfully improved PESTO usage.",
+  "notes": "Design screenshots attached in Slack thread. Partners in campaigns team: Gil Hsu and Mahima Rao.",
   "status": "completed",
   "start_date": "2026-04-06",
   "end_date": "2026-05-08",
@@ -41,6 +41,6 @@
   "slack_channel_url": "https://klaviyo.slack.com/archives/C07JWPXS69E/p1778179447122879",
   "source_id": null,
   "created_by": "Nila Gao",
-  "created_at": "2026-05-08T22:27:38.704Z",
-  "updated_at": "2026-05-08T22:27:38.704Z"
+  "created_at": "2026-05-08T22:27:49.345Z",
+  "updated_at": "2026-05-08T22:27:49.345Z"
 }
