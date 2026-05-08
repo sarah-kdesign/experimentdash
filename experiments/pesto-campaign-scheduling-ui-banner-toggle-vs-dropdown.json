@@ -1,24 +1,24 @@
 {
   "id": "1778260318466",
   "title": "PESTO campaign scheduling UI: banner toggle vs. dropdown",
-  "summary": "Does a scheduling dropdown instead of a banner toggle increase PESTO adoption? Yes, it did.",
+  "summary": "Does a scheduling dropdown instead of a banner toggle increase PESTO adoption?",
   "slug": "pesto-campaign-scheduling-ui-banner-toggle-vs-dropdown",
   "product_area": "Campaigns",
-  "hypothesis": "If we move PESTO into the scheduling flow as a dropdown option instead of a banner toggle, users will be more likely to adopt it because it fits naturally into the scheduling workflow.",
-  "results": "The dropdown treatment increased PESTO adoption by 19% (p < 0.01). Users in the treatment group were significantly more likely to enable PESTO scheduling.",
-  "learning": "Placing PESTO as a contextual option within the scheduling flow—rather than as a prominent banner—reduces friction and increases adoption by meeting users where they already are in the workflow.",
-  "notes": "Design screenshots in Slack thread. Figma link includes treatment designs only.",
+  "hypothesis": "We believe that moving the schedule UI for PESTO campaigns to be via the schedule method dropdown list for new and existing PESTO users will keep engagement the same because it will be less visible. We will measure success using # of PESTO users, and monitor # of PESTO campaigns scheduled to ensure no negative impact.",
+  "results": "The dropdown experience drove a statistically significant lift across all three primary metrics: companies using PESTO, PESTO campaigns scheduled, and PESTO campaigns scheduled per company.",
+  "learning": "Embedding the PESTO entry point into the scheduling dropdown — with an educational popover — drove stronger adoption than the banner toggle, decisively refuting the hypothesis. Contextual discovery outperformed prominent placement.",
+  "notes": "Design screenshots in the Slack thread. Figma links are earlier design iterations — deployed UI differs slightly.",
   "status": "completed",
-  "start_date": "2025-01-21",
-  "end_date": "2025-02-10",
-  "control_figma_url": null,
-  "treatment_figma_url": "https://www.figma.com/design/TrgrACBBUFmjXK86wxliKN/",
+  "start_date": "2026-04-06",
+  "end_date": "2026-05-07",
+  "control_figma_url": "https://www.figma.com/design/TrgrACBBUFmjXK86wxliKN/GA---Personalized-send-time?node-id=802-44287",
+  "treatment_figma_url": "https://www.figma.com/design/TrgrACBBUFmjXK86wxliKN/GA---Personalized-send-time?node-id=786-41390",
   "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778263402438-i5yvxf.jpg",
-  "control_description": "Banner toggle",
+  "control_description": "Banner/button toggle to enable PESTO",
   "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778263403194-7k17tj.jpg",
-  "treatment_description": "Dropdown option",
+  "treatment_description": "Scheduling options dropdown with educational popover",
   "treatments": null,
-  "statsig_url": "https://console.statsig.com/5GfRiMhmZ1NwKbhxcsq7WC/experiments/pesto_schedule_ui_as_dropdown/results",
+  "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/pesto_schedule_ui_as_dropdown/setup",
   "sheets_url": null,
   "heap_url": null,
   "outcome": "treatment",
@@ -34,21 +34,17 @@
       "role": "Product Design"
     },
     {
-      "name": "Ray Tann",
-      "role": "Data Science"
-    },
-    {
-      "name": "Gilbert Hsu",
+      "name": "Carola Leiva",
       "role": "Product"
     },
     {
-      "name": "Mahima Rao",
-      "role": "Product Design"
+      "name": "Ray Tann",
+      "role": "Product Analytics"
     }
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C07U8BS81QC/p1778175020958499",
   "source_id": null,
   "created_by": "Ian Delbridge",
-  "created_at": "2026-05-08T21:24:58.376Z",
-  "updated_at": "2026-05-08T21:24:58.376Z"
+  "created_at": "2026-05-08T21:30:36.630Z",
+  "updated_at": "2026-05-08T21:30:36.630Z"
 }
