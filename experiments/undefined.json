@@ -1,5 +1,5 @@
 {
-  "id": "1778279269345",
+  "id": "1778280769233",
   "title": "PESTO scheduling UI: banner toggle vs. dropdown",
   "summary": "Does a scheduling dropdown instead of a banner toggle increase PESTO adoption? Yes, it did.",
   "product_area": "Campaigns",
@@ -41,6 +41,6 @@
   "slack_channel_url": "https://klaviyo.slack.com/archives/C07JWPXS69E/p1778179447122879",
   "source_id": null,
   "created_by": "Nila Gao",
-  "created_at": "2026-05-08T22:27:49.345Z",
-  "updated_at": "2026-05-08T22:27:49.345Z"
+  "created_at": "2026-05-08T22:52:49.233Z",
+  "updated_at": "2026-05-08T22:52:49.233Z"
 }
