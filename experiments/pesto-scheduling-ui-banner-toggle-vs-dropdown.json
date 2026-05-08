@@ -14,34 +14,45 @@
   "end_date": "2026-05-08",
   "control_figma_url": null,
   "treatment_figma_url": "https://www.figma.com/design/TrgrACBBUFmjXK86wxliKN/GA---Personalized-send-time?node-id=0-1&p=f&focus-id=786-27372&view=focus&m=dev",
-  "control_image_url": null,
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778279467749-fxk6v.png",
   "control_description": "Banner/button toggle entry point for enabling Personalized Send Time",
-  "treatment_image_url": null,
-  "treatment_description": "Scheduling options dropdown with an educational popover pointing users to PESTO",
-  "treatments": null,
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778279472105-ya0qg7.png",
+  "treatment_description": "Scheduling options dropdown ",
+  "treatments": [
+    {
+      "id": "treatment",
+      "label": "Treatment",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778279472105-ya0qg7.png",
+      "description": "Scheduling options dropdown ",
+      "figma_url": "https://www.figma.com/design/TrgrACBBUFmjXK86wxliKN/GA---Personalized-send-time?node-id=0-1&p=f&focus-id=786-27372&view=focus&m=dev"
+    }
+  ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/pesto_schedule_ui_as_dropdown/summary",
   "sheets_url": null,
   "heap_url": null,
-  "outcome": "treatment",
+  "outcome": "ga",
   "winner": "treatment",
   "guidelines": null,
   "team_members": [
     {
       "name": "Ian Delbridge",
-      "role": "Engineering"
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778279484484-c6purq.png"
     },
     {
       "name": "Nila Gao",
-      "role": "Product Design"
+      "role": "Design",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778279488412-yn8e2k.png"
     },
     {
       "name": "Ray Tann",
-      "role": "Analytics"
+      "role": "Data Science",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778279491227-po3a3n.png"
     }
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C07JWPXS69E/p1778179447122879",
   "source_id": null,
-  "created_by": "Nila Gao",
+  "created_by": null,
   "created_at": "2026-05-08T22:30:35.887Z",
-  "updated_at": "2026-05-08T22:30:35.887Z"
+  "updated_at": "2026-05-08T22:31:40.070Z"
 }
