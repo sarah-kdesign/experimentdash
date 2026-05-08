@@ -14,15 +14,15 @@
   "end_date": "2026-05-08",
   "control_figma_url": null,
   "treatment_figma_url": "https://www.figma.com/design/TrgrACBBUFmjXK86wxliKN/GA---Personalized-send-time?node-id=0-1&p=f&focus-id=786-27372&view=focus&m=dev",
-  "control_image_url": null,
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778280252193-1ak8t.png",
   "control_description": "Banner/button toggle entry point for enabling Personalized Send Time",
-  "treatment_image_url": null,
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778280254739-vs75vk.png",
   "treatment_description": "Scheduling options dropdown with an educational popover pointing users to PESTO",
   "treatments": [
     {
       "id": "treatment",
       "label": "Treatment",
-      "image_url": null,
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778280254739-vs75vk.png",
       "description": "Scheduling options dropdown with an educational popover pointing users to PESTO",
       "figma_url": "https://www.figma.com/design/TrgrACBBUFmjXK86wxliKN/GA---Personalized-send-time?node-id=0-1&p=f&focus-id=786-27372&view=focus&m=dev"
     }
@@ -51,5 +51,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-05-08T22:27:49.345Z",
-  "updated_at": "2026-05-08T22:41:56.450Z"
+  "updated_at": "2026-05-08T22:44:16.320Z"
 }
