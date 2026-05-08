@@ -14,15 +14,15 @@
   "end_date": "2026-05-08",
   "control_figma_url": null,
   "treatment_figma_url": null,
-  "control_image_url": null,
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778282664865-24firp.png",
   "control_description": "Banner/button toggle for enabling Personalized Send Time",
-  "treatment_image_url": null,
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778282667324-113a39h.png",
   "treatment_description": "Scheduling options dropdown with educational popover",
   "treatments": [
     {
       "id": "treatment",
       "label": "Treatment",
-      "image_url": null,
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778282667324-113a39h.png",
       "description": "Scheduling options dropdown with educational popover",
       "figma_url": null
     }
@@ -34,6 +34,12 @@
   "winner": "treatment",
   "guidelines": null,
   "team_members": [
+    {
+      "id": "1778282671594",
+      "name": "Carola Leiva",
+      "role": "Product",
+      "avatar_url": null
+    },
     {
       "name": "Ian Delbridge",
       "role": "Engineering"
@@ -51,5 +57,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-05-08T23:21:57.515Z",
-  "updated_at": "2026-05-08T23:22:59.836Z"
+  "updated_at": "2026-05-08T23:24:38.991Z"
 }
