@@ -1,5 +1,5 @@
 {
-  "id": "1778284184591",
+  "id": "1778282517515",
   "title": "PESTO campaign scheduling UI experiment",
   "summary": "Does a scheduling dropdown instead of a banner toggle increase PESTO adoption? Yes, it did.",
   "slug": "pesto-campaign-scheduling-ui-experiment",
@@ -8,7 +8,7 @@
   "hypothesis": "We believe that moving the schedule UI for PESTO campaigns to be via the schedule method dropdown list for new and existing PESTO users will keep engagement the same because it will be less visible. We will measure success using # of PESTO users, and monitor # of PESTO campaigns scheduled to ensure no negative impact.",
   "results": "The dropdown experience drove statistically significant lift across all three primary metrics: (1) companies using PESTO, (2) PESTO campaigns scheduled, and (3) PESTO campaigns scheduled per company — decisively refuting the hypothesis that dropdown visibility would keep engagement flat.",
   "learning": "Embedding the feature naturally into the customer workflow (dropdown) drove stronger adoption than highlighting it loudly (banner). Contextual discovery works better than prominent UI entry points.",
-  "notes": "Design screenshots attached in Slack (file IDs: F0B2FKQ031S, F0B29A736R4, F0AQXTT9CPM) — can be uploaded via the admin panel. Statsig decision: Ship Test Group 1 (dropdown).",
+  "notes": "Design screenshots attached in Slack (file IDs: F0B2FKQ031S, F0B29A736R4, F0AQXTT9CPM).",
   "status": "completed",
   "start_date": "2026-04-06",
   "end_date": "2026-05-08",
@@ -42,6 +42,6 @@
   "slack_channel_url": "https://klaviyo.slack.com/archives/C07JWPXS69E/p1778179447122879",
   "source_id": null,
   "created_by": "Nila Gao",
-  "created_at": "2026-05-08T23:49:44.591Z",
-  "updated_at": "2026-05-08T23:49:44.591Z"
+  "created_at": "2026-05-08T23:52:46.188Z",
+  "updated_at": "2026-05-08T23:52:46.189Z"
 }
