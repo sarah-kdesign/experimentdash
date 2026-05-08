@@ -4,6 +4,7 @@
   "summary": "Does a scheduling dropdown instead of a banner toggle increase PESTO adoption? Yes, it did.",
   "slug": "pesto-campaign-scheduling-ui-banner-toggle-vs-dropdown",
   "product_area": "Campaigns",
+  "test_topic": "PESTO adoption",
   "hypothesis": "We believe that moving the schedule UI for PESTO campaigns to be via the schedule method dropdown list for new and existing PESTO users will keep engagement the same because it will be less visible. We will measure success using # of PESTO users, and monitor # of PESTO campaigns scheduled to ensure no negative impact.",
   "results": "The dropdown experience drove a statistically significant lift across all three primary metrics: companies using PESTO, PESTO campaigns scheduled, and PESTO campaigns scheduled per company.",
   "learning": "Embedding the PESTO entry point into the scheduling dropdown — with an educational popover — drove stronger adoption than the banner toggle, decisively refuting the hypothesis. Contextual discovery outperformed prominent placement.",
@@ -13,38 +14,50 @@
   "end_date": "2026-05-07",
   "control_figma_url": "https://www.figma.com/design/TrgrACBBUFmjXK86wxliKN/GA---Personalized-send-time?node-id=802-44287",
   "treatment_figma_url": "https://www.figma.com/design/TrgrACBBUFmjXK86wxliKN/GA---Personalized-send-time?node-id=786-41390",
-  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778263402438-i5yvxf.jpg",
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778276204558-otyirp.png",
   "control_description": "Banner/button toggle to enable PESTO",
-  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778263403194-7k17tj.jpg",
-  "treatment_description": "Scheduling options dropdown with educational popover",
-  "treatments": null,
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778276208616-k1d2ju.png",
+  "treatment_description": "Scheduling options dropdown",
+  "treatments": [
+    {
+      "id": "treatment",
+      "label": "Treatment",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778276208616-k1d2ju.png",
+      "description": "Scheduling options dropdown",
+      "figma_url": "https://www.figma.com/design/TrgrACBBUFmjXK86wxliKN/GA---Personalized-send-time?node-id=786-41390"
+    }
+  ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/pesto_schedule_ui_as_dropdown/setup",
   "sheets_url": null,
   "heap_url": null,
-  "outcome": "treatment",
+  "outcome": "ga",
   "winner": "treatment",
   "guidelines": null,
   "team_members": [
     {
       "name": "Ian Delbridge",
-      "role": "Engineering"
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778276172747-8ve5kw.png"
     },
     {
       "name": "Nila Gao",
-      "role": "Product Design"
+      "role": "Design",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778276177876-9uxjxc.png"
     },
     {
       "name": "Carola Leiva",
-      "role": "Product"
+      "role": "Product",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778276184111-9ax8xm.png"
     },
     {
       "name": "Ray Tann",
-      "role": "Product Analytics"
+      "role": "Data science",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778276189552-7lgva8.png"
     }
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C07U8BS81QC/p1778175020958499",
   "source_id": null,
-  "created_by": "Ian Delbridge",
+  "created_by": null,
   "created_at": "2026-05-08T21:35:28.155Z",
-  "updated_at": "2026-05-08T21:35:28.155Z"
+  "updated_at": "2026-05-08T21:37:04.919Z"
 }
