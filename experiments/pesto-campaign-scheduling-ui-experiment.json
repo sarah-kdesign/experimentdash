@@ -8,7 +8,7 @@
   "hypothesis": "We believe that moving the schedule UI for PESTO campaigns to be via the schedule method dropdown list for new and existing PESTO users will keep engagement the same because it will be less visible. We will measure success using # of PESTO users, and monitor # of PESTO campaigns scheduled to ensure no negative impact.",
   "results": "The dropdown experience drove statistically significant lift across all three primary metrics: (1) companies using PESTO, (2) PESTO campaigns scheduled, and (3) PESTO campaigns scheduled per company — decisively refuting the hypothesis that dropdown visibility would keep engagement flat.",
   "learning": "Embedding the feature naturally into the customer workflow (dropdown) drove stronger adoption than highlighting it loudly (banner). Contextual discovery works better than prominent UI entry points.",
-  "notes": "Design screenshots attached in Slack (file IDs: F0B2FKQ031S, F0B29A736R4, F0AQXTT9CPM).",
+  "notes": null,
   "status": "completed",
   "start_date": "2026-04-06",
   "end_date": "2026-05-08",
@@ -17,13 +17,13 @@
   "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778286277161-hlif5h.png",
   "control_description": "Banner/button toggle for enabling Personalized Send Time",
   "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778286279076-hcccr.png",
-  "treatment_description": "Scheduling options dropdown with educational popover",
+  "treatment_description": "Scheduling options dropdown",
   "treatments": [
     {
       "id": "treatment",
       "label": "Treatment",
       "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778286279076-hcccr.png",
-      "description": "Scheduling options dropdown with educational popover",
+      "description": "Scheduling options dropdown",
       "figma_url": null
     }
   ],
@@ -35,21 +35,30 @@
   "guidelines": null,
   "team_members": [
     {
+      "id": "1778286418247",
+      "name": "Carola Leiva",
+      "role": "Product",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778286426102-azv496.png"
+    },
+    {
       "name": "Ian Delbridge",
-      "role": "Engineering"
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778286402831-fpibmc.png"
     },
     {
       "name": "Nila Gao",
-      "role": "Product Design"
+      "role": "Design",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778286406561-5ajjkg.png"
     },
     {
       "name": "Ray Tann",
-      "role": "Product Analytics"
+      "role": "Data Science",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778286411333-6xs6o.png"
     }
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C07JWPXS69E/p1778179447122879",
   "source_id": null,
   "created_by": null,
   "created_at": "2026-05-09T00:18:05.538Z",
-  "updated_at": "2026-05-09T00:24:41.021Z"
+  "updated_at": "2026-05-09T00:27:08.025Z"
 }
