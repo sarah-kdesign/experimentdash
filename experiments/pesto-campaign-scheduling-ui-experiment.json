@@ -14,15 +14,23 @@
   "end_date": "2026-05-08",
   "control_figma_url": null,
   "treatment_figma_url": null,
-  "control_image_url": null,
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778286277161-hlif5h.png",
   "control_description": "Banner/button toggle for enabling Personalized Send Time",
-  "treatment_image_url": null,
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778286279076-hcccr.png",
   "treatment_description": "Scheduling options dropdown with educational popover",
-  "treatments": null,
+  "treatments": [
+    {
+      "id": "treatment",
+      "label": "Treatment",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1778286279076-hcccr.png",
+      "description": "Scheduling options dropdown with educational popover",
+      "figma_url": null
+    }
+  ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/pesto_schedule_ui_as_dropdown/setup",
   "sheets_url": null,
   "heap_url": null,
-  "outcome": "treatment",
+  "outcome": "ga",
   "winner": "treatment",
   "guidelines": null,
   "team_members": [
@@ -41,7 +49,7 @@
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C07JWPXS69E/p1778179447122879",
   "source_id": null,
-  "created_by": "Nila Gao",
+  "created_by": null,
   "created_at": "2026-05-09T00:18:05.538Z",
-  "updated_at": "2026-05-09T00:18:05.538Z"
+  "updated_at": "2026-05-09T00:24:41.021Z"
 }
