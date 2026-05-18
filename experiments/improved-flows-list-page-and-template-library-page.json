@@ -8,7 +8,7 @@
   "hypothesis": "We believe that some users are not creating and publishing Flows in their first 7 days because they do not have a clear path to value on the Flows empty state. If we improve the Flows empty state to support usability, personalization, and discovery, then we will empower more customers to create and publish flows, and thus increase Activation.",
   "results": null,
   "learning": null,
-  "notes": "PRD: https://docs.google.com/document/d/14xL1rNkmwjlOhWlfyo-seqdO5SWugpcCc887Z-13n3s/edit. 4 treatment screenshots shared — upload via admin panel.",
+  "notes": "<p>PRD: https://docs.google.com/document/d/14xL1rNkmwjlOhWlfyo-seqdO5SWugpcCc887Z-13n3s/edit. </p>",
   "status": "running",
   "start_date": "2026-05-18",
   "end_date": null,
@@ -18,7 +18,15 @@
   "control_description": "Current flows list page and template library",
   "treatment_image_url": null,
   "treatment_description": "Updated flows list page with collapsible panel and improved template library filtering",
-  "treatments": null,
+  "treatments": [
+    {
+      "id": "treatment",
+      "label": "Treatment",
+      "image_url": null,
+      "description": "Updated flows list page with collapsible panel and improved template library filtering",
+      "figma_url": "https://www.figma.com/design/z4scpirhdhZAMC9z9yiwKY/Improved-Flows-Empty-State-and-Template-Library?node-id=8140-87003&m=dev"
+    }
+  ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/flows_empty_state/results",
   "sheets_url": null,
   "heap_url": null,
@@ -41,7 +49,7 @@
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1779130751115509",
   "source_id": null,
-  "created_by": "Claude",
+  "created_by": null,
   "created_at": "2026-05-18T22:42:29.478Z",
-  "updated_at": "2026-05-18T22:42:29.478Z"
+  "updated_at": "2026-05-18T22:47:04.119Z"
 }
