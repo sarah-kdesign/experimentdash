@@ -14,7 +14,7 @@
   "end_date": null,
   "control_figma_url": null,
   "treatment_figma_url": null,
-  "control_image_url": null,
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780694650317-4k5bq.png",
   "control_description": null,
   "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1777247401187-wnkrn6.png",
   "treatment_description": null,
@@ -43,7 +43,7 @@
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1776948811916229",
   "source_id": null,
-  "created_by": "sarah.delaney@klaviyo.com",
+  "created_by": null,
   "created_at": "2026-04-26T23:52:39.177Z",
-  "updated_at": "2026-04-26T23:52:39.177Z"
+  "updated_at": "2026-06-05T21:24:19.404Z"
 }
