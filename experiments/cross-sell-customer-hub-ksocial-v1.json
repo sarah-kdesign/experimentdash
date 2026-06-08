@@ -18,7 +18,15 @@
   "control_description": "Standard Klaviyo app — no cross-sell placements",
   "treatment_image_url": null,
   "treatment_description": "Dismissible promo for Customer Hub or K:Social across 9 in-app placements (Profiles, Lists & Segments header + bottom blur row, Flow create, Sign-up Forms, Integrations header + Discover apps grid, Home banner, Subscriber Growth); dual-eligible users split evenly between arms",
-  "treatments": null,
+  "treatments": [
+    {
+      "id": "treatment",
+      "label": "Treatment",
+      "image_url": null,
+      "description": "Dismissible promo for Customer Hub or K:Social across 9 in-app placements (Profiles, Lists & Segments header + bottom blur row, Flow create, Sign-up Forms, Integrations header + Discover apps grid, Home banner, Subscriber Growth); dual-eligible users split evenly between arms",
+      "figma_url": null
+    }
+  ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/prx-ksocial-cross-sell-v1-relaunch/setup",
   "sheets_url": null,
   "heap_url": "https://heapanalytics.com/app/env/91017801/dashboard/PRX-Cross-Sell-V1-570289",
@@ -28,32 +36,38 @@
   "team_members": [
     {
       "name": "Celeste Adams-Gutierrez",
-      "role": "Engineering"
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780947452138-02wybt.png"
     },
     {
       "name": "Ali Zouharis",
-      "role": "Design"
+      "role": "Design",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780947362580-5ugleo.png"
     },
     {
       "name": "Joe Carpenito",
-      "role": "Engineering"
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780947368381-wrvntt.png"
     },
     {
       "name": "Chris Bulger",
-      "role": "Growth"
+      "role": "Growth",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780947373494-fddv7.png"
     },
     {
-      "name": "Nikolaos Katsikis",
-      "role": "Product Analytics"
+      "name": "Niko Katsikis",
+      "role": "Data science",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780947379355-86lnja.png"
     },
     {
       "name": "Dan Kavanaugh",
-      "role": "Product"
+      "role": "Product",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780947456038-4hdogb.png"
     }
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1780512342019219",
   "source_id": null,
-  "created_by": "Claude",
+  "created_by": null,
   "created_at": "2026-06-08T16:59:47.978Z",
-  "updated_at": "2026-06-08T16:59:47.978Z"
+  "updated_at": "2026-06-08T19:37:38.445Z"
 }
