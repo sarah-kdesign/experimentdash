@@ -8,15 +8,23 @@
   "hypothesis": "<p>Most email accounts are not ready to adopt text messaging very early in their lifecycle. Prompting too early creates friction and leads to unnecessary dismissals. Conversely, waiting too long misses high-intent moments that can meaningfully grow text adoption. We believe that targeted setup prompts based on account maturity and behavior will increase the rate of accounts setting up text messaging and increase the activation rates of those that set up.</p>",
   "results": null,
   "learning": null,
-  "notes": null,
+  "notes": "<p>Team hypothesizes that contextual prompts could work better instead of specific targeting criteria. The team proposed that the product expansion team to run another iteration with a different design to inform their intent engine design and interventions.</p>",
   "status": "running",
   "start_date": "2026-02-09",
   "end_date": null,
   "control_figma_url": null,
-  "treatment_figma_url": "https://www.figma.com/design/WBLRX4K3r3Hk89xIF7DRUW/SMS-targeted-setup-prompts?node-id=613-46175",
+  "treatment_figma_url": null,
   "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770948091231-ju3w9.png",
   "control_description": null,
-  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770948034864-8dig6q.png",
+  "control_pages": [
+    {
+      "id": "page-1",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770948091231-ju3w9.png",
+      "figma_url": null,
+      "caption": null
+    }
+  ],
+  "treatment_image_url": null,
   "treatment_description": null,
   "treatments": [
     {
@@ -65,5 +73,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-02-13T01:48:52.638Z",
-  "updated_at": "2026-04-01T00:52:55.141Z"
+  "updated_at": "2026-06-08T22:38:24.621Z"
 }
