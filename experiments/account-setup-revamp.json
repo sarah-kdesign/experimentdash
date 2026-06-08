@@ -8,7 +8,7 @@
   "hypothesis": "This experiment creates a new account setup experiment for 50% of new signups. This account setup flow is designed to be shorter, more aesthetically pleasing, and delightful to use. We are also adding a new step prompting the user to confirm their branding, which is optional. We believe this will lead to earlier personalization and better overall activation.",
   "results": "Treatment failed to meaningfully outperform control. Decision: ship control group. New branding experience showed a 10%+ conversion increase vs. legacy branding flow.",
   "learning": "Mobile responsiveness was a critical issue — shrunken components and partially hidden navigation made it hard to progress on mobile. The new branding experience showed promise and has been shipped to all users independently.",
-  "notes": "5 design screenshots attached in the Slack thread. Industry data no longer collected as a step in setup — gathered via BuiltWith in background and classified by DS model (CompanyWebsiteAnalysis table).",
+  "notes": "5 design screenshots attached in the Slack thread. Industry data no longer collected as a step in setup — gathered via BuiltWith in background and classified by DS model (CompanyWebsiteAnalysis table).\n\nMobile responsiveness is critical.\n• Shrunken components on mobile made data input and progressing to next steps incredibly hard.\n• Partially hidden navigation left mobile users unable to progress through setup for a period of the experiment.\n• Responsiveness can no longer be an afterthought, and needs to be part of solution design.\n\nDelight without utility creates friction.\n• The colorful side panel was intended to create a more engaging experience, but the data suggests it distracted/confused/overwhelmed users rather than help/motivate them to move forward.\n• 'Delightful' additions need to earn their place by being directly helpful.\n\nAI fallbacks are non-negotiable.\n• Parts of the experience relied on AI-generated content without graceful fallbacks for long wait periods or failure states.\n• When AI was unavailable or underperforming, users hit semi-dead ends. Any AI-dependent feature needs a reliable fallback before it ships.",
   "status": "completed",
   "start_date": "2026-04-06",
   "end_date": "2026-06-01",
@@ -43,6 +43,6 @@
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1775754469212109",
   "source_id": null,
   "created_by": "Claude",
-  "created_at": "2026-06-08T22:47:04.199Z",
-  "updated_at": "2026-06-08T22:47:04.199Z"
+  "created_at": "2026-06-08T22:47:33.561Z",
+  "updated_at": "2026-06-08T22:47:33.561Z"
 }
