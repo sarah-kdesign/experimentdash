@@ -4,11 +4,11 @@
   "summary": "Does AI-generated copy instead of static default copy increase the rate of accounts setting the SMS welcome series flow live? No, it didn't.",
   "slug": "ai-content-generation-for-sms-welcome-series-flow",
   "product_area": "Flows",
-  "test_topic": "SMS Adoption",
+  "test_topic": "Text adoption",
   "hypothesis": "We believe that using AI-generated copy for the text messages within the Text Message (SMS) Welcome Series Flow Workflow will increase the rate at which accounts set the flow live (and, therefore, increase the share of accounts sending SMS on a monthly basis) because users will have greater confidence in the messages. We will measure success using new SMS sends and new SMS flow sends.",
   "results": "Decision: Ship Control. Primary metrics (New SMS Send 7D and 28D) showed 2/5 significance. AI-generated copy did not meaningfully outperform static defaults.",
   "learning": "AI-generated copy for the SMS welcome series did not increase account activation or SMS sending behavior compared to static default copy.",
-  "notes": "Loom demo available. Design screenshots in Slack thread.",
+  "notes": null,
   "status": "completed",
   "start_date": "2026-03-27",
   "end_date": "2026-06-02",
@@ -37,7 +37,7 @@
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/adoption_welcome_series_content_generation/setup",
   "sheets_url": null,
   "heap_url": null,
-  "outcome": "ga",
+  "outcome": "not_ga",
   "winner": "control",
   "guidelines": null,
   "team_members": [
@@ -64,5 +64,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-06-08T21:33:36.518Z",
-  "updated_at": "2026-06-08T21:57:34.583Z"
+  "updated_at": "2026-06-08T21:59:39.446Z"
 }
