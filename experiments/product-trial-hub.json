@@ -30,6 +30,11 @@
           "id": "page-1780938652167",
           "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780939114733-0zy3p.png",
           "figma_url": null
+        },
+        {
+          "id": "page-1780939304439",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780939308304-9pfnl3.png",
+          "figma_url": null
         }
       ]
     }
@@ -74,5 +79,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-06-08T17:09:07.237Z",
-  "updated_at": "2026-06-08T17:18:37.536Z"
+  "updated_at": "2026-06-08T17:21:51.129Z"
 }
