@@ -1,10 +1,10 @@
 {
   "id": "1780938385863",
   "title": "Product trial hub",
-  "summary": "Does a product trial hub (replacing the Account Plan button) increase F2P conversion and trial starts across kSocial, Customer Hub, Customer Agent, CDP, and Marketing Analytics?",
+  "summary": "Does a product trial hub (replacing the Account Plan button) increase free-to-paid (F2P) conversion and trial starts across kSocial, Customer Hub, Customer Agent, CDP, and Marketing Analytics?",
   "slug": "product-trial-hub",
   "product_area": "Product expansion",
-  "test_topic": "Cross-sell / trial starts",
+  "test_topic": "Trials",
   "hypothesis": "We believe that replacing the existing Account Plan button with a new product and trial hub for non-paying accounts will increase the 21D F2P Conversion Rate by educating users on product usage and encouraging trial starts. This change targets non-paying accounts and aims to maintain or improve New Logos without negatively impacting their ability to pay for Klaviyo. We will monitor the 7D F2P Conversion Rate and Activation 28D as guardrails.",
   "results": null,
   "learning": null,
@@ -101,5 +101,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-06-08T17:09:07.237Z",
-  "updated_at": "2026-06-08T20:26:14.143Z"
+  "updated_at": "2026-06-08T20:28:43.002Z"
 }
