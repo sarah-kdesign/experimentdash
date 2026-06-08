@@ -3,8 +3,8 @@
   "title": "Cross-sell: Customer Hub + K:Social v1",
   "summary": "Does contextually surfacing Customer Hub and K:Social cross-sell placements across 9 in-app surfaces drive incremental trial starts without disrupting core workflows?",
   "slug": "cross-sell-customer-hub-ksocial-v1",
-  "product_area": "Integrations",
-  "test_topic": "Product expansion cross-sell",
+  "product_area": "Various",
+  "test_topic": "Product expansion",
   "hypothesis": "We believe that adding contextual Customer Hub and K:Social cross-sell placements (header pill popovers + a home banner) for established Klaviyo accounts (28+ days old, both free and paid plans) will drive incremental trial starts on Customer Hub and K:Social because users who have settled into Klaviyo's core flows have an established baseline of value and are in a position to notice and act on adjacent product offerings — and the placements are surfaced on pages where the cross-sell value prop is contextually relevant (e.g., Subscriber Growth for K:Social, Profiles/Forms for CH retention). We will measure success using trial-start rate per variant (CH trial starts for customer_hub arm, K:Social trial starts for ksocial arm — primary metric per arm), and monitor placement CTA click-through rate, dismissal rate, downstream onboarding completion of trial accounts, and engagement on the host page.",
   "results": null,
   "learning": null,
@@ -125,5 +125,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-06-08T16:59:47.978Z",
-  "updated_at": "2026-06-08T20:25:53.603Z"
+  "updated_at": "2026-06-08T20:27:08.512Z"
 }
