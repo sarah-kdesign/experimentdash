@@ -1,24 +1,59 @@
 {
-  "id": "1780938385863",
+  "id": "1780938215963",
   "title": "Product trial hub",
-  "summary": "Does a product trial hub (replacing the Account Plan button) increase F2P conversion and trial starts across kSocial, Customer Hub, Customer Agent, CDP, and Marketing Analytics?",
+  "summary": "Does a product trial hub increase trial starts?",
   "slug": "product-trial-hub",
-  "product_area": "Billing & Growth",
-  "test_topic": "Cross-sell / trial starts",
+  "product_area": "Expansion",
+  "test_topic": "Expansion",
   "hypothesis": "We believe that replacing the existing \"Account Plan\" button with a new product and trial \"hub\" for non-paying accounts will increase the 21D F2P Conversion Rate by educating users on product usage and encouraging trial starts. This change targets non-paying accounts and aims to maintain or improve New Logos without negatively impacting their ability to pay for Klaviyo. We will monitor the 7D F2P Conversion Rate and Activation 28D as guardrails to ensure no adverse effects.",
   "results": null,
   "learning": null,
-  "notes": "Two separate Statsig experiments: product_trial_hub (new/non-paying accounts, 50% allocation, live 5/26) and product_trial_hub_existing_accounts (existing accounts, ~10% ramping to ~50%, live 6/1). Design screenshots attached in Slack thread - upload via admin panel.",
+  "notes": "Two separate Statsig experiments: product_trial_hub (new/non-paying accounts, 50% allocation, live 5/26) and product_trial_hub_existing_accounts (existing accounts, ~10% ramping to ~50%, live 6/1). Design screenshots were attached in the Slack thread — can be uploaded manually via the admin panel.",
   "status": "running",
   "start_date": "2026-05-26",
   "end_date": null,
   "control_figma_url": null,
-  "treatment_figma_url": "https://www.figma.com/design/7ni0Mj2kSUKRPXNu7JJjC2/Cross-Sell-System?node-id=15247-62154",
+  "treatment_figma_url": "https://www.figma.com/design/7ni0Mj2kSUKRPXNu7JJjC2/Cross-Sell-System?node-id=15247-62154&t=O4UNmBatKgwvajdU-0",
   "control_image_url": null,
   "control_description": "\"Account Plan\" / \"Try text messaging\" button in top nav",
-  "treatment_image_url": null,
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780938358932-4zmzn7.png",
   "treatment_description": "Product Trial Hub popover with usage stats and trial options for kSocial, Customer Hub, Customer Agent, CDP, and Marketing Analytics",
-  "treatments": null,
+  "treatments": [
+    {
+      "id": "treatment",
+      "label": "Treatment",
+      "image_url": null,
+      "description": "Product Trial Hub popover with usage stats and trial options for kSocial, Customer Hub, Customer Agent, CDP, and Marketing Analytics",
+      "figma_url": "https://www.figma.com/design/7ni0Mj2kSUKRPXNu7JJjC2/Cross-Sell-System?node-id=15247-62154&t=O4UNmBatKgwvajdU-0",
+      "pages": [
+        {
+          "id": "page-1780938242660",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780938358932-4zmzn7.png",
+          "figma_url": "https://www.figma.com/design/7ni0Mj2kSUKRPXNu7JJjC2/Cross-Sell-System?node-id=15247-62154&t=O4UNmBatKgwvajdU-0"
+        },
+        {
+          "id": "page-1780938361582",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780938367902-bd56ge.png",
+          "figma_url": "https://www.figma.com/design/7ni0Mj2kSUKRPXNu7JJjC2/Cross-Sell-System?node-id=15247-62154&t=O4UNmBatKgwvajdU-0"
+        },
+        {
+          "id": "page-1780938379953",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780938384840-jw3bz8.png",
+          "figma_url": "https://www.figma.com/design/7ni0Mj2kSUKRPXNu7JJjC2/Cross-Sell-System?node-id=15247-62154&t=O4UNmBatKgwvajdU-0"
+        },
+        {
+          "id": "page-1780938385975",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780938390438-7ptcj.png",
+          "figma_url": "https://www.figma.com/design/7ni0Mj2kSUKRPXNu7JJjC2/Cross-Sell-System?node-id=15247-62154&t=O4UNmBatKgwvajdU-0"
+        },
+        {
+          "id": "page-1780938392050",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780938395939-6h5xgw.png",
+          "figma_url": "https://www.figma.com/design/7ni0Mj2kSUKRPXNu7JJjC2/Cross-Sell-System?node-id=15247-62154&t=O4UNmBatKgwvajdU-0"
+        }
+      ]
+    }
+  ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/product_trial_hub/setup",
   "sheets_url": null,
   "heap_url": null,
@@ -57,7 +92,7 @@
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1779820890236019",
   "source_id": null,
-  "created_by": "Claude",
-  "created_at": "2026-06-08T17:06:57.575Z",
-  "updated_at": "2026-06-08T17:06:57.575Z"
+  "created_by": null,
+  "created_at": "2026-06-08T17:03:35.963Z",
+  "updated_at": "2026-06-08T17:07:11.477Z"
 }
