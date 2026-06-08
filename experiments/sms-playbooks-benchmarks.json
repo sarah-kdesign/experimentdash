@@ -1,7 +1,7 @@
 {
   "id": "1771511232092",
   "title": "Text guide: Benchmarks",
-  "summary": "Does chunking and providing benchmarks increase text action?",
+  "summary": "Does chunking and providing benchmarks increase text action? No.",
   "slug": "sms-playbooks-benchmarks",
   "product_area": "Text setup guide",
   "test_topic": "Adoption",
@@ -9,14 +9,22 @@
   "results": null,
   "learning": null,
   "notes": null,
-  "status": "running",
+  "status": "paused",
   "start_date": "2026-02-17",
-  "end_date": null,
+  "end_date": "2026-04-24",
   "control_figma_url": null,
-  "treatment_figma_url": "https://www.figma.com/design/087Q1Ywh9zoDLtQgoZ5XGK/SMS-playbooks---%22crawl%22?node-id=422-66160",
+  "treatment_figma_url": null,
   "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772081766365-yv543.png",
   "control_description": "1 playbook, no performance feedback",
-  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772081255192-avg9ew.png",
+  "control_pages": [
+    {
+      "id": "page-1",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772081766365-yv543.png",
+      "figma_url": null,
+      "caption": null
+    }
+  ],
+  "treatment_image_url": null,
   "treatment_description": "2 playbooks: Text message basics and Advanced text message strategy\n4 \"benchmark\" cards at the top of each book to provide positive performance feedback",
   "treatments": [
     {
@@ -65,5 +73,5 @@
   "source_id": "SMS Playbooks : Benchmarks",
   "created_by": null,
   "created_at": "2026-02-19T14:27:12.094Z",
-  "updated_at": "2026-03-03T00:15:51.353Z"
+  "updated_at": "2026-06-08T22:32:45.150Z"
 }
