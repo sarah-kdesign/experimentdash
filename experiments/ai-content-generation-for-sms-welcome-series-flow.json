@@ -13,7 +13,7 @@
   "start_date": "2026-03-27",
   "end_date": "2026-06-02",
   "control_figma_url": null,
-  "treatment_figma_url": null,
+  "treatment_figma_url": "https://www.figma.com/design/kLifGdW2LmYaGBsovqxZTA/AI-Generated-SMS?node-id=365-52855&t=kxAjC3s6GAhMHLSF-4",
   "control_image_url": null,
   "control_description": "Static default copy",
   "control_pages": [
@@ -23,7 +23,7 @@
       "figma_url": null
     }
   ],
-  "treatment_image_url": null,
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780956423027-gd31ya.png",
   "treatment_description": "AI-generated copy",
   "treatments": [
     {
@@ -31,7 +31,21 @@
       "label": "Treatment",
       "image_url": null,
       "description": "AI-generated copy",
-      "figma_url": "https://www.figma.com/design/kLifGdW2LmYaGBsovqxZTA/AI-Generated-SMS?node-id=85-98121"
+      "figma_url": "https://www.figma.com/design/kLifGdW2LmYaGBsovqxZTA/AI-Generated-SMS?node-id=85-98121",
+      "pages": [
+        {
+          "id": "page-1780956414416",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780956423027-gd31ya.png",
+          "figma_url": "https://www.figma.com/design/kLifGdW2LmYaGBsovqxZTA/AI-Generated-SMS?node-id=365-52855&t=kxAjC3s6GAhMHLSF-4",
+          "caption": "text message copy generates"
+        },
+        {
+          "id": "page-1780956424188-0",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780956424168-7o28vb.png",
+          "figma_url": "https://www.figma.com/design/kLifGdW2LmYaGBsovqxZTA/AI-Generated-SMS?node-id=365-52855&t=kxAjC3s6GAhMHLSF-4",
+          "caption": "text message generated"
+        }
+      ]
     }
   ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/adoption_welcome_series_content_generation/setup",
@@ -64,5 +78,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-06-08T21:33:36.518Z",
-  "updated_at": "2026-06-08T22:01:54.935Z"
+  "updated_at": "2026-06-08T22:07:59.787Z"
 }
