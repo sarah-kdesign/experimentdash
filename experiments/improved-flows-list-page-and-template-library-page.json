@@ -13,10 +13,24 @@
   "start_date": "2026-05-18",
   "end_date": null,
   "control_figma_url": null,
-  "treatment_figma_url": "https://www.figma.com/design/z4scpirhdhZAMC9z9yiwKY/Improved-Flows-Empty-State-and-Template-Library?node-id=8140-87003&m=dev",
-  "control_image_url": null,
+  "treatment_figma_url": "https://www.figma.com/design/z4scpirhdhZAMC9z9yiwKY/Improved-Flows-Empty-State-and-Template-Library?node-id=2007-25718&m=dev",
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780952009840-ijdupt.png",
   "control_description": "Current flows list page and template library",
-  "treatment_image_url": null,
+  "control_pages": [
+    {
+      "id": "page-1780951893152",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780952009840-ijdupt.png",
+      "figma_url": null,
+      "caption": "recommended flows on /flows"
+    },
+    {
+      "id": "page-1780952113498",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780952117141-64imc5.png",
+      "figma_url": null,
+      "caption": "no recommended flows on /flows/create"
+    }
+  ],
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780952046140-o90ujg.png",
   "treatment_description": "Updated flows list page with collapsible panel and improved template library filtering",
   "treatments": [
     {
@@ -24,7 +38,27 @@
       "label": "Treatment",
       "image_url": null,
       "description": "Updated flows list page with collapsible panel and improved template library filtering",
-      "figma_url": "https://www.figma.com/design/z4scpirhdhZAMC9z9yiwKY/Improved-Flows-Empty-State-and-Template-Library?node-id=8140-87003&m=dev"
+      "figma_url": "https://www.figma.com/design/z4scpirhdhZAMC9z9yiwKY/Improved-Flows-Empty-State-and-Template-Library?node-id=8140-87003&m=dev",
+      "pages": [
+        {
+          "id": "page-1780952046131-1",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780952046140-o90ujg.png",
+          "figma_url": "https://www.figma.com/design/z4scpirhdhZAMC9z9yiwKY/Improved-Flows-Empty-State-and-Template-Library?node-id=2007-25718&m=dev",
+          "caption": "recommended flows on /flows empty state"
+        },
+        {
+          "id": "page-1780952033101",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780952043771-bwqxm.png",
+          "figma_url": "https://www.figma.com/design/z4scpirhdhZAMC9z9yiwKY/Improved-Flows-Empty-State-and-Template-Library?node-id=2007-25718&m=dev",
+          "caption": "recommended flows on /flows"
+        },
+        {
+          "id": "page-1780952044689-0",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780952044682-2psf2.png",
+          "figma_url": "https://www.figma.com/design/z4scpirhdhZAMC9z9yiwKY/Improved-Flows-Empty-State-and-Template-Library?node-id=2007-25718&m=dev",
+          "caption": "recommended flows on /flows/create"
+        }
+      ]
     }
   ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/flows_empty_state/results",
@@ -36,20 +70,23 @@
   "team_members": [
     {
       "name": "Patrick Walsh",
-      "role": "Engineering"
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780952284660-u9vs5c.png"
     },
     {
       "name": "Philip Yu",
-      "role": "Engineering"
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780952288844-7p3b1.png"
     },
     {
       "name": "Zahr Lyttle",
-      "role": "Product"
+      "role": "Product",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780952220848-vxrovl.png"
     }
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1779130751115509",
   "source_id": null,
   "created_by": null,
   "created_at": "2026-05-18T22:42:29.478Z",
-  "updated_at": "2026-05-18T22:47:04.119Z"
+  "updated_at": "2026-06-08T20:58:10.995Z"
 }
