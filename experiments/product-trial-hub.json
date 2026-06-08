@@ -1,78 +1,33 @@
 {
   "id": "1780938385863",
   "title": "Product trial hub",
-  "summary": "Does a product trial hub (replacing the Account Plan button) increase F2P conversion and trial starts across kSocial, Customer Hub, Customer Agent, CDP, and Marketing Analytics?",
+  "summary": null,
   "slug": "product-trial-hub",
   "product_area": "Billing & Growth",
-  "test_topic": "Cross-sell / trial starts",
-  "hypothesis": "We believe that replacing the existing Account Plan button with a new product and trial hub for non-paying accounts will increase the 21D F2P Conversion Rate by educating users on product usage and encouraging trial starts.",
+  "hypothesis": null,
   "results": null,
   "learning": null,
-  "notes": "Two Statsig experiments: product_trial_hub (new accounts 50%) and product_trial_hub_existing_accounts (existing accounts 10% to 50%). Screenshots in Slack - upload via admin panel.",
+  "notes": "Two Statsig experiments: product_trial_hub (new accounts 50%) and product_trial_hub_existing_accounts (existing accounts).",
   "status": "running",
   "start_date": "2026-05-26",
   "end_date": null,
   "control_figma_url": null,
-  "treatment_figma_url": null,
+  "treatment_figma_url": "https://www.figma.com/design/7ni0Mj2kSUKRPXNu7JJjC2/Cross-Sell-System",
   "control_image_url": null,
-  "control_description": "Account Plan / Try text messaging button in top nav",
-  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780938509593-agaf9.png",
-  "treatment_description": "Product Trial Hub popover with usage stats and trial options",
-  "treatments": [
-    {
-      "id": "treatment",
-      "label": "Treatment",
-      "image_url": null,
-      "description": "Product Trial Hub popover with usage stats and trial options",
-      "figma_url": "https://www.figma.com/design/7ni0Mj2kSUKRPXNu7JJjC2/Cross-Sell-System?node-id=15247-62154",
-      "pages": [
-        {
-          "id": "page-1780938502007",
-          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780938509593-agaf9.png",
-          "figma_url": null
-        }
-      ]
-    }
-  ],
+  "control_description": null,
+  "treatment_image_url": null,
+  "treatment_description": null,
+  "treatments": null,
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/product_trial_hub/setup",
   "sheets_url": null,
   "heap_url": null,
   "outcome": null,
   "winner": null,
   "guidelines": null,
-  "team_members": [
-    {
-      "name": "Nathan Grabowski",
-      "role": "Engineering"
-    },
-    {
-      "name": "Jimmy Ye",
-      "role": "Engineering"
-    },
-    {
-      "name": "Chris Bulger",
-      "role": "Billing & Growth"
-    },
-    {
-      "name": "Ali Zouharis",
-      "role": "Design"
-    },
-    {
-      "name": "Joe Carpenito",
-      "role": "Engineering"
-    },
-    {
-      "name": "Drew Condon",
-      "role": "Design"
-    },
-    {
-      "name": "Nikolaos Katsikis",
-      "role": "Product Analytics"
-    }
-  ],
+  "team_members": null,
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1779820890236019",
   "source_id": null,
   "created_by": null,
-  "created_at": "2026-06-08T17:08:12.838Z",
-  "updated_at": "2026-06-08T17:08:31.481Z"
+  "created_at": "2026-06-08T17:08:36.621Z",
+  "updated_at": "2026-06-08T17:08:36.621Z"
 }
