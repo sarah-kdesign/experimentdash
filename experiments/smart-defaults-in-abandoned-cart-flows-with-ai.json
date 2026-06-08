@@ -8,7 +8,7 @@
   "hypothesis": "<p>We believe that automating the addition and configuration of the text message action in an account's existing abandoned checkout email flow for companies that have at least 1 existing abandoned checkout email that has recovered at least $1500 in revenue over the last quarter will lead to increased SMS sending because of the reduced friction from automatically selecting and placing the text message action in a best practice position. </p><p>We will measure success using new 7D and new 28D SMS sends, and monitor new 7D and 28D SMS flows to ensure no negative impact.</p>",
   "results": null,
   "learning": null,
-  "notes": null,
+  "notes": "<p>Link to the <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary underline underline-offset-2 cursor-pointer\" href=\"https://docs.google.com/document/d/1f2L2vz07OQxO-h7q5j9v4Zpw70-DlBp3R3bBkFsYaT0/edit?tab=t.0\">PRD</a></p>",
   "status": "running",
   "start_date": "2026-04-23",
   "end_date": null,
@@ -16,7 +16,14 @@
   "treatment_figma_url": "https://www.figma.com/design/MZCUMh8g8MALE5hD89PqDn/Add-SMS-to-flow?node-id=607-23539&t=SNlbmPMwzSJChtkz-0",
   "control_image_url": null,
   "control_description": null,
-  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1777246355676-2fh9wy.png",
+  "control_pages": [
+    {
+      "id": "page-1780953481895",
+      "image_url": null,
+      "figma_url": null
+    }
+  ],
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780953502600-yvhzvm.png",
   "treatment_description": null,
   "treatments": [
     {
@@ -24,7 +31,21 @@
       "label": "Treatment",
       "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1777246355676-2fh9wy.png",
       "description": null,
-      "figma_url": "https://www.figma.com/design/MZCUMh8g8MALE5hD89PqDn/Add-SMS-to-flow?node-id=607-23539&t=SNlbmPMwzSJChtkz-0"
+      "figma_url": "https://www.figma.com/design/MZCUMh8g8MALE5hD89PqDn/Add-SMS-to-flow?node-id=607-23539&t=SNlbmPMwzSJChtkz-0",
+      "pages": [
+        {
+          "id": "page-1780953481901",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780953502600-yvhzvm.png",
+          "figma_url": "https://www.figma.com/design/MZCUMh8g8MALE5hD89PqDn/Add-SMS-to-flow?node-id=607-23539&t=SNlbmPMwzSJChtkz-0",
+          "caption": "reveal the flows text opportunity on /flows"
+        },
+        {
+          "id": "page-1780953506887",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780953510378-hbghf.png",
+          "figma_url": "https://www.figma.com/design/MZCUMh8g8MALE5hD89PqDn/Add-SMS-to-flow?node-id=607-23539&t=SNlbmPMwzSJChtkz-0",
+          "caption": "smart default text message placement and content"
+        }
+      ]
     }
   ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/adoption_add_sms_to_flows_v2/results",
@@ -57,5 +78,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-04-26T23:36:19.537Z",
-  "updated_at": "2026-04-26T23:42:06.659Z"
+  "updated_at": "2026-06-08T21:22:02.935Z"
 }
