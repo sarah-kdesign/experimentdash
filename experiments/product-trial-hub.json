@@ -68,7 +68,8 @@
     },
     {
       "name": "Jimmy Ye",
-      "role": "Engineering"
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780947200005-nxzbo.png"
     },
     {
       "name": "Chris Bulger",
@@ -81,20 +82,23 @@
     },
     {
       "name": "Joe Carpenito",
-      "role": "Engineering"
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780947175569-iymriq.png"
     },
     {
       "name": "Drew Condon",
-      "role": "Design"
+      "role": "Design",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780947183761-grftbf.png"
     },
     {
       "name": "Nikolaos Katsikis",
-      "role": "Product Analytics"
+      "role": "Product Analytics",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780947188955-hnxcy.png"
     }
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1779820890236019",
   "source_id": null,
   "created_by": null,
   "created_at": "2026-06-08T17:09:07.237Z",
-  "updated_at": "2026-06-08T19:30:34.862Z"
+  "updated_at": "2026-06-08T19:33:22.380Z"
 }
