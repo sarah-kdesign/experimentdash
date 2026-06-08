@@ -14,9 +14,15 @@
   "end_date": null,
   "control_figma_url": null,
   "treatment_figma_url": "https://www.figma.com/design/z4scpirhdhZAMC9z9yiwKY/Improved-Flows-Empty-State-and-Template-Library?node-id=2007-25718&m=dev",
-  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780952009840-ijdupt.png",
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780953380621-1z88umm.png",
   "control_description": "Current flows list page and template library",
   "control_pages": [
+    {
+      "id": "page-1780953233635",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780953380621-1z88umm.png",
+      "figma_url": null,
+      "caption": "recommended flows on /flows empty state"
+    },
     {
       "id": "page-1780951893152",
       "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780952009840-ijdupt.png",
@@ -88,5 +94,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-05-18T22:42:29.478Z",
-  "updated_at": "2026-06-08T20:58:10.995Z"
+  "updated_at": "2026-06-08T21:16:33.384Z"
 }
