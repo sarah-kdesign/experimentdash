@@ -16,9 +16,24 @@
   "treatment_figma_url": null,
   "control_image_url": null,
   "control_description": "Account Plan / Try text messaging button in top nav",
-  "treatment_image_url": null,
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780938486523-5nruql.png",
   "treatment_description": "Product Trial Hub popover with usage stats and trial options for kSocial, Customer Hub, Customer Agent, CDP, and Marketing Analytics",
-  "treatments": null,
+  "treatments": [
+    {
+      "id": "treatment",
+      "label": "Treatment",
+      "image_url": null,
+      "description": "Product Trial Hub popover with usage stats and trial options for kSocial, Customer Hub, Customer Agent, CDP, and Marketing Analytics",
+      "figma_url": null,
+      "pages": [
+        {
+          "id": "page-1780938479889",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780938486523-5nruql.png",
+          "figma_url": null
+        }
+      ]
+    }
+  ],
   "statsig_url": null,
   "sheets_url": null,
   "heap_url": null,
@@ -57,7 +72,7 @@
   ],
   "slack_channel_url": null,
   "source_id": null,
-  "created_by": "Claude",
+  "created_by": null,
   "created_at": "2026-06-08T17:07:53.536Z",
-  "updated_at": "2026-06-08T17:07:53.536Z"
+  "updated_at": "2026-06-08T17:08:09.113Z"
 }
