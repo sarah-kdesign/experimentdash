@@ -8,7 +8,7 @@
   "hypothesis": "This experiment creates a new account setup experiment for 50% of new signups. This account setup flow is designed to be shorter, more aesthetically pleasing, and delightful to use. We are also adding a new step prompting the user to confirm their branding, which is optional. We believe this will lead to earlier personalization and better overall activation.",
   "results": "Treatment failed to meaningfully outperform control. Decision: ship control group. New branding experience showed a 10%+ conversion increase vs. legacy branding flow.",
   "learning": "Mobile responsiveness was a critical issue — shrunken components and partially hidden navigation made it hard to progress on mobile. The new branding experience showed promise and has been shipped to all users independently.",
-  "notes": "5 design screenshots attached in the Slack thread. Industry data no longer collected as a step in setup — gathered via BuiltWith in background and classified by DS model (CompanyWebsiteAnalysis table).\n\nMobile responsiveness is critical.\n• Shrunken components on mobile made data input and progressing to next steps incredibly hard.\n• Partially hidden navigation left mobile users unable to progress through setup for a period of the experiment.\n• Responsiveness can no longer be an afterthought, and needs to be part of solution design.\n\nDelight without utility creates friction.\n• The colorful side panel was intended to create a more engaging experience, but the data suggests it distracted/confused/overwhelmed users rather than help/motivate them to move forward.\n• 'Delightful' additions need to earn their place by being directly helpful.\n\nAI fallbacks are non-negotiable.\n• Parts of the experience relied on AI-generated content without graceful fallbacks for long wait periods or failure states.\n• When AI was unavailable or underperforming, users hit semi-dead ends. Any AI-dependent feature needs a reliable fallback before it ships.",
+  "notes": "<p>Industry data no longer collected as a step in setup — gathered via BuiltWith in background and classified by DS model (CompanyWebsiteAnalysis table). </p><p>Mobile responsiveness is critical. </p><ul class=\"list-disc pl-4\"><li><p>Shrunken components on mobile made data input and progressing to next steps incredibly hard.</p></li><li><p>Partially hidden navigation left mobile users unable to progress through setup for a period of the experiment.</p></li><li><p>Responsiveness can no longer be an afterthought, and needs to be part of solution design. </p></li></ul><p>Delight without utility creates friction.</p><ul class=\"list-disc pl-4\"><li><p>The colorful side panel was intended to create a more engaging experience, but the data suggests it distracted/confused/overwhelmed users rather than help/motivate them to move forward.</p></li><li><p> 'Delightful' additions need to earn their place by being directly helpful. </p></li></ul><p>AI fallbacks are non-negotiable. </p><ul class=\"list-disc pl-4\"><li><p>Parts of the experience relied on AI-generated content without graceful fallbacks for long wait periods or failure states. </p></li><li><p>When AI was unavailable or underperforming, users hit semi-dead ends. Any AI-dependent feature needs a reliable fallback before it ships.</p></li></ul><p></p>",
   "status": "completed",
   "start_date": "2026-04-06",
   "end_date": "2026-06-01",
@@ -16,33 +16,85 @@
   "treatment_figma_url": null,
   "control_image_url": null,
   "control_description": "Legacy /account-setup flow",
-  "control_pages": null,
-  "treatment_image_url": null,
+  "control_pages": [
+    {
+      "id": "page-1780958950093",
+      "image_url": null,
+      "figma_url": null
+    }
+  ],
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780959052841-n3525r.png",
   "treatment_description": "New /setup-account flow with streamlined steps and brand onboarding experience",
-  "treatments": null,
+  "treatments": [
+    {
+      "id": "treatment",
+      "label": "Treatment",
+      "image_url": null,
+      "description": "New /setup-account flow with streamlined steps and brand onboarding experience",
+      "figma_url": null,
+      "pages": [
+        {
+          "id": "page-1780958950100",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780959052841-n3525r.png",
+          "figma_url": null,
+          "caption": "Analyzing business, while showing site"
+        },
+        {
+          "id": "page-1780959053462-0",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780959053505-m3uorl.png",
+          "figma_url": null,
+          "caption": "Creating account card"
+        },
+        {
+          "id": "page-1780959054142-1",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780959054162-zk70dk.png",
+          "figma_url": null,
+          "caption": "Account card, step 2"
+        },
+        {
+          "id": "page-1780959054862-2",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780959054922-uflxar.png",
+          "figma_url": null,
+          "caption": "Reviewing brand"
+        },
+        {
+          "id": "page-1780959055547-3",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780959055572-ddbkkl.png",
+          "figma_url": null,
+          "caption": "Setup complete"
+        }
+      ]
+    }
+  ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/account_setup_revamp_experiment/setup",
   "sheets_url": null,
   "heap_url": null,
-  "outcome": "control",
+  "outcome": "ga",
   "winner": "control",
   "guidelines": null,
   "team_members": [
     {
-      "name": "Abdul Khan",
-      "role": "Engineering"
+      "name": "Zahr Lyttle",
+      "role": "Product",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780952220848-vxrovl.png",
+      "id": "1780959291374"
     },
     {
       "name": "Patrick Walsh",
-      "role": "Engineering"
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780952284660-u9vs5c.png",
+      "id": "1780959289433"
     },
     {
-      "name": "Zahr Lyttle",
-      "role": "Product Design"
+      "id": "1780959285422",
+      "name": "Abdul Khan",
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772496834852-aoxvee.png"
     }
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1775754469212109",
   "source_id": null,
-  "created_by": "Claude",
+  "created_by": null,
   "created_at": "2026-06-08T22:47:33.561Z",
-  "updated_at": "2026-06-08T22:47:33.561Z"
+  "updated_at": "2026-06-08T22:54:54.186Z"
 }
