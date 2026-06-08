@@ -1,0 +1,59 @@
+{
+  "id": "1780937987977",
+  "title": "Cross-sell: Customer Hub + K:Social v1",
+  "summary": "Does contextually surfacing Customer Hub and K:Social cross-sell placements across 9 in-app surfaces drive incremental trial starts without disrupting core workflows?",
+  "slug": "cross-sell-customer-hub-ksocial-v1",
+  "product_area": "Integrations",
+  "test_topic": "Product expansion cross-sell",
+  "hypothesis": "We believe that adding contextual Customer Hub and K:Social cross-sell placements (header pill popovers + a home banner) for established Klaviyo accounts (28+ days old, both free and paid plans) will drive incremental trial starts on Customer Hub and K:Social because users who have settled into Klaviyo's core flows have an established baseline of value and are in a position to notice and act on adjacent product offerings — and the placements are surfaced on pages where the cross-sell value prop is contextually relevant (e.g., Subscriber Growth for K:Social, Profiles/Forms for CH retention). We will measure success using trial-start rate per variant (CH trial starts for customer_hub arm, K:Social trial starts for ksocial arm — primary metric per arm), and monitor placement CTA click-through rate, dismissal rate, downstream onboarding completion of trial accounts, and engagement on the host page.",
+  "results": null,
+  "learning": null,
+  "notes": "Two separate Statsig experiments run in parallel — prx-ksocial-cross-sell-v1-relaunch and prx-ch-cross-sell-v1-relaunch. Design screenshots attached in the Slack thread reply (3 images). Targeting 20% of eligible accounts ramping up, on Stripe billing. Linear: https://linear.app/klaviyo/project/cross-sell-customer-hub-ksocial-v1-5a0439b9273b",
+  "status": "running",
+  "start_date": "2026-06-03",
+  "end_date": null,
+  "control_figma_url": null,
+  "treatment_figma_url": null,
+  "control_image_url": null,
+  "control_description": "Standard Klaviyo app — no cross-sell placements",
+  "treatment_image_url": null,
+  "treatment_description": "Dismissible promo for Customer Hub or K:Social across 9 in-app placements (Profiles, Lists & Segments header + bottom blur row, Flow create, Sign-up Forms, Integrations header + Discover apps grid, Home banner, Subscriber Growth); dual-eligible users split evenly between arms",
+  "treatments": null,
+  "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/prx-ksocial-cross-sell-v1-relaunch/setup",
+  "sheets_url": null,
+  "heap_url": "https://heapanalytics.com/app/env/91017801/dashboard/PRX-Cross-Sell-V1-570289",
+  "outcome": null,
+  "winner": null,
+  "guidelines": null,
+  "team_members": [
+    {
+      "name": "Celeste Adams-Gutierrez",
+      "role": "Engineering"
+    },
+    {
+      "name": "Ali Zouharis",
+      "role": "Design"
+    },
+    {
+      "name": "Joe Carpenito",
+      "role": "Engineering"
+    },
+    {
+      "name": "Chris Bulger",
+      "role": "Growth"
+    },
+    {
+      "name": "Nikolaos Katsikis",
+      "role": "Product Analytics"
+    },
+    {
+      "name": "Dan Kavanaugh",
+      "role": "Product"
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1780512342019219",
+  "source_id": null,
+  "created_by": "Claude",
+  "created_at": "2026-06-08T16:59:47.978Z",
+  "updated_at": "2026-06-08T16:59:47.978Z"
+}
