@@ -1,0 +1,48 @@
+{
+  "id": "1780958824199",
+  "title": "Account setup revamp",
+  "summary": "Does a shorter setup flow increase wizard completion? No, it didn't.",
+  "slug": "account-setup-revamp",
+  "product_area": "Onboarding",
+  "test_topic": "Activation",
+  "hypothesis": "This experiment creates a new account setup experiment for 50% of new signups. This account setup flow is designed to be shorter, more aesthetically pleasing, and delightful to use. We are also adding a new step prompting the user to confirm their branding, which is optional. We believe this will lead to earlier personalization and better overall activation.",
+  "results": "Treatment failed to meaningfully outperform control. Decision: ship control group. New branding experience showed a 10%+ conversion increase vs. legacy branding flow.",
+  "learning": "Mobile responsiveness was a critical issue — shrunken components and partially hidden navigation made it hard to progress on mobile. The new branding experience showed promise and has been shipped to all users independently.",
+  "notes": "5 design screenshots attached in the Slack thread. Industry data no longer collected as a step in setup — gathered via BuiltWith in background and classified by DS model (CompanyWebsiteAnalysis table).",
+  "status": "completed",
+  "start_date": "2026-04-06",
+  "end_date": "2026-06-01",
+  "control_figma_url": null,
+  "treatment_figma_url": null,
+  "control_image_url": null,
+  "control_description": "Legacy /account-setup flow",
+  "control_pages": null,
+  "treatment_image_url": null,
+  "treatment_description": "New /setup-account flow with streamlined steps and brand onboarding experience",
+  "treatments": null,
+  "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/account_setup_revamp_experiment/setup",
+  "sheets_url": null,
+  "heap_url": null,
+  "outcome": "control",
+  "winner": "control",
+  "guidelines": null,
+  "team_members": [
+    {
+      "name": "Abdul Khan",
+      "role": "Engineering"
+    },
+    {
+      "name": "Patrick Walsh",
+      "role": "Engineering"
+    },
+    {
+      "name": "Zahr Lyttle",
+      "role": "Product Design"
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1775754469212109",
+  "source_id": null,
+  "created_by": "Claude",
+  "created_at": "2026-06-08T22:47:04.199Z",
+  "updated_at": "2026-06-08T22:47:04.199Z"
+}
