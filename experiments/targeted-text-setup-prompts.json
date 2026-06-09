@@ -8,28 +8,37 @@
   "hypothesis": "<p>Most email accounts are not ready to adopt text messaging very early in their lifecycle. Prompting too early creates friction and leads to unnecessary dismissals. Conversely, waiting too long misses high-intent moments that can meaningfully grow text adoption. We believe that targeted setup prompts based on account maturity and behavior will increase the rate of accounts setting up text messaging and increase the activation rates of those that set up.</p>",
   "results": null,
   "learning": null,
-  "notes": "<p>Team hypothesizes that contextual prompts could work better instead of specific targeting criteria. The team proposed that the product expansion team to run another iteration with a different design to inform their intent engine design and interventions.</p>",
+  "notes": "Team hypothesizes that contextual prompts could work better instead of specific targeting criteria. The team proposed that the product expansion team to run another iteration with a different design to inform their intent engine design and interventions.\n\nPRD: https://docs.google.com/document/d/1W0QDNBnSKind3_LtCGMfdZ2V8T-XIUtWjToM_1Czbyc/edit?tab=t.0#heading=h.7im5wdm4mkvu",
   "status": "running",
   "start_date": "2026-02-09",
   "end_date": null,
   "control_figma_url": null,
-  "treatment_figma_url": null,
+  "treatment_figma_url": "https://www.figma.com/design/WBLRX4K3r3Hk89xIF7DRUW/SMS-targeted-setup-prompts?t=gzrMprHpJ4g7wpdx-0",
   "control_image_url": null,
   "control_description": null,
   "control_pages": null,
   "treatment_image_url": null,
   "treatment_description": null,
   "treatments": null,
-  "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/adoption_targeted_text_setup_prompts/results",
+  "statsig_url": null,
   "sheets_url": null,
   "heap_url": null,
   "outcome": null,
   "winner": "none",
   "guidelines": null,
-  "team_members": null,
+  "team_members": [
+    {
+      "name": "Karen Cheng",
+      "role": "Billing & Growth"
+    },
+    {
+      "name": "Sarah Delaney",
+      "role": "Product Design"
+    }
+  ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1770666741715929",
   "source_id": null,
-  "created_by": null,
-  "created_at": "2026-06-09T17:20:18.667Z",
-  "updated_at": "2026-06-09T17:20:18.667Z"
+  "created_by": "Claude",
+  "created_at": "2026-06-09T17:43:29.553Z",
+  "updated_at": "2026-06-09T17:43:29.553Z"
 }
