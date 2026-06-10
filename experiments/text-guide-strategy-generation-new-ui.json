@@ -1,0 +1,60 @@
+{
+  "id": "1781123119092",
+  "title": "Text guide strategy generation & new UI",
+  "summary": "Does altered framing drive text activation?",
+  "slug": "text-guide-strategy-generation-new-ui",
+  "product_area": "Text setup guide",
+  "test_topic": "Text adoption",
+  "hypothesis": "Showing the right tasks in the right order, with a short explanation of what's blocking the account and what to do next, reduces the activation gap for accounts who have completed setup but have not sent an SMS. We believe that this framing will provide clarity and reduce analysis paralysis when it comes to SMS activation.",
+  "results": null,
+  "learning": null,
+  "notes": "Two design screenshots attached in the Slack thread (from 6/4/26) — can be uploaded via the admin panel. 50/50 split. Future work planned to expand the \"complete tasks from within the guide\" principle.",
+  "status": "running",
+  "start_date": "2026-06-10",
+  "end_date": null,
+  "control_figma_url": null,
+  "treatment_figma_url": null,
+  "control_image_url": null,
+  "control_description": "Standard Text Setup Guide (existing UI)",
+  "control_pages": null,
+  "treatment_image_url": null,
+  "treatment_description": "Text Setup Guide with intelligence layer — filtered/prioritized task list + AI-generated strategy card + updated UI aligned with Get Started experience",
+  "treatments": null,
+  "statsig_url": null,
+  "sheets_url": null,
+  "heap_url": null,
+  "outcome": null,
+  "winner": null,
+  "guidelines": null,
+  "team_members": [
+    {
+      "name": "Amy Chen",
+      "role": "Engineering",
+      "avatar_url": "https://avatars.slack-edge.com/2021-08-17/2389599016035_9e6d8877578fe4484f27_1024.jpg",
+      "id": "1780955771907"
+    },
+    {
+      "name": "Ali Zouharis",
+      "role": "Design",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780947019133-grvbur.png",
+      "id": "1780955818623"
+    },
+    {
+      "name": "Karen Cheng",
+      "role": "Product",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780955849301-gdkoz.png",
+      "id": "1780955839792"
+    },
+    {
+      "name": "Irene Hnatiw",
+      "role": "Engineering",
+      "avatar_url": "https://avatars.slack-edge.com/2023-03-29/5032369263058_099a419fdcd361387025_1024.png",
+      "id": "1777246378934"
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1781118316704359",
+  "source_id": null,
+  "created_by": "Claude",
+  "created_at": "2026-06-10T20:25:19.092Z",
+  "updated_at": "2026-06-10T20:25:19.092Z"
+}
