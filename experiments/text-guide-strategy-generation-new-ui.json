@@ -4,23 +4,51 @@
   "summary": "Does altered framing drive text activation?",
   "slug": "text-guide-strategy-generation-new-ui",
   "product_area": "Text setup guide",
-  "test_topic": "Text adoption",
+  "test_topic": "Text activation",
   "hypothesis": "Showing the right tasks in the right order, with a short explanation of what's blocking the account and what to do next, reduces the activation gap for accounts who have completed setup but have not sent an SMS. We believe that this framing will provide clarity and reduce analysis paralysis when it comes to SMS activation.",
   "results": null,
   "learning": null,
-  "notes": "Two design screenshots attached in the Slack thread (from 6/4/26) — can be uploaded via the admin panel. 50/50 split. Future work planned to expand the \"complete tasks from within the guide\" principle.",
+  "notes": "<p>Future work planned to expand the \"complete tasks from within the guide\" principle.</p>",
   "status": "running",
   "start_date": "2026-06-10",
   "end_date": null,
   "control_figma_url": null,
-  "treatment_figma_url": null,
-  "control_image_url": null,
+  "treatment_figma_url": "https://www.figma.com/design/MZCUMh8g8MALE5hD89PqDn/Add-SMS-to-flow?node-id=2321-28337&t=LZ0WuvtVWRxDDIIK-4",
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781124726570-qbowbq.png",
   "control_description": "Standard Text Setup Guide (existing UI)",
-  "control_pages": null,
-  "treatment_image_url": null,
-  "treatment_description": "Text Setup Guide with intelligence layer — filtered/prioritized task list + AI-generated strategy card + updated UI aligned with Get Started experience",
-  "treatments": null,
-  "statsig_url": null,
+  "control_pages": [
+    {
+      "id": "page-1781123211863",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781124726570-qbowbq.png",
+      "figma_url": null
+    }
+  ],
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781123222905-85rhwn.png",
+  "treatment_description": "Personalized text strategy",
+  "treatments": [
+    {
+      "id": "treatment",
+      "label": "Treatment",
+      "image_url": null,
+      "description": "Personalized text strategy",
+      "figma_url": null,
+      "pages": [
+        {
+          "id": "page-1781123211870",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781123222905-85rhwn.png",
+          "figma_url": "https://www.figma.com/design/MZCUMh8g8MALE5hD89PqDn/Add-SMS-to-flow?node-id=2321-28337&t=LZ0WuvtVWRxDDIIK-4",
+          "caption": "Personalized brand text strategy"
+        },
+        {
+          "id": "page-1781123224452-0",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781123224188-ckom.png",
+          "figma_url": "https://www.figma.com/design/MZCUMh8g8MALE5hD89PqDn/Add-SMS-to-flow?node-id=2321-28337&t=LZ0WuvtVWRxDDIIK-4",
+          "caption": "Personalized text strategy drawer"
+        }
+      ]
+    }
+  ],
+  "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/adoption_ai_strategy_playbooks/results",
   "sheets_url": null,
   "heap_url": null,
   "outcome": null,
@@ -54,7 +82,7 @@
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1781118316704359",
   "source_id": null,
-  "created_by": "Claude",
+  "created_by": null,
   "created_at": "2026-06-10T20:25:19.092Z",
-  "updated_at": "2026-06-10T20:25:19.092Z"
+  "updated_at": "2026-06-10T20:53:07.264Z"
 }
