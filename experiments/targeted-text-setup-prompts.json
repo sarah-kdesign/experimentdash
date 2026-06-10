@@ -1,44 +1,94 @@
 {
   "id": "1781025618667",
   "title": "Targeted text setup prompts",
-  "summary": "What are the right moments to prompt text set-up?",
+  "summary": "What are the right moments to prompt text set-up? Inconclusive.",
   "slug": "targeted-text-setup-prompts",
   "product_area": "Campaigns, Flows, Lists & segments",
-  "test_topic": "Text setup",
-  "hypothesis": "<p>Most email accounts are not ready to adopt text messaging very early in their lifecycle. Prompting too early creates friction and leads to unnecessary dismissals. Conversely, waiting too long misses high-intent moments that can meaningfully grow text adoption. We believe that targeted setup prompts based on account maturity and behavior will increase the rate of accounts setting up text messaging and increase the activation rates of those that set up.</p>",
+  "test_topic": "Text adoption",
+  "hypothesis": "<p>Most email accounts are not ready to adopt SMS too early in their lifecycle. Prompting too early creates friction and leads to unnecessary dismissals. Conversely, waiting too long misses high-intent moments that can meaningfully grow SMS adoption.</p><p>We believe that a systematic and account-level prompting framework that meets users at the right milestone and prompts them to activate only when they have demonstrated readiness will drive stronger long-term success for accounts who set up SMS. This experiment will target paying accounts that have not set up SMS yet. We will measure success using <strong>New SMS Sends</strong>, and monitor <strong>New SMS Consents, New SMS Flows, and New SMS Campaigns to ensure no negative impact.</strong></p>",
   "results": null,
   "learning": null,
-  "notes": "Team hypothesizes that contextual prompts could work better instead of specific targeting criteria. The team proposed that the product expansion team to run another iteration with a different design to inform their intent engine design and interventions.\n\nPRD: https://docs.google.com/document/d/1W0QDNBnSKind3_LtCGMfdZ2V8T-XIUtWjToM_1Czbyc/edit?tab=t.0#heading=h.7im5wdm4mkvu",
-  "status": "running",
+  "notes": "<p>Team hypothesizes that <strong>contextual prompts could work better instead of specific targeting criteria</strong>. </p><p>The team proposed that the product expansion team to run another iteration with a different design to inform their intent engine design and interventions. </p><p><a target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary underline underline-offset-2 cursor-pointer\" href=\"https://docs.google.com/document/d/1W0QDNBnSKind3_LtCGMfdZ2V8T-XIUtWjToM_1Czbyc/edit?tab=t.0#heading=h.7im5wdm4mkvu\">PRD</a> || <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary underline underline-offset-2 cursor-pointer\" href=\"https://docs.google.com/document/d/1fNjbI23ddWy_KUE3-R5ezghV_YNvYJftierUX6cvqlE/edit?tab=t.0#heading=h.h06iwuzfunb3\">KBI analysis</a></p>",
+  "status": "completed",
   "start_date": "2026-02-09",
-  "end_date": null,
+  "end_date": "2026-04-24",
   "control_figma_url": null,
-  "treatment_figma_url": "https://www.figma.com/design/WBLRX4K3r3Hk89xIF7DRUW/SMS-targeted-setup-prompts?t=gzrMprHpJ4g7wpdx-0",
+  "treatment_figma_url": null,
   "control_image_url": null,
   "control_description": null,
-  "control_pages": null,
-  "treatment_image_url": null,
-  "treatment_description": null,
-  "treatments": null,
-  "statsig_url": null,
+  "control_pages": [
+    {
+      "id": "page-1781110190643",
+      "image_url": null,
+      "figma_url": null
+    }
+  ],
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781110251819-bvp2ixo.png",
+  "treatment_description": "Eligible to see banners if they hit any of the 3 triggers",
+  "treatments": [
+    {
+      "id": "treatment",
+      "label": "Treatment",
+      "image_url": null,
+      "description": "Eligible to see banners if they hit any of the 3 triggers",
+      "figma_url": "https://www.figma.com/design/WBLRX4K3r3Hk89xIF7DRUW/SMS-targeted-setup-prompts?t=gzrMprHpJ4g7wpdx-0",
+      "pages": [
+        {
+          "id": "page-1781110252071-0",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781110251819-bvp2ixo.png",
+          "figma_url": null,
+          "caption": "Set-up text messaging, on campaigns list view page "
+        },
+        {
+          "id": "page-1781110252782-1",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781110252521-9ipn4.png",
+          "figma_url": null,
+          "caption": "Set-up text messaging, on flows list view page "
+        },
+        {
+          "id": "page-1781110217650",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781110251001-l1pa51.png",
+          "figma_url": null,
+          "caption": "Set-up text messaging, on lists & segments list view page "
+        }
+      ]
+    }
+  ],
+  "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/adoption_targeted_text_setup_prompts/results",
   "sheets_url": null,
-  "heap_url": null,
-  "outcome": null,
-  "winner": "none",
+  "heap_url": "https://heapanalytics.com/app/env/91017801/journey/chart/Targeted-SMS-Set-Up-18809232",
+  "outcome": "not_ga",
+  "winner": null,
   "guidelines": null,
   "team_members": [
     {
-      "name": "Karen Cheng",
-      "role": "Billing & Growth"
+      "id": "1781110217645",
+      "name": "Amy Chen",
+      "role": "Engineering",
+      "avatar_url": "https://avatars.slack-edge.com/2021-08-17/2389599016035_9e6d8877578fe4484f27_1024.jpg"
     },
     {
+      "id": "1781110213280",
       "name": "Sarah Delaney",
-      "role": "Product Design"
+      "role": "Design",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770846264681-rogolk.png"
+    },
+    {
+      "id": "1781110207344",
+      "name": "Karen Cheng",
+      "role": "Product",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780955849301-gdkoz.png"
+    },
+    {
+      "id": "1781110202154",
+      "name": "Kritika Uprety",
+      "role": "Design",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770684108187-rvl0wd.png"
     }
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1770666741715929",
   "source_id": null,
-  "created_by": "Claude",
+  "created_by": null,
   "created_at": "2026-06-09T17:43:29.553Z",
-  "updated_at": "2026-06-09T17:43:29.553Z"
+  "updated_at": "2026-06-10T16:58:01.155Z"
 }
