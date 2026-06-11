@@ -10,16 +10,16 @@
   "learning": "<p>Opportunities to optimize:</p><ul class=\"list-disc pl-4\"><li><p>Funnel metrics (esp. click rate to drive overall adoption)</p></li><li><p>Highest click rate and adoption realized from <strong>free, smaller</strong> accounts</p></li></ul><p>See flows essentials v2</p>",
   "notes": null,
   "status": "completed",
-  "start_date": "2025-07-25",
-  "end_date": null,
+  "start_date": "2025-07-16",
+  "end_date": "2026-09-04",
   "control_figma_url": null,
   "treatment_figma_url": "https://www.figma.com/design/vqTE2hLpr0S1dgeDA5IPwo/Marketing-agent-v0?node-id=3911-155359",
-  "control_image_url": null,
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781218822420-i2ol3b.png",
   "control_description": null,
   "control_pages": [
     {
       "id": "page-1781216413657",
-      "image_url": null,
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781218822420-i2ol3b.png",
       "figma_url": null
     }
   ],
@@ -44,7 +44,7 @@
   "statsig_url": null,
   "sheets_url": "https://docs.google.com/spreadsheets/d/1MFF6jMuGxPs0_hlDHtuXfbnBM-jo3zsFEfHAILdU3I0/edit?gid=1533464697#gid=1533464697",
   "heap_url": null,
-  "outcome": "ga",
+  "outcome": "not_ga",
   "winner": null,
   "guidelines": null,
   "team_members": null,
@@ -52,5 +52,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-06-11T22:45:48.261Z",
-  "updated_at": "2026-06-11T22:59:04.502Z"
+  "updated_at": "2026-06-11T23:02:12.961Z"
 }
