@@ -1,10 +1,10 @@
 {
   "id": "1781217948261",
-  "title": "Essential Flows (v1)",
+  "title": "Essential flows (v1)",
   "summary": "Do pre-created flows increase flows adoption? No.",
   "slug": "essential-flows-v1",
   "product_area": "Flows",
-  "test_topic": "Marketing agent",
+  "test_topic": "Flows adoption",
   "hypothesis": "<p>If we pre-create flows and encourage users to turn on flows with one click, we will drive flow publish rates + KAV generation from flows</p>",
   "results": "<ul class=\"list-disc pl-4\"><li><p><strong>No stat sig impact</strong> to 7D flow publish rate</p></li><li><p><strong>No stat sig impact</strong> to 7D flow KAV generation rate</p></li><li><p>Relatively low discovery (<strong>13.7% card click rate</strong>) and adoption (<strong>3.75% of accounts who viewed card ended up turning it on</strong>)</p></li></ul><p><a target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary underline underline-offset-2 cursor-pointer\" href=\"https://docs.google.com/presentation/d/16s3FrKHK-vsfXhIp4gFhWnEl4IYJq47d-qapLPUG2hE/edit?slide=id.g3662081edfc_0_0#slide=id.g3662081edfc_0_0\">results</a></p><p></p>",
   "learning": "<p>Opportunities to optimize:</p><ul class=\"list-disc pl-4\"><li><p>Funnel metrics (esp. click rate to drive overall adoption)</p></li><li><p>Highest click rate and adoption realized from <strong>free, smaller</strong> accounts</p></li></ul><p>See flows essentials v2</p>",
@@ -52,5 +52,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-06-11T22:45:48.261Z",
-  "updated_at": "2026-06-11T22:50:03.553Z"
+  "updated_at": "2026-06-11T22:59:04.502Z"
 }
