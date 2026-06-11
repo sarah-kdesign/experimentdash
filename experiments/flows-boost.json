@@ -1,0 +1,56 @@
+{
+  "id": "1781219630580",
+  "title": "Flows boost",
+  "summary": null,
+  "slug": "flows-boost",
+  "product_area": "Flows",
+  "test_topic": "Flow optimization",
+  "hypothesis": "<p>If we add an in-line recommendation to add an email to eligible, existing Abandoned Cart flows, users will click it, and follow-through with the action. </p><p></p>",
+  "results": "<ul class=\"list-disc pl-4\"><li><p>No stat sig impact to 7D flow publish rate</p></li><li><p>Relatively low discovery (4.5% CTA click rate) and adoption (2.35% added recommendation to flow rate)&nbsp;</p></li><li><p>Stat sig &nbsp;+2.2% increase in % of accounts adding an email to an existing flow in 7D&nbsp;</p><ul class=\"list-disc pl-4\"><li><p>Driven by Entrepreneur accounts with a small profile base <br>(&lt; 2500 profiles)</p></li><li><p>Despite low adoption rate of Boost recommendation, feature seems to drive accounts to add email to other flow types too (Confirmation, Welcome Series, VIP Loyalty)</p></li></ul></li></ul><ul class=\"list-disc pl-4\"><li><p>No stat sig harm to 7D flow spam and unsubscribe rate</p></li></ul><p></p>",
+  "learning": null,
+  "notes": "<p><strong>Eligibility Criteria</strong></p><ul class=\"list-disc pl-4\"><li><p>≥ 4 flows (live or draft)</p></li><li><p>Flow is an Abandoned Cart flow that generated revenue in the last 30 days</p></li><li><p>&lt; 0.3% unsubscribe rate in the last 30 days</p></li><li><p>Flow is a single branch with &lt; 3 emails</p></li><li><p>Flow has no splits</p></li></ul><p></p>",
+  "status": "completed",
+  "start_date": "2025-03-29",
+  "end_date": "2025-05-19",
+  "control_figma_url": null,
+  "treatment_figma_url": null,
+  "control_image_url": null,
+  "control_description": null,
+  "control_pages": [
+    {
+      "id": "page-1781219211398",
+      "image_url": null,
+      "figma_url": null
+    }
+  ],
+  "treatment_image_url": null,
+  "treatment_description": null,
+  "treatments": [
+    {
+      "id": "t-1781219211398",
+      "label": "Treatment",
+      "image_url": null,
+      "description": null,
+      "figma_url": null,
+      "pages": [
+        {
+          "id": "page-1781219211399",
+          "image_url": null,
+          "figma_url": null
+        }
+      ]
+    }
+  ],
+  "statsig_url": null,
+  "sheets_url": null,
+  "heap_url": null,
+  "outcome": null,
+  "winner": null,
+  "guidelines": null,
+  "team_members": null,
+  "slack_channel_url": null,
+  "source_id": null,
+  "created_by": "sarah.delaney@klaviyo.com",
+  "created_at": "2026-06-11T23:13:50.580Z",
+  "updated_at": "2026-06-11T23:13:50.580Z"
+}
