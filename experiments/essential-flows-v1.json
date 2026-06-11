@@ -13,7 +13,7 @@
   "start_date": "2025-07-25",
   "end_date": null,
   "control_figma_url": null,
-  "treatment_figma_url": null,
+  "treatment_figma_url": "https://www.figma.com/design/vqTE2hLpr0S1dgeDA5IPwo/Marketing-agent-v0?node-id=3911-155359",
   "control_image_url": null,
   "control_description": null,
   "control_pages": [
@@ -23,7 +23,7 @@
       "figma_url": null
     }
   ],
-  "treatment_image_url": null,
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781218196868-xzta9t.png",
   "treatment_description": null,
   "treatments": [
     {
@@ -35,8 +35,8 @@
       "pages": [
         {
           "id": "page-1781216413658",
-          "image_url": null,
-          "figma_url": null
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781218196868-xzta9t.png",
+          "figma_url": "https://www.figma.com/design/vqTE2hLpr0S1dgeDA5IPwo/Marketing-agent-v0?node-id=3911-155359"
         }
       ]
     }
@@ -44,13 +44,13 @@
   "statsig_url": null,
   "sheets_url": "https://docs.google.com/spreadsheets/d/1MFF6jMuGxPs0_hlDHtuXfbnBM-jo3zsFEfHAILdU3I0/edit?gid=1533464697#gid=1533464697",
   "heap_url": null,
-  "outcome": null,
+  "outcome": "ga",
   "winner": null,
   "guidelines": null,
   "team_members": null,
   "slack_channel_url": null,
   "source_id": null,
-  "created_by": "sarah.delaney@klaviyo.com",
+  "created_by": null,
   "created_at": "2026-06-11T22:45:48.261Z",
-  "updated_at": "2026-06-11T22:45:48.283Z"
+  "updated_at": "2026-06-11T22:50:03.553Z"
 }
