@@ -1,7 +1,7 @@
 {
   "id": "1772496537936",
   "title": "Guided vs. marketing agent empty states (campaigns, flows, forms)",
-  "summary": "Which is associated with increased activation?",
+  "summary": "Which is associated with increased activation? Guided.",
   "slug": "marketing-agent-vs-guided-empty-states-campaigns-flows-forms",
   "product_area": "Empty states",
   "test_topic": "Activation",
@@ -9,29 +9,45 @@
   "results": null,
   "learning": null,
   "notes": "<p>Marketing agent empty states were released in September as part of KBOS release, however, these were not experimented with.   Since our prior empty states were such significant drivers of Activation, want to confirm that the MA logic added is not having any negative impact. </p>",
-  "status": "running",
+  "status": "completed",
   "start_date": "2026-01-12",
-  "end_date": null,
+  "end_date": "2026-06-11",
   "control_figma_url": null,
   "treatment_figma_url": null,
   "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772497116845-ej2rb.png",
-  "control_description": "Sign-up forms, marketing agent empty state; in the marketing agent condition, this design treatment was also applied to campaigns and flows empty states ",
-  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772497123338-47nqkg.png",
-  "treatment_description": "Sign-up forms, guided empty state; in the guided state condition, this design treatment was also applied to campaigns and flows empty states",
+  "control_description": "Sign-up forms, marketing agent empty state; this design treatment was also applied to campaigns and flows empty states ",
+  "control_pages": [
+    {
+      "id": "page-1",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772497116845-ej2rb.png",
+      "figma_url": null,
+      "caption": "Forms empty state, marketing agent variant"
+    }
+  ],
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781530384066-y2uf6t.png",
+  "treatment_description": "Sign-up forms, guided empty state; this design treatment was also applied to campaigns and flows empty states",
   "treatments": [
     {
       "id": "t-1772496001877",
       "label": "Treatment A",
       "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772497123338-47nqkg.png",
-      "description": "Sign-up forms, guided empty state; in the guided state condition, this design treatment was also applied to campaigns and flows empty states",
-      "figma_url": null
+      "description": "Sign-up forms, guided empty state; this design treatment was also applied to campaigns and flows empty states",
+      "figma_url": null,
+      "pages": [
+        {
+          "id": "page-1781530167465",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781530384066-y2uf6t.png",
+          "figma_url": null,
+          "caption": "Forms empty state, guided variant"
+        }
+      ]
     }
   ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/ma_vs_preexisting_empty_state/results",
   "sheets_url": null,
   "heap_url": null,
-  "outcome": null,
-  "winner": null,
+  "outcome": "not_ga",
+  "winner": "t-1772496001877",
   "guidelines": null,
   "team_members": [
     {
@@ -51,5 +67,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-03-03T00:08:57.936Z",
-  "updated_at": "2026-03-03T00:19:00.647Z"
+  "updated_at": "2026-06-15T13:34:04.840Z"
 }
