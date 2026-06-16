@@ -13,7 +13,7 @@
   "start_date": "2026-04-06",
   "end_date": "2026-06-01",
   "control_figma_url": null,
-  "treatment_figma_url": null,
+  "treatment_figma_url": "https://www.figma.com/design/jUqmjczJwk4yq4an3fpmO1/%F0%9F%9A%A6-Revamped-Account-setup---Quick-publish-experiences?node-id=2007-25718",
   "control_image_url": null,
   "control_description": "Legacy /account-setup flow",
   "control_pages": [
@@ -21,6 +21,60 @@
       "id": "page-1780958950093",
       "image_url": null,
       "figma_url": null
+    },
+    {
+      "id": "page-1781578173451-0",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781578173479-z249o.png",
+      "figma_url": null,
+      "caption": null
+    },
+    {
+      "id": "page-1781578175708-1",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781578175592-9mvhjs.png",
+      "figma_url": null,
+      "caption": null
+    },
+    {
+      "id": "page-1781578185841-2",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781578177801-9smal8.png",
+      "figma_url": null,
+      "caption": null
+    },
+    {
+      "id": "page-1781578203796-3",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781578203777-umkv6.png",
+      "figma_url": null,
+      "caption": null
+    },
+    {
+      "id": "page-1781578206704-4",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781578206589-imvps.png",
+      "figma_url": null,
+      "caption": null
+    },
+    {
+      "id": "page-1781578208631-5",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781578208633-m93fae.png",
+      "figma_url": null,
+      "caption": null
+    },
+    {
+      "id": "page-1781578209873-6",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781578209856-ef447z.png",
+      "figma_url": null,
+      "caption": null
+    },
+    {
+      "id": "page-1781578211827-7",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781578211427-o2itei.png",
+      "figma_url": null,
+      "caption": null
+    },
+    {
+      "id": "page-1781578225604-8",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781578225534-0sz8f6.png",
+      "figma_url": null,
+      "caption": null
     }
   ],
   "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780959052841-n3525r.png",
@@ -36,31 +90,31 @@
         {
           "id": "page-1780958950100",
           "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780959052841-n3525r.png",
-          "figma_url": null,
+          "figma_url": "https://www.figma.com/design/jUqmjczJwk4yq4an3fpmO1/%F0%9F%9A%A6-Revamped-Account-setup---Quick-publish-experiences?node-id=2007-25718",
           "caption": "Analyzing business, while showing site"
         },
         {
           "id": "page-1780959053462-0",
           "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780959053505-m3uorl.png",
-          "figma_url": null,
+          "figma_url": "https://www.figma.com/design/jUqmjczJwk4yq4an3fpmO1/%F0%9F%9A%A6-Revamped-Account-setup---Quick-publish-experiences?node-id=2007-25718",
           "caption": "Creating account card"
         },
         {
           "id": "page-1780959054142-1",
           "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780959054162-zk70dk.png",
-          "figma_url": null,
+          "figma_url": "https://www.figma.com/design/jUqmjczJwk4yq4an3fpmO1/%F0%9F%9A%A6-Revamped-Account-setup---Quick-publish-experiences?node-id=2007-25718",
           "caption": "Account card, step 2"
         },
         {
           "id": "page-1780959054862-2",
           "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780959054922-uflxar.png",
-          "figma_url": null,
+          "figma_url": "https://www.figma.com/design/jUqmjczJwk4yq4an3fpmO1/%F0%9F%9A%A6-Revamped-Account-setup---Quick-publish-experiences?node-id=2007-25718",
           "caption": "Reviewing brand"
         },
         {
           "id": "page-1780959055547-3",
           "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780959055572-ddbkkl.png",
-          "figma_url": null,
+          "figma_url": "https://www.figma.com/design/jUqmjczJwk4yq4an3fpmO1/%F0%9F%9A%A6-Revamped-Account-setup---Quick-publish-experiences?node-id=2007-25718",
           "caption": "Setup complete"
         }
       ]
@@ -96,5 +150,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-06-08T22:47:33.561Z",
-  "updated_at": "2026-06-08T22:54:54.186Z"
+  "updated_at": "2026-06-16T04:18:33.258Z"
 }
