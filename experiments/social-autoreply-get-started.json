@@ -12,14 +12,35 @@
   "status": "running",
   "start_date": "2026-05-26",
   "end_date": null,
-  "control_figma_url": null,
+  "control_figma_url": "https://www.figma.com/design/onCByuBwMN5ZEoC4sZYlKd/%F0%9F%93%8B-Get-started---MA-Vision?node-id=2007-25718",
   "treatment_figma_url": null,
-  "control_image_url": null,
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781576850716-l6g24.png",
   "control_description": "New sign-ups do not see a Social Auto-Reply recommendation in Get Started",
-  "control_pages": null,
-  "treatment_image_url": null,
+  "control_pages": [
+    {
+      "id": "page-1781576767648",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781576850716-l6g24.png",
+      "figma_url": "https://www.figma.com/design/onCByuBwMN5ZEoC4sZYlKd/%F0%9F%93%8B-Get-started---MA-Vision?node-id=2007-25718"
+    }
+  ],
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781576903647-oydjvj.png",
   "treatment_description": "New sign-ups see a Social Auto-Reply recommendation in Get Started (50/50 split on new accounts created after 5/26)",
-  "treatments": null,
+  "treatments": [
+    {
+      "id": "treatment",
+      "label": "Treatment",
+      "image_url": null,
+      "description": "New sign-ups see a Social Auto-Reply recommendation in Get Started (50/50 split on new accounts created after 5/26)",
+      "figma_url": null,
+      "pages": [
+        {
+          "id": "page-1781576767652",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781576903647-oydjvj.png",
+          "figma_url": null
+        }
+      ]
+    }
+  ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/social_autoreply_get_started/results",
   "sheets_url": null,
   "heap_url": null,
@@ -29,16 +50,18 @@
   "team_members": [
     {
       "name": "Abdul Khan",
-      "role": "Engineering"
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781576892381-rsaivt.png"
     },
     {
       "name": "Zahr Lyttle",
-      "role": "Product"
+      "role": "Product",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781576931870-1zoiy.png"
     }
   ],
   "slack_channel_url": "https://klaviyo.enterprise.slack.com/archives/C0AV1CY47CH",
   "source_id": null,
-  "created_by": "Claude",
+  "created_by": null,
   "created_at": "2026-06-16T02:25:44.898Z",
-  "updated_at": "2026-06-16T02:25:44.899Z"
+  "updated_at": "2026-06-16T02:29:02.858Z"
 }
