@@ -1,14 +1,14 @@
 {
   "id": "1781576744898",
-  "title": "Social Auto-Reply get started recommendation",
+  "title": "Social Auto-reply get started recommendation",
   "summary": "Does surfacing Social Auto-Reply in playbooks drive Auto-Reply activation?",
   "slug": "social-autoreply-get-started",
   "product_area": "Social",
   "test_topic": "Activation",
   "hypothesis": "We believe that surfacing a Social Auto-Reply recommendation for new sign-ups will drive Activation because users will be provided with another path to collecting profiles for lists and segments. We will measure success using 7-day Activation.",
-  "results": "Activation 7D: +3.9% ±7.2% relative to control (not statistically significant — experiment still running)",
+  "results": null,
   "learning": null,
-  "notes": "PRD: https://docs.google.com/document/d/1ZiOakCHCR0_BHq0yk4PTaMRzRYuM_SCLIbQk-dkSmqI/edit | Linear: https://linear.app/klaviyo/project/add-social-auto-replies-to-get-started-c8cf2d5f1fe9",
+  "notes": "<p>Exposure criteria: 50/50 split on new accounts created after 5/26</p><p><a target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary underline underline-offset-2 cursor-pointer\" href=\"https://docs.google.com/document/d/1ZiOakCHCR0_BHq0yk4PTaMRzRYuM_SCLIbQk-dkSmqI/edit\">PRD</a>  | <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary underline underline-offset-2 cursor-pointer\" href=\"https://linear.app/klaviyo/project/add-social-auto-replies-to-get-started-c8cf2d5f1fe9\">Linear</a></p>",
   "status": "running",
   "start_date": "2026-05-26",
   "end_date": null,
@@ -24,13 +24,13 @@
     }
   ],
   "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781577002772-6ps4j.png",
-  "treatment_description": "New sign-ups see a Social Auto-Reply recommendation in Get Started (50/50 split on new accounts created after 5/26)",
+  "treatment_description": "New sign-ups see a Social Auto-Reply recommendation in Get Started ",
   "treatments": [
     {
       "id": "treatment",
       "label": "Treatment",
       "image_url": null,
-      "description": "New sign-ups see a Social Auto-Reply recommendation in Get Started (50/50 split on new accounts created after 5/26)",
+      "description": "New sign-ups see a Social Auto-Reply recommendation in Get Started ",
       "figma_url": null,
       "pages": [
         {
@@ -63,5 +63,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-06-16T02:25:44.898Z",
-  "updated_at": "2026-06-16T02:30:37.245Z"
+  "updated_at": "2026-06-16T02:36:50.399Z"
 }
