@@ -1,0 +1,44 @@
+{
+  "id": "1781576744898",
+  "title": "Social Auto-Reply get started recommendation",
+  "summary": "Does surfacing Social Auto-Reply in playbooks drive Auto-Reply activation?",
+  "slug": "social-autoreply-get-started",
+  "product_area": "Social",
+  "test_topic": "Activation",
+  "hypothesis": "We believe that surfacing a Social Auto-Reply recommendation for new sign-ups will drive Activation because users will be provided with another path to collecting profiles for lists and segments. We will measure success using 7-day Activation.",
+  "results": "Activation 7D: +3.9% ±7.2% relative to control (not statistically significant — experiment still running)",
+  "learning": null,
+  "notes": "PRD: https://docs.google.com/document/d/1ZiOakCHCR0_BHq0yk4PTaMRzRYuM_SCLIbQk-dkSmqI/edit | Linear: https://linear.app/klaviyo/project/add-social-auto-replies-to-get-started-c8cf2d5f1fe9",
+  "status": "running",
+  "start_date": "2026-05-26",
+  "end_date": null,
+  "control_figma_url": null,
+  "treatment_figma_url": null,
+  "control_image_url": null,
+  "control_description": "New sign-ups do not see a Social Auto-Reply recommendation in Get Started",
+  "control_pages": null,
+  "treatment_image_url": null,
+  "treatment_description": "New sign-ups see a Social Auto-Reply recommendation in Get Started (50/50 split on new accounts created after 5/26)",
+  "treatments": null,
+  "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/social_autoreply_get_started/results",
+  "sheets_url": null,
+  "heap_url": null,
+  "outcome": null,
+  "winner": null,
+  "guidelines": null,
+  "team_members": [
+    {
+      "name": "Abdul Khan",
+      "role": "Engineering"
+    },
+    {
+      "name": "Zahr Lyttle",
+      "role": "Product"
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.enterprise.slack.com/archives/C0AV1CY47CH",
+  "source_id": null,
+  "created_by": "Claude",
+  "created_at": "2026-06-16T02:25:44.898Z",
+  "updated_at": "2026-06-16T02:25:44.899Z"
+}
