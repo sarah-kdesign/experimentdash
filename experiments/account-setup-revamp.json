@@ -14,14 +14,9 @@
   "end_date": "2026-06-01",
   "control_figma_url": null,
   "treatment_figma_url": "https://www.figma.com/design/jUqmjczJwk4yq4an3fpmO1/%F0%9F%9A%A6-Revamped-Account-setup---Quick-publish-experiences?node-id=2007-25718",
-  "control_image_url": null,
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781578173479-z249o.png",
   "control_description": "Legacy /account-setup flow",
   "control_pages": [
-    {
-      "id": "page-1780958950093",
-      "image_url": null,
-      "figma_url": null
-    },
     {
       "id": "page-1781578173451-0",
       "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781578173479-z249o.png",
@@ -150,5 +145,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-06-08T22:47:33.561Z",
-  "updated_at": "2026-06-16T04:18:33.258Z"
+  "updated_at": "2026-06-16T04:39:25.548Z"
 }
