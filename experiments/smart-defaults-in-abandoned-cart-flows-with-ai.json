@@ -6,10 +6,10 @@
   "product_area": "Flows",
   "test_topic": "Text adoption",
   "hypothesis": "<p>We believe that automating the addition and configuration of the text message action in an account's existing abandoned checkout email flow for companies that have at least 1 existing abandoned checkout email that has recovered at least $1500 in revenue over the last quarter will lead to increased SMS sending because of the reduced friction from automatically selecting and placing the text message action in a best practice position. </p><p>We will measure success using new 7D and new 28D SMS sends, and monitor new 7D and 28D SMS flows to ensure no negative impact.</p>",
-  "results": null,
-  "learning": null,
+  "results": "<p><strong>Final Results</strong></p><p><em>7-day lift</em>:</p><p>• SMS Messages Sent: +2.29%</p><p>• SMS Flow Sends: +2.16%</p><p>• SMS Campaign Sends: +0.89% (this one is interesting we can discuss more with the group tomorrow)<br></p><p><em>28-day lift</em> (same metrics measured over a full 28 days):</p><p>• SMS Messages Sent: +3.24%</p><p>• SMS Flow Sends: +3.78%</p><p><em>Interaction data</em></p><ul class=\"list-disc pl-4\"><li><p>19% turned on</p></li><li><p>30.6% exited</p></li><li><p>9.3% clicked edit</p></li><li><p>Of users who click edit, 66.4% go on to set the flow live, up from ~45% on the old workflow.</p></li></ul><p></p>",
+  "learning": "<p></p><ul class=\"list-disc pl-4\"><li><p>19% turned on</p></li><li><p>30.6% exited</p></li><li><p>9.3% clicked edit</p></li></ul><p>Of users who click edit, 66.4% go on to set the flow live, up from ~45% on the old workflow.</p>",
   "notes": "<p>Link to the <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary underline underline-offset-2 cursor-pointer\" href=\"https://docs.google.com/document/d/1f2L2vz07OQxO-h7q5j9v4Zpw70-DlBp3R3bBkFsYaT0/edit?tab=t.0\">PRD</a></p>",
-  "status": "running",
+  "status": "completed",
   "start_date": "2026-04-23",
   "end_date": null,
   "control_figma_url": null,
@@ -50,9 +50,9 @@
   ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/adoption_add_sms_to_flows_v2/results",
   "sheets_url": null,
-  "heap_url": null,
-  "outcome": null,
-  "winner": null,
+  "heap_url": "https://heapanalytics.com/app/env/91017801/journey/chart/Add-SMS-V2-19529587",
+  "outcome": "ga",
+  "winner": "t-1777246329187",
   "guidelines": null,
   "team_members": [
     {
@@ -78,5 +78,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-04-26T23:36:19.537Z",
-  "updated_at": "2026-06-08T21:22:02.935Z"
+  "updated_at": "2026-06-18T18:25:03.016Z"
 }
