@@ -14,9 +14,17 @@
   "end_date": "2026-02-03",
   "control_figma_url": null,
   "treatment_figma_url": null,
-  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770852400726-z6evvn.png",
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1784586003353-ksyu6a.png",
   "control_description": "Tested across 289,764 accounts, with 145,366 accounts exposed to the control condition.",
-  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770852391013-g9gu8s.png",
+  "control_pages": [
+    {
+      "id": "page-1",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1784586003353-ksyu6a.png",
+      "figma_url": null,
+      "caption": null
+    }
+  ],
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1784585996040-m9vhf.png",
   "treatment_description": "Tested across 289,764 accounts, with 144,398 accounts exposed to the control condition.",
   "treatments": [
     {
@@ -24,7 +32,14 @@
       "label": "Treatment",
       "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1770852391013-g9gu8s.png",
       "description": "Tested across 289,764 accounts, with 144,398 accounts exposed to the control condition.",
-      "figma_url": null
+      "figma_url": null,
+      "pages": [
+        {
+          "id": "page-1784585670100",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1784585996040-m9vhf.png",
+          "figma_url": null
+        }
+      ]
     }
   ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/adoption_sms_guide_nav_item/summary",
@@ -52,5 +67,5 @@
   "source_id": "SMS Set Up Guide in Nav",
   "created_by": null,
   "created_at": "2026-02-11T22:52:02.508Z",
-  "updated_at": "2026-02-26T05:15:32.944Z"
+  "updated_at": "2026-07-20T22:20:08.847Z"
 }
