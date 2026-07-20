@@ -6,12 +6,12 @@
   "product_area": "Flows",
   "test_topic": "Activation",
   "hypothesis": "We believe that some users are not creating and publishing Flows in their first 7 days because they do not have a clear path to value on the Flows empty state. If we improve the Flows empty state to support usability, personalization, and discovery, then we will empower more customers to create and publish flows, and thus increase Activation.",
-  "results": null,
+  "results": "<p>Final results are:</p><ul class=\"list-disc pl-4\"><li><p>Flows activation funnel (not statsig, but directionally positive and some were close to being statsig)</p><ul class=\"list-disc pl-4\"><li><p>Activation +3.0%</p></li><li><p>Creates: +0.6%</p></li><li><p>Publishes: +2.4</p></li><li><p>Sends: +5.4%</p></li></ul></li><li><p># of flows created per account:</p><ul class=\"list-disc pl-4\"><li><p>Treatment:</p><ul class=\"list-disc pl-4\"><li><p>7d: 1.67 flows (+4.6%)</p></li><li><p>28d: 2.36 flows (+7%)</p></li></ul></li></ul></li></ul><p></p>",
   "learning": null,
   "notes": "<p>PRD: https://docs.google.com/document/d/14xL1rNkmwjlOhWlfyo-seqdO5SWugpcCc887Z-13n3s/edit. </p>",
-  "status": "running",
+  "status": "completed",
   "start_date": "2026-05-18",
-  "end_date": null,
+  "end_date": "2026-07-16",
   "control_figma_url": null,
   "treatment_figma_url": "https://www.figma.com/design/z4scpirhdhZAMC9z9yiwKY/Improved-Flows-Empty-State-and-Template-Library?node-id=2007-25718&m=dev",
   "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780953380621-1z88umm.png",
@@ -69,9 +69,9 @@
   ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/flows_empty_state/results",
   "sheets_url": null,
-  "heap_url": null,
-  "outcome": null,
-  "winner": null,
+  "heap_url": "https://heapanalytics.com/app/env/91017801/dashboard/Proj-Flows-Empty-State-Library-567965",
+  "outcome": "ga",
+  "winner": "treatment",
   "guidelines": null,
   "team_members": [
     {
@@ -94,5 +94,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-05-18T22:42:29.478Z",
-  "updated_at": "2026-06-08T21:16:33.384Z"
+  "updated_at": "2026-07-20T18:47:52.677Z"
 }
