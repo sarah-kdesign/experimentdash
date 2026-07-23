@@ -1,6 +1,6 @@
 {
   "id": "1784835408996",
-  "title": "Verticalized empty states - campaigns",
+  "title": "Verticalized empty states, campaigns",
   "summary": "Does a vertical-specific empty state increase campaign creation?",
   "slug": "verticalized-empty-states-campaigns",
   "product_area": "Campaigns",
@@ -13,13 +13,27 @@
   "start_date": "2026-07-23",
   "end_date": null,
   "control_figma_url": null,
-  "treatment_figma_url": "https://www.figma.com/design/p18VoBI6wVXwKmifgt0lMi/Verticalized-Empty-States",
+  "treatment_figma_url": null,
   "control_image_url": null,
   "control_description": "Current generic (non-verticalized) campaigns empty state",
-  "control_pages": null,
+  "control_pages": [
+    {
+      "id": "page-1784835485463",
+      "image_url": null,
+      "figma_url": null
+    }
+  ],
   "treatment_image_url": null,
   "treatment_description": "Verticalized campaigns empty state with industry-specific banner",
-  "treatments": null,
+  "treatments": [
+    {
+      "id": "treatment",
+      "label": "Treatment",
+      "image_url": null,
+      "description": "Verticalized campaigns empty state with industry-specific banner",
+      "figma_url": "https://www.figma.com/design/p18VoBI6wVXwKmifgt0lMi/Verticalized-Empty-States"
+    }
+  ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/verticalized_campaigns_empty_state/setup",
   "sheets_url": null,
   "heap_url": null,
@@ -28,29 +42,33 @@
   "guidelines": null,
   "team_members": [
     {
+      "id": "1784835581067",
+      "name": "Evan Chapman",
+      "role": "Product",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1784835617678-s0luht.png"
+    },
+    {
+      "id": "1784835521073",
       "name": "Tanner Aslan",
-      "role": "Engineering"
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1784835567620-drqemu.png"
     },
     {
       "name": "Zahr Lyttle",
-      "role": "Growth"
+      "role": "Product",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781576931870-1zoiy.png",
+      "id": "1784835515906"
     },
     {
-      "name": "Matt Wilson",
-      "role": "Design"
-    },
-    {
+      "id": "1784835511723",
       "name": "Grace Uecker",
-      "role": "Product Design"
-    },
-    {
-      "name": "Evan Chapman",
-      "role": "Product Management"
+      "role": "Design",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772080365358-04r0rr.png"
     }
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1784823812004169",
   "source_id": null,
-  "created_by": "Claude",
+  "created_by": null,
   "created_at": "2026-07-23T19:36:48.996Z",
-  "updated_at": "2026-07-23T19:36:48.996Z"
+  "updated_at": "2026-07-23T19:40:29.248Z"
 }
