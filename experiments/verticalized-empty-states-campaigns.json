@@ -13,17 +13,17 @@
   "start_date": "2026-07-23",
   "end_date": null,
   "control_figma_url": null,
-  "treatment_figma_url": null,
-  "control_image_url": null,
+  "treatment_figma_url": "https://www.figma.com/design/p18VoBI6wVXwKmifgt0lMi/Verticalized-Empty-States?node-id=1900-89230&t=HS042vhow59Dl1f8-4",
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1784836087857-ae404.png",
   "control_description": "Current generic (non-verticalized) campaigns empty state",
   "control_pages": [
     {
       "id": "page-1784835485463",
-      "image_url": null,
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1784836087857-ae404.png",
       "figma_url": null
     }
   ],
-  "treatment_image_url": null,
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1784836061282-cebyj7.png",
   "treatment_description": "Verticalized campaigns empty state with industry-specific banner",
   "treatments": [
     {
@@ -31,7 +31,38 @@
       "label": "Treatment",
       "image_url": null,
       "description": "Verticalized campaigns empty state with industry-specific banner",
-      "figma_url": "https://www.figma.com/design/p18VoBI6wVXwKmifgt0lMi/Verticalized-Empty-States"
+      "figma_url": "https://www.figma.com/design/p18VoBI6wVXwKmifgt0lMi/Verticalized-Empty-States",
+      "pages": [
+        {
+          "id": "page-1784835750461",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1784836061282-cebyj7.png",
+          "figma_url": "https://www.figma.com/design/p18VoBI6wVXwKmifgt0lMi/Verticalized-Empty-States?node-id=1900-89230&t=HS042vhow59Dl1f8-4"
+        },
+        {
+          "id": "page-1784836065928-0",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1784836065586-4t7xey.png",
+          "figma_url": "https://www.figma.com/design/p18VoBI6wVXwKmifgt0lMi/Verticalized-Empty-States?node-id=1900-89230&t=HS042vhow59Dl1f8-4",
+          "caption": null
+        },
+        {
+          "id": "page-1784836069009-1",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1784836068650-45bkp.png",
+          "figma_url": "https://www.figma.com/design/p18VoBI6wVXwKmifgt0lMi/Verticalized-Empty-States?node-id=1900-89230&t=HS042vhow59Dl1f8-4",
+          "caption": null
+        },
+        {
+          "id": "page-1784836072832-2",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1784836072246-hsv77r.png",
+          "figma_url": "https://www.figma.com/design/p18VoBI6wVXwKmifgt0lMi/Verticalized-Empty-States?node-id=1900-89230&t=HS042vhow59Dl1f8-4",
+          "caption": null
+        },
+        {
+          "id": "page-1784836078679-3",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1784836078262-va8t5b.png",
+          "figma_url": "https://www.figma.com/design/p18VoBI6wVXwKmifgt0lMi/Verticalized-Empty-States?node-id=1900-89230&t=HS042vhow59Dl1f8-4",
+          "caption": null
+        }
+      ]
     }
   ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/verticalized_campaigns_empty_state/setup",
@@ -70,5 +101,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-07-23T19:36:48.996Z",
-  "updated_at": "2026-07-23T19:40:29.248Z"
+  "updated_at": "2026-07-23T19:48:51.124Z"
 }
