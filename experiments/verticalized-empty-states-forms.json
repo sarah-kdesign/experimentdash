@@ -1,0 +1,48 @@
+{
+  "id": "1784828296918",
+  "title": "Verticalized empty states - forms",
+  "summary": "Does a verticalized Forms empty state — with industry-relevant copy and imagery for Retail and Hospitality signups — increase 7-day activation over the existing banner?",
+  "slug": "verticalized-empty-states-forms",
+  "product_area": "Forms",
+  "test_topic": "Activation",
+  "hypothesis": "We believe that replacing the current Forms empty state with a verticalized empty state for Retail and Hospitality signups will improve 7-day activation because showing industry-relevant copy and imagery at a high-visibility early-product surface should make Klaviyo feel more relevant to the customer's business without changing the underlying form-creation workflows. We will measure success using Activation 7D, and monitor form creation, blank form creation, enable-onsite-tracking clicks, template clicks, and guardrail metrics for regressions in the existing empty-state funnel to ensure no negative impact.",
+  "results": null,
+  "learning": null,
+  "notes": "PRD: https://docs.google.com/document/d/198YerpfMHr-o4wV7Hzl-552r-Fsvh-7MyR3ZkbBvblg/edit. Statsig group labels say \"Flows Banner\" instead of \"Forms Banner\" — likely a copy/paste mislabel, worth a fix in Statsig. Distinct from the separate Flows empty-state experiment analyzed 7/21/26. Design screenshot attached in Slack — upload via admin panel if wanted.",
+  "status": "running",
+  "start_date": "2026-07-16",
+  "end_date": null,
+  "control_figma_url": null,
+  "treatment_figma_url": "https://www.figma.com/design/p18VoBI6wVXwKmifgt0lMi/Verticalized-Empty-States?node-id=1896-57958&t=68goTRNbmIsLMFWC-1",
+  "control_image_url": null,
+  "control_description": "Existing (non-verticalized) Forms empty state banner",
+  "control_pages": null,
+  "treatment_image_url": null,
+  "treatment_description": "Verticalized Forms empty state banner, tailored copy/imagery for Retail and Hospitality signups",
+  "treatments": null,
+  "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/verticalized_forms_empty_state/results",
+  "sheets_url": null,
+  "heap_url": null,
+  "outcome": null,
+  "winner": null,
+  "guidelines": null,
+  "team_members": [
+    {
+      "name": "Celeste Adams-Gutierrez",
+      "role": "Engineering"
+    },
+    {
+      "name": "Zahr Lyttle",
+      "role": "Product"
+    },
+    {
+      "name": "Matt Wilson",
+      "role": "Design"
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1782841500478749",
+  "source_id": null,
+  "created_by": "Claude",
+  "created_at": "2026-07-23T17:38:16.918Z",
+  "updated_at": "2026-07-23T17:38:16.918Z"
+}
