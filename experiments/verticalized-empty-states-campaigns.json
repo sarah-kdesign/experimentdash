@@ -1,0 +1,56 @@
+{
+  "id": "1784835381497",
+  "title": "Verticalized empty states - campaigns",
+  "summary": "Does a vertical-specific empty state increase campaign creation?",
+  "slug": "verticalized-empty-states-campaigns",
+  "product_area": "Campaigns",
+  "test_topic": "Activation",
+  "hypothesis": "We believe that replacing the current Campaigns empty state with a verticalized empty state for all signups will improve 7-day activation because showing industry-relevant copy and imagery at a high-visibility early-product surface should make Klaviyo feel more relevant to the customer's business without changing the underlying campaign-creation workflows. We will measure success using Activation 7D, and monitor campaign creation for regressions in the existing empty-state funnel to ensure no negative impact.",
+  "results": null,
+  "learning": null,
+  "notes": "PRD: https://docs.google.com/document/d/198YerpfMHr-o4wV7Hzl-552r-Fsvh-7MyR3ZkbBvblg/edit?tab=t.nzexquxh012z. Part of a broader initiative to make the platform less e-commerce centric; a flows version is planned next. A design screenshot was attached in the Slack thread (not embedded here, requires auth). No matching entry found in the Adoption Experiment Tracker FY26 or K60 Growth Project Plan.",
+  "status": "running",
+  "start_date": "2026-07-23",
+  "end_date": null,
+  "control_figma_url": null,
+  "treatment_figma_url": "https://www.figma.com/design/p18VoBI6wVXwKmifgt0lMi/Verticalized-Empty-States?node-id=1900-18549&t=fa6Ir0ioZ7UH3qqs-0",
+  "control_image_url": null,
+  "control_description": "Current generic (non-verticalized) campaigns empty state",
+  "control_pages": null,
+  "treatment_image_url": null,
+  "treatment_description": "Verticalized campaigns empty state with industry-specific banner",
+  "treatments": null,
+  "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/verticalized_campaigns_empty_state/setup",
+  "sheets_url": null,
+  "heap_url": null,
+  "outcome": null,
+  "winner": null,
+  "guidelines": null,
+  "team_members": [
+    {
+      "name": "Tanner Aslan",
+      "role": "Engineering"
+    },
+    {
+      "name": "Zahr Lyttle",
+      "role": "Growth"
+    },
+    {
+      "name": "Matt Wilson",
+      "role": "Design"
+    },
+    {
+      "name": "Grace Uecker",
+      "role": "Product Design"
+    },
+    {
+      "name": "Evan Chapman",
+      "role": "Product Management"
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1784823812004169",
+  "source_id": null,
+  "created_by": "Claude",
+  "created_at": "2026-07-23T19:36:21.498Z",
+  "updated_at": "2026-07-23T19:36:21.502Z"
+}
