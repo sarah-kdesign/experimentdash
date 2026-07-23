@@ -1,7 +1,7 @@
 {
   "id": "1784828308528",
-  "title": "Verticalized empty states - forms",
-  "summary": "Does a verticalized Forms empty state — with industry-relevant copy and imagery for Retail and Hospitality signups — increase 7-day activation over the existing banner?",
+  "title": "Verticalized empty states, forms",
+  "summary": " Does a vertical-specific empty state increase forms creation?",
   "slug": "verticalized-empty-states-forms",
   "product_area": "Forms",
   "test_topic": "Activation",
@@ -36,7 +36,8 @@
         {
           "id": "page-1784835679220",
           "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1784835686465-gwo20q.png",
-          "figma_url": "https://www.figma.com/design/p18VoBI6wVXwKmifgt0lMi/Verticalized-Empty-States?node-id=1896-58029&t=HS042vhow59Dl1f8-4"
+          "figma_url": "https://www.figma.com/design/p18VoBI6wVXwKmifgt0lMi/Verticalized-Empty-States?node-id=1896-58029&t=HS042vhow59Dl1f8-4",
+          "caption": "Food and beverage or restaurant example"
         }
       ]
     }
@@ -83,5 +84,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-07-23T17:38:28.528Z",
-  "updated_at": "2026-07-23T19:42:22.134Z"
+  "updated_at": "2026-07-23T19:50:37.589Z"
 }
