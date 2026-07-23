@@ -6,7 +6,7 @@
   "product_area": "Social",
   "test_topic": "Activation",
   "hypothesis": "We believe that surfacing a Social Auto-Reply recommendation for new sign-ups will drive Activation because users will be provided with another path to collecting profiles for lists and segments. We will measure success using 7-day Activation.",
-  "results": null,
+  "results": "<p>+193% ±133% in live autoreply in 7 days</p><p>+124% ±145% in live autoreply in 28 days </p>",
   "learning": null,
   "notes": "<p>Exposure criteria: 50/50 split on new accounts created after 5/26</p><p><a target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary underline underline-offset-2 cursor-pointer\" href=\"https://docs.google.com/document/d/1ZiOakCHCR0_BHq0yk4PTaMRzRYuM_SCLIbQk-dkSmqI/edit\">PRD</a>  | <a target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary underline underline-offset-2 cursor-pointer\" href=\"https://linear.app/klaviyo/project/add-social-auto-replies-to-get-started-c8cf2d5f1fe9\">Linear</a></p>",
   "status": "running",
@@ -45,7 +45,7 @@
   "sheets_url": null,
   "heap_url": null,
   "outcome": null,
-  "winner": null,
+  "winner": "treatment",
   "guidelines": null,
   "team_members": [
     {
@@ -63,5 +63,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-06-16T02:25:44.898Z",
-  "updated_at": "2026-06-16T02:36:50.399Z"
+  "updated_at": "2026-07-23T16:58:19.406Z"
 }
