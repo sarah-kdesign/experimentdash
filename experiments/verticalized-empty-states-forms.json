@@ -13,17 +13,17 @@
   "start_date": "2026-07-16",
   "end_date": null,
   "control_figma_url": null,
-  "treatment_figma_url": null,
-  "control_image_url": null,
+  "treatment_figma_url": "https://www.figma.com/design/p18VoBI6wVXwKmifgt0lMi/Verticalized-Empty-States?node-id=1896-58029&t=HS042vhow59Dl1f8-4",
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1784835726756-mm6ol.png",
   "control_description": "Existing (non-verticalized) Forms empty state banner",
   "control_pages": [
     {
       "id": "page-1784835314421",
-      "image_url": null,
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1784835726756-mm6ol.png",
       "figma_url": null
     }
   ],
-  "treatment_image_url": null,
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1784835686465-gwo20q.png",
   "treatment_description": "Verticalized Forms empty state banner, tailored copy/imagery for Retail and Hospitality signups",
   "treatments": [
     {
@@ -31,7 +31,14 @@
       "label": "Treatment",
       "image_url": null,
       "description": "Verticalized Forms empty state banner, tailored copy/imagery for Retail and Hospitality signups",
-      "figma_url": "https://www.figma.com/design/p18VoBI6wVXwKmifgt0lMi/Verticalized-Empty-States?node-id=1896-57958&t=68goTRNbmIsLMFWC-1"
+      "figma_url": "https://www.figma.com/design/p18VoBI6wVXwKmifgt0lMi/Verticalized-Empty-States?node-id=1896-57958&t=68goTRNbmIsLMFWC-1",
+      "pages": [
+        {
+          "id": "page-1784835679220",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1784835686465-gwo20q.png",
+          "figma_url": "https://www.figma.com/design/p18VoBI6wVXwKmifgt0lMi/Verticalized-Empty-States?node-id=1896-58029&t=HS042vhow59Dl1f8-4"
+        }
+      ]
     }
   ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/verticalized_forms_empty_state/results",
@@ -41,6 +48,18 @@
   "winner": null,
   "guidelines": null,
   "team_members": [
+    {
+      "id": "1784835679218",
+      "name": "Evan Chapman",
+      "role": "Product",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1784835617678-s0luht.png"
+    },
+    {
+      "id": "1784835676652",
+      "name": "Grace Uecker",
+      "role": "Design",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1772080365358-04r0rr.png"
+    },
     {
       "id": "1784835446417",
       "name": "Celeste Adams-Gutierrez",
@@ -64,5 +83,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-07-23T17:38:28.528Z",
-  "updated_at": "2026-07-23T19:37:42.938Z"
+  "updated_at": "2026-07-23T19:42:22.134Z"
 }
