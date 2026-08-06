@@ -11,7 +11,7 @@
   "notes": "<p>Two Statsig experiments:</p><ol class=\"list-decimal pl-4\"><li><p>product_trial_hub (new accounts, 50%) and</p></li><li><p>product_trial_hub_existing_accounts (existing accounts, 10% ramping to 50%, live 6/1)</p></li></ol><p><a target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-primary underline underline-offset-2 cursor-pointer\" href=\"https://docs.google.com/document/d/1sljNHZvIRhuzMi9HLdnD3_0mObZeTQEgVxEo2rNWi_k/edit?tab=t.0#heading=h.5w68j6ha7gy2\">Mini-spec</a></p><p></p>",
   "status": "running",
   "start_date": "2026-05-26",
-  "end_date": null,
+  "end_date": "2026-08-06",
   "control_figma_url": null,
   "treatment_figma_url": null,
   "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1780942187483-7pzhvq.png",
@@ -66,7 +66,7 @@
   "sheets_url": null,
   "heap_url": "https://heapanalytics.com/app/env/91017801/dashboard/Product-Trial-Hub-568460?date_range=30-days",
   "outcome": null,
-  "winner": null,
+  "winner": "treatment",
   "guidelines": null,
   "team_members": [
     {
@@ -109,5 +109,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-06-08T17:09:07.237Z",
-  "updated_at": "2026-06-12T17:24:53.225Z"
+  "updated_at": "2026-08-06T15:17:29.834Z"
 }
