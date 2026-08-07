@@ -1,5 +1,5 @@
 {
-  "id": "1786063464540",
+  "id": "1786063477079",
   "title": "Exclude images from Get Started forms",
   "summary": "Does excluding the side image (instead of an AI-selected one) from Get Started form previews increase form publishes?",
   "slug": "exclude-images-from-get-started-forms",
@@ -30,6 +30,6 @@
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1780329373604099",
   "source_id": null,
   "created_by": "Claude",
-  "created_at": "2026-08-07T00:44:24.540Z",
-  "updated_at": "2026-08-07T00:44:24.541Z"
+  "created_at": "2026-08-07T00:44:37.079Z",
+  "updated_at": "2026-08-07T00:44:37.079Z"
 }
