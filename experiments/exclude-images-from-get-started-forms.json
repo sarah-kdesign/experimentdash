@@ -8,7 +8,7 @@
   "hypothesis": "Generating form previews on Get Started takes an average of 28 seconds, and the bulk of that time (20 seconds) is spent selecting a potential image to attach to the form via LLM analysis of scraped product images. Decreasing the time to create form previews will increase form publishes because users will not get stuck on a loading state. Additionally, for 56% of forms no suitable image can be found at all, wasting 20 seconds for nothing — the benefit gained from quicker generation should outweigh any lost benefit from attaching images in the 44% of forms where an image is found.",
   "results": null,
   "learning": null,
-  "notes": "Statsig experiment name: get_started_welcome_form_skip_side_image. Two design screenshots (with vs. without side image) were attached in the Slack thread but require Slack auth to embed — upload manually via admin panel if desired. No kudos section in the thread, so no team members were auto-populated (author: Evan Lamberg, Software Engineering). Checked Adoption Experiment Tracker FY26 and K60 Growth Project Plan sheets for cross-reference — no matching entry found.",
+  "notes": null,
   "status": "running",
   "start_date": "2026-06-01",
   "end_date": null,
@@ -64,5 +64,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-08-07T00:44:37.079Z",
-  "updated_at": "2026-08-07T00:51:39.429Z"
+  "updated_at": "2026-08-07T00:52:17.627Z"
 }
