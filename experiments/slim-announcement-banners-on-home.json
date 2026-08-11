@@ -14,12 +14,33 @@
   "end_date": null,
   "control_figma_url": null,
   "treatment_figma_url": null,
-  "control_image_url": null,
+  "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1786476415241-293jem.png",
   "control_description": "Original banner with image, taller height",
-  "control_pages": null,
-  "treatment_image_url": null,
+  "control_pages": [
+    {
+      "id": "page-1786476409265",
+      "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1786476415241-293jem.png",
+      "figma_url": null
+    }
+  ],
+  "treatment_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1786476420811-5rx6xc.png",
   "treatment_description": "Slim, text-only banner, no image, shorter height (applies to all 5 Home banners: hospitality reauth, F&B Loyalty reauth, Cross-sell, WhatsApp, Autoreplies)",
-  "treatments": null,
+  "treatments": [
+    {
+      "id": "treatment",
+      "label": "Treatment",
+      "image_url": null,
+      "description": "Slim, text-only banner, no image, shorter height (applies to all 5 Home banners: hospitality reauth, F&B Loyalty reauth, Cross-sell, WhatsApp, Autoreplies)",
+      "figma_url": null,
+      "pages": [
+        {
+          "id": "page-1786476418512",
+          "image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1786476420811-5rx6xc.png",
+          "figma_url": null
+        }
+      ]
+    }
+  ],
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/adoption_slim_banner_experiment/setup",
   "sheets_url": null,
   "heap_url": null,
@@ -29,40 +50,13 @@
   "team_members": [
     {
       "name": "Tuong Minh Nguyen",
-      "role": "Engineering"
-    },
-    {
-      "name": "Joe Carpenito",
-      "role": "Engineering"
-    },
-    {
-      "name": "Irene Hnatiw",
-      "role": "Engineering"
-    },
-    {
-      "name": "Drew Condon",
-      "role": "Product Design"
-    },
-    {
-      "name": "Brian Strachan",
-      "role": "Design"
-    },
-    {
-      "name": "Nikolaos Katsikis",
-      "role": "Product Analytics"
-    },
-    {
-      "name": "Celeste Adams-Gutierrez",
-      "role": "Engineering"
-    },
-    {
-      "name": "Chris Bulger",
-      "role": "Growth"
+      "role": "Engineering",
+      "avatar_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1786476492342-1735wn.png"
     }
   ],
   "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1786466527081509",
   "source_id": null,
-  "created_by": "Claude",
+  "created_by": null,
   "created_at": "2026-08-11T19:25:03.853Z",
-  "updated_at": "2026-08-11T19:25:03.853Z"
+  "updated_at": "2026-08-11T19:28:15.714Z"
 }
