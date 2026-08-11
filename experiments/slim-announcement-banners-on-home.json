@@ -1,0 +1,68 @@
+{
+  "id": "1786476290307",
+  "title": "slim announcement banners on home",
+  "summary": "Does a slimmer, text-only banner affect banner engagement?",
+  "slug": "slim-announcement-banners-on-home",
+  "product_area": "Home",
+  "test_topic": "Home banner engagement",
+  "hypothesis": "We believe that showing a slimmer, text-only banner to users who currently see a dashboard banner will free up space on the dashboard without hurting how often people act on the banner because a shorter banner is less intrusive while still surfacing the same message. We will measure success using banner CVR, and monitor dismissal rate and engagement rate to ensure no negative impact.",
+  "results": null,
+  "learning": null,
+  "notes": "Two design screenshots were attached in the Slack thread — upload via admin panel if wanted. Not found in Adoption Experiment Tracker FY26 or K60 Growth Project Plan. Start date sourced from Statsig experiment launch date, not stated in the Slack thread. Released to 10% of accounts to validate do-no-harm before ramping up.",
+  "status": "running",
+  "start_date": "2026-08-10",
+  "end_date": null,
+  "control_figma_url": null,
+  "treatment_figma_url": null,
+  "control_image_url": null,
+  "control_description": "Original banner with image, taller height",
+  "control_pages": null,
+  "treatment_image_url": null,
+  "treatment_description": "Slim, text-only banner, no image, shorter height (applies to all 5 Home banners: hospitality reauth, F&B Loyalty reauth, Cross-sell, WhatsApp, Autoreplies)",
+  "treatments": null,
+  "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/adoption_slim_banner_experiment/setup",
+  "sheets_url": null,
+  "heap_url": null,
+  "outcome": null,
+  "winner": null,
+  "guidelines": null,
+  "team_members": [
+    {
+      "name": "Tuong Minh Nguyen",
+      "role": "Engineering"
+    },
+    {
+      "name": "Joe Carpenito",
+      "role": "Engineering"
+    },
+    {
+      "name": "Irene Hnatiw",
+      "role": "Engineering"
+    },
+    {
+      "name": "Drew Condon",
+      "role": "Product Design"
+    },
+    {
+      "name": "Brian Strachan",
+      "role": "Design"
+    },
+    {
+      "name": "Nikolaos Katsikis",
+      "role": "Product Analytics"
+    },
+    {
+      "name": "Celeste Adams-Gutierrez",
+      "role": "Engineering"
+    },
+    {
+      "name": "Chris Bulger",
+      "role": "Growth"
+    }
+  ],
+  "slack_channel_url": "https://klaviyo.slack.com/archives/C013ZJ231B3/p1786466527081509",
+  "source_id": null,
+  "created_by": "Claude",
+  "created_at": "2026-08-11T19:24:50.307Z",
+  "updated_at": "2026-08-11T19:24:50.308Z"
+}
