@@ -6,12 +6,12 @@
   "product_area": "Text setup guide",
   "test_topic": "Text activation",
   "hypothesis": "Showing the right tasks in the right order, with a short explanation of what's blocking the account and what to do next, reduces the activation gap for accounts who have completed setup but have not sent an SMS. We believe that this framing will provide clarity and reduce analysis paralysis when it comes to SMS activation.",
-  "results": null,
+  "results": "<p>The strategy guide had a directionally positive (but not stat sig) impact on the primary metrics of sms send in 7 days and 28 days. </p>",
   "learning": null,
   "notes": "<p>Future work planned to expand the \"complete tasks from within the guide\" principle.</p>",
-  "status": "running",
+  "status": "completed",
   "start_date": "2026-06-10",
-  "end_date": null,
+  "end_date": "2026-08-13",
   "control_figma_url": null,
   "treatment_figma_url": "https://www.figma.com/design/MZCUMh8g8MALE5hD89PqDn/Add-SMS-to-flow?node-id=2321-28337&t=LZ0WuvtVWRxDDIIK-4",
   "control_image_url": "https://m59ak1hu8cngtxvt.public.blob.vercel-storage.com/experiments/1781124726570-qbowbq.png",
@@ -51,8 +51,8 @@
   "statsig_url": "https://console.statsig.com/728nqXuLnEq17gcAxNBvNN/experiments/adoption_ai_strategy_playbooks/results",
   "sheets_url": null,
   "heap_url": null,
-  "outcome": null,
-  "winner": null,
+  "outcome": "ga",
+  "winner": "treatment",
   "guidelines": null,
   "team_members": [
     {
@@ -84,5 +84,5 @@
   "source_id": null,
   "created_by": null,
   "created_at": "2026-06-10T20:25:19.092Z",
-  "updated_at": "2026-06-10T20:53:07.264Z"
+  "updated_at": "2026-08-13T22:50:54.479Z"
 }
